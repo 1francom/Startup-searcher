@@ -1,5 +1,6 @@
 name: Daily Startup Scout
 
+# Automated daily discovery of startups for spontaneous applications.
 # Runs every day at 08:00 UTC and can also be triggered manually.
 on:
   schedule:
