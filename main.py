@@ -459,7 +459,10 @@ def send_email(new_startups: list[Startup]) -> None:
     smtp_port_raw = os.environ.get("SMTP_PORT", "587")
     sender_email = os.environ.get("SENDER_EMAIL")
     sender_password = os.environ.get("SENDER_PASSWORD")
-    recipient_email = os.environ.get("RECIPIENT_EMAIL", sender_email or "")
+    # NB: use ``or`` (not a .get default) so an empty RECIPIENT_EMAIL — which is
+    # what GitHub injects when the optional secret is undefined — falls back to
+    # the sender instead of producing a blank "To" address.
+    recipient_email = os.environ.get("RECIPIENT_EMAIL") or sender_email
 
     missing = [
         var
