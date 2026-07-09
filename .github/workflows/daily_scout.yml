@@ -1,10 +1,11 @@
 name: Daily Startup Scout
 
 # Automated daily discovery of startups for spontaneous applications.
-# Runs every day at 08:00 UTC and can also be triggered manually.
+# Runs every day at 16:00 UTC (18:00 Germany CEST / 17:00 CET in winter) and
+# can also be triggered manually. GitHub cron is UTC-only and ignores DST.
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 16 * * *"
   workflow_dispatch: {}
 
 # Allow the workflow to push the updated visited_startups.json back to the repo.
