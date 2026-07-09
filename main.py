@@ -3,17 +3,28 @@
 Startup Scout — automated daily discovery of startups for spontaneous
 applications (Initiativbewerbung).
 
-The agent:
-  1. Reads the list of already-seen startup domains from ``visited_startups.json``.
-  2. Fetches public RSS feeds from German startup portals and open job
-     aggregators (no paid API keys required).
-  3. Extracts each startup's name and primary website, keeping only entries
-     that match the target role keywords and target locations.
-  4. Filters out any domain that has already been discovered.
-  5. Emails a summary of the *newly* discovered startups via ``smtplib``.
-  6. Persists the newly discovered domains back into ``visited_startups.json``.
+Two kinds of sources are handled differently, because they carry different
+signals:
 
-The script is intentionally dependency-light (``requests``, ``feedparser`` and
+  * **Portals** (startup news: Gründerszene, deutsche-startups.de, Startbase)
+    describe companies, not open roles. For an Initiativbewerbung you apply
+    *speculatively*, so we surface EVERY newly-covered startup and let you
+    triage — no role/location gate.
+
+  * **Job boards** (Berlin Startup Jobs, RemoteOK, …) advertise concrete roles,
+    so we DO apply the role + location filters here to keep only relevant
+    postings.
+
+The agent:
+  1. Reads the set of already-seen identities from ``visited_startups.json``.
+  2. Fetches the configured public RSS feeds (no paid API keys required).
+  3. Builds a lead per entry (name + website), applying filters only to job
+     boards.
+  4. Drops anything already seen.
+  5. Emails a summary of the *new* leads via ``smtplib``.
+  6. Persists the new identities back into ``visited_startups.json``.
+
+The script is dependency-light (``requests``, ``feedparser``,
 ``beautifulsoup4``) and defensively coded so a single broken feed never aborts
 the whole run.
 """
@@ -33,7 +44,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from pathlib import Path
 from typing import Iterable
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urlunparse
 
 import feedparser
 import requests
@@ -43,7 +54,7 @@ from bs4 import BeautifulSoup
 # Configuration
 # --------------------------------------------------------------------------- #
 
-# File that stores every domain we have already surfaced. Kept in the repo so
+# File that stores every identity we have already surfaced. Kept in the repo so
 # GitHub Actions can commit it back after each run.
 VISITED_FILE = Path(__file__).with_name("visited_startups.json")
 
@@ -58,29 +69,30 @@ HTTP_HEADERS = {
 # Network timeout (seconds) applied to every outbound HTTP request.
 REQUEST_TIMEOUT = 20
 
-# RSS / Atom feeds from German startup portals and open job aggregators.
-# These are all publicly accessible and require no API key. Add or remove
-# sources here — the rest of the pipeline adapts automatically.
+# Feed source types.
+PORTAL = "portal"        # startup news → surface every entry (no role gate)
+JOBBOARD = "jobboard"    # job listings → apply role + location filters
+
+# RSS / Atom feeds. All publicly accessible, no API key. Each entry declares a
+# ``type`` (see above). Reachability of every URL below was verified before
+# inclusion; a feed that later goes offline is simply logged and skipped.
 FEEDS: list[dict[str, str]] = [
-    # --- Startup news portals -------------------------------------------- #
-    {"name": "Gründerszene", "url": "https://www.gruenderszene.de/feed"},
-    {"name": "deutsche-startups.de", "url": "https://www.deutsche-startups.de/feed/"},
-    {"name": "Berlin Valley", "url": "https://berlinvalley.com/feed/"},
-    {"name": "Startbase", "url": "https://www.startbase.com/feed/"},
-    # --- Open job aggregators (RSS) -------------------------------------- #
-    # WeWorkRemotely and RemoteOK expose keyword-filterable public RSS feeds.
+    # --- Startup news portals (surface ALL newly-covered startups) ------- #
+    {"name": "Gründerszene", "url": "https://www.gruenderszene.de/feed", "type": PORTAL},
+    {"name": "deutsche-startups.de", "url": "https://www.deutsche-startups.de/feed/", "type": PORTAL},
+    {"name": "Startbase", "url": "https://www.startbase.com/feed/", "type": PORTAL},
+    # --- Job boards (role + location filtered) --------------------------- #
+    {"name": "Berlin Startup Jobs", "url": "https://berlinstartupjobs.com/feed/", "type": JOBBOARD},
     {
-        "name": "RemoteOK (data)",
-        "url": "https://remoteok.com/remote-data-jobs.rss",
+        "name": "Berlin Startup Jobs (Data Science)",
+        "url": "https://berlinstartupjobs.com/skill-areas/data-science/feed/",
+        "type": JOBBOARD,
     },
-    {
-        "name": "WeWorkRemotely (data)",
-        "url": "https://weworkremotely.com/categories/remote-data-jobs.rss",
-    },
+    {"name": "RemoteOK (data)", "url": "https://remoteok.com/remote-data-jobs.rss", "type": JOBBOARD},
 ]
 
-# Role keywords. An entry is kept when ANY of these appears in its title or
-# summary. Lower-cased for case-insensitive matching.
+# Role keywords. A job-board entry is kept when ANY appears in its title or
+# summary. (Portals are NOT gated by these.) Lower-cased for matching.
 ROLE_KEYWORDS: list[str] = [
     "data analytics",
     "data analyst",
@@ -98,11 +110,12 @@ ROLE_KEYWORDS: list[str] = [
     "business intelligence",
     "bi analyst",
     "research analyst",
+    "analytics engineer",
 ]
 
-# Location keywords. When an entry mentions a location at all, it must match one
-# of these. Entries that mention no location survive (startup news posts rarely
-# state a city), so we don't accidentally discard good leads.
+# Location keywords. On a job-board entry that mentions a location at all, one
+# of these must match. Entries that mention no location survive (many postings
+# omit a city), so we don't discard good leads. (Portals are NOT gated by these.)
 LOCATION_KEYWORDS: list[str] = [
     "münchen",
     "munich",
@@ -121,15 +134,33 @@ LOCATION_KEYWORDS: list[str] = [
     "argentinien",
 ]
 
-# Domains that are portals/aggregators themselves — never treat these as a
-# "discovered startup" even if they appear as a link inside an entry.
+# Signals that an entry is talking about *a* location at all (used only to
+# decide whether the location gate should apply on job boards).
+LOCATION_SIGNALS: list[str] = LOCATION_KEYWORDS + [
+    "remote",
+    "hybrid",
+    "office",
+    "standort",
+    "location",
+    "based in",
+    "worldwide",
+    "europe",
+    "usa",
+]
+
+# Portals/aggregators/social sites that must never be treated as a discovered
+# startup's own website.
 IGNORED_DOMAINS: set[str] = {
     "gruenderszene.de",
     "deutsche-startups.de",
-    "berlinvalley.com",
     "startbase.com",
+    "businessinsider.de",
+    "businessinsider.com",
+    "berlinstartupjobs.com",
     "remoteok.com",
+    "remoteok.io",
     "weworkremotely.com",
+    "t3n.de",
     "twitter.com",
     "x.com",
     "facebook.com",
@@ -158,11 +189,17 @@ log = logging.getLogger("startup-scout")
 
 @dataclass(frozen=True)
 class Startup:
-    """A single discovered startup lead."""
+    """A single discovered lead.
+
+    ``key`` is the deduplication identity: the company's own domain when we can
+    extract it, otherwise the article/job-posting URL (which is unique per
+    entry). ``website`` is what we show the user — the company site if found,
+    else the article/posting link.
+    """
 
     name: str
     website: str
-    domain: str
+    key: str
     source: str
 
     def __str__(self) -> str:  # pragma: no cover - cosmetic only
@@ -185,7 +222,8 @@ def load_visited() -> dict:
         log.warning("Could not read %s (%s) — starting fresh.", VISITED_FILE.name, exc)
         return {"domains": [], "startups": [], "last_run": None}
 
-    # Normalise: guarantee the keys we rely on always exist.
+    # ``domains`` holds the set of seen identities (company domains and/or
+    # article URLs). Guarantee the keys we rely on always exist.
     data.setdefault("domains", [])
     data.setdefault("startups", [])
     data.setdefault("last_run", None)
@@ -194,10 +232,10 @@ def load_visited() -> dict:
 
 def save_visited(state: dict, new_startups: list[Startup]) -> None:
     """Merge freshly discovered startups into the state and write it back."""
-    known_domains = set(state.get("domains", []))
+    known_keys = set(state.get("domains", []))
 
     for s in new_startups:
-        known_domains.add(s.domain)
+        known_keys.add(s.key)
         state["startups"].append(
             {
                 **asdict(s),
@@ -205,14 +243,14 @@ def save_visited(state: dict, new_startups: list[Startup]) -> None:
             }
         )
 
-    state["domains"] = sorted(known_domains)
+    state["domains"] = sorted(known_keys)
     state["last_run"] = datetime.now(timezone.utc).isoformat()
 
     VISITED_FILE.write_text(
         json.dumps(state, indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8",
     )
-    log.info("Persisted state: %d total domains known.", len(state["domains"]))
+    log.info("Persisted state: %d total identities known.", len(state["domains"]))
 
 
 # --------------------------------------------------------------------------- #
@@ -226,7 +264,7 @@ def _text_matches_any(text: str, keywords: Iterable[str]) -> bool:
 
 
 def _extract_domain(url: str) -> str | None:
-    """Return the registrable-ish domain (host without ``www.``) or ``None``."""
+    """Return the host without ``www.`` (and without port) or ``None``."""
     try:
         netloc = urlparse(url).netloc.lower()
     except ValueError:
@@ -237,6 +275,15 @@ def _extract_domain(url: str) -> str | None:
     if netloc.startswith("www."):
         netloc = netloc[4:]
     return netloc or None
+
+
+def _normalize_url(url: str) -> str:
+    """Strip query/fragment so the same posting yields a stable dedup key."""
+    try:
+        p = urlparse(url)
+    except ValueError:
+        return url
+    return urlunparse((p.scheme, p.netloc, p.path.rstrip("/"), "", "", ""))
 
 
 def _first_external_link(html: str) -> str | None:
@@ -271,7 +318,8 @@ def fetch_feed(feed: dict[str, str]) -> list[Startup]:
     """
     source = feed["name"]
     url = feed["url"]
-    log.info("Fetching feed: %s (%s)", source, url)
+    feed_type = feed.get("type", JOBBOARD)
+    log.info("Fetching feed: %s [%s] (%s)", source, feed_type, url)
 
     try:
         resp = requests.get(url, headers=HTTP_HEADERS, timeout=REQUEST_TIMEOUT)
@@ -286,16 +334,30 @@ def fetch_feed(feed: dict[str, str]) -> list[Startup]:
 
     candidates: list[Startup] = []
     for entry in parsed.entries:
-        startup = _entry_to_startup(entry, source)
+        startup = _entry_to_startup(entry, source, feed_type)
         if startup is not None:
             candidates.append(startup)
 
-    log.info("  → %d candidate(s) matched from %s", len(candidates), source)
+    log.info("  → %d candidate(s) from %s", len(candidates), source)
     return candidates
 
 
-def _entry_to_startup(entry, source: str) -> Startup | None:
-    """Convert a single feed entry into a ``Startup`` if it passes the filters."""
+def _passes_job_filters(haystack: str) -> bool:
+    """Role + location gate applied to job-board entries only."""
+    # 1) Role filter — must mention at least one target role keyword.
+    if not _text_matches_any(haystack, ROLE_KEYWORDS):
+        return False
+
+    # 2) Location filter — if a location is mentioned at all, it must match.
+    mentions_location = _text_matches_any(haystack, LOCATION_SIGNALS)
+    if mentions_location and not _text_matches_any(haystack, LOCATION_KEYWORDS):
+        return False
+
+    return True
+
+
+def _entry_to_startup(entry, source: str, feed_type: str) -> Startup | None:
+    """Convert a single feed entry into a ``Startup`` if it passes the gates."""
     title = getattr(entry, "title", "") or ""
     summary = getattr(entry, "summary", "") or ""
     content_html = ""
@@ -303,33 +365,31 @@ def _entry_to_startup(entry, source: str) -> Startup | None:
         # feedparser stores full content as a list of dicts.
         content_html = " ".join(c.get("value", "") for c in entry.content)
 
-    haystack = " ".join([title, summary, content_html])
+    # Job boards are role/location gated; portals surface everything.
+    if feed_type == JOBBOARD:
+        haystack = " ".join([title, summary, content_html])
+        if not _passes_job_filters(haystack):
+            return None
 
-    # 1) Role filter — must mention at least one target role keyword.
-    if not _text_matches_any(haystack, ROLE_KEYWORDS):
-        return None
+    # Resolve the company website + dedup key.
+    #   * If the entry body links to an external (non-portal) site, treat that
+    #     as the company's website and dedup by its domain.
+    #   * Otherwise fall back to the entry's own link, dedup by that URL. This
+    #     keeps portal articles (whose link is the portal itself) unique.
+    company_url = _first_external_link(summary + content_html)
+    entry_link = getattr(entry, "link", "") or ""
 
-    # 2) Location filter — if a location is mentioned at all, it must match.
-    mentions_any_location = _text_matches_any(
-        haystack,
-        # A broad set of "this text talks about a place" signals.
-        LOCATION_KEYWORDS + ["remote", "hybrid", "office", "standort", "location"],
-    )
-    if mentions_any_location and not _text_matches_any(haystack, LOCATION_KEYWORDS):
-        return None
+    if company_url:
+        website = company_url
+        key = _extract_domain(company_url) or _normalize_url(company_url)
+    elif entry_link:
+        website = entry_link
+        key = _normalize_url(entry_link)
+    else:
+        return None  # Nothing to link to — unusable.
 
-    # 3) Resolve the startup website. Prefer an external link found in the body;
-    #    otherwise fall back to the entry link's own domain.
-    website = _first_external_link(summary + content_html)
-    if website is None:
-        website = getattr(entry, "link", "") or ""
-
-    domain = _extract_domain(website)
-    if not domain or domain in IGNORED_DOMAINS:
-        return None
-
-    name = _clean_name(title) or domain
-    return Startup(name=name, website=website, domain=domain, source=source)
+    name = _clean_name(title) or _extract_domain(website) or website
+    return Startup(name=name, website=website, key=key, source=source)
 
 
 def discover_startups() -> list[Startup]:
@@ -339,12 +399,12 @@ def discover_startups() -> list[Startup]:
 
     for feed in FEEDS:
         for startup in fetch_feed(feed):
-            if startup.domain in seen_this_run:
+            if startup.key in seen_this_run:
                 continue
-            seen_this_run.add(startup.domain)
+            seen_this_run.add(startup.key)
             results.append(startup)
 
-    log.info("Discovered %d unique candidate startups this run.", len(results))
+    log.info("Discovered %d unique candidate(s) this run.", len(results))
     return results
 
 
@@ -463,13 +523,13 @@ def main() -> int:
     log.info("=== Startup Scout run started ===")
 
     state = load_visited()
-    known_domains = set(state.get("domains", []))
-    log.info("Loaded %d previously-known domain(s).", len(known_domains))
+    known_keys = set(state.get("domains", []))
+    log.info("Loaded %d previously-known identity(ies).", len(known_keys))
 
     candidates = discover_startups()
 
-    # Keep only startups whose domain we have never surfaced before.
-    new_startups = [s for s in candidates if s.domain not in known_domains]
+    # Keep only leads whose identity we have never surfaced before.
+    new_startups = [s for s in candidates if s.key not in known_keys]
     log.info("%d of %d candidates are new.", len(new_startups), len(candidates))
 
     if new_startups:
