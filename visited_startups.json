@@ -55,6 +55,7 @@
     "https://www.startbase.com/news/reverse-fashion-erhaelt-siebenstelliges-htgf-investment-fuer-ki-gestuetzte-textilsortierung",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-28-26",
     "https://www.startbase.com/news/vayora-verlaesst-den-stealth-modus",
+    "https://www.startbase.com/news/volle-anziehungskraft-der-gruendungsmagnetstartet-gastbeitraege-und-das-munich-startupfestival-steht-vor-der-tuer",
     "https://www.startbase.com/reports/deutschland-zaehlt-erstmals-mehr-als-3-000-neugruendungen-in-nur-sechs-monaten"
   ],
   "startups": [
@@ -449,7 +450,14 @@
       "key": "https://www.deutsche-startups.de/2026/07/11/proxima-fusion-quantum-diamonds-andercore-stenon-fuchs-eule-alqem",
       "source": "deutsche-startups.de",
       "discovered_at": "2026-07-11T17:06:10.624724+00:00"
+    },
+    {
+      "name": "Volle Anziehungskraft: Der Gründungsmagnet startet Gastbeiträge und das Munich StartupFestival steht vor der Tür!",
+      "website": "https://www.startbase.com/news/volle-anziehungskraft-der-gruendungsmagnetstartet-gastbeitraege-und-das-munich-startupfestival-steht-vor-der-tuer/",
+      "key": "https://www.startbase.com/news/volle-anziehungskraft-der-gruendungsmagnetstartet-gastbeitraege-und-das-munich-startupfestival-steht-vor-der-tuer",
+      "source": "Startbase",
+      "discovered_at": "2026-07-12T17:09:21.457234+00:00"
     }
   ],
-  "last_run": "2026-07-11T17:06:10.624758+00:00"
+  "last_run": "2026-07-12T17:09:21.457259+00:00"
 }
