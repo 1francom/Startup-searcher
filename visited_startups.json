@@ -9,12 +9,15 @@
     "https://www.businessinsider.de/gruenderszene/amazon-gruender-jeff-bezos-investiert-in-diese-fuenf-ki-startups",
     "https://www.businessinsider.de/gruenderszene/brauchen-gruender-dank-ki-ueberhaupt-noch-investoren",
     "https://www.businessinsider.de/gruenderszene/business/die-verlassenen-lilium-bueros-was-vom-flugtaxi-traum-uebrig-ist",
+    "https://www.businessinsider.de/gruenderszene/das-fordert-berlins-startup-szene-vom-naechsten-buergermeister",
     "https://www.businessinsider.de/gruenderszene/deutschlands-mega-unicorn-quantum-systems-sammelt-12-milliarden-ein",
     "https://www.businessinsider.de/gruenderszene/die-zalando-mafia-diese-5-startups-sind-aus-dem-modehaendler-entstanden",
     "https://www.businessinsider.de/gruenderszene/dieses-berliner-startup-will-gold-aus-abwasser-holen",
     "https://www.businessinsider.de/gruenderszene/drohnen-startup-helsing-ist-jetzt-mehr-wert-als-die-lufthansa-18-milliarden",
     "https://www.businessinsider.de/gruenderszene/fleiss-beats-everything-die-hiring-regeln-eines-unicorn-gruenders",
+    "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/21-jaehriger-will-das-idealo-fuer-secondhand-bauen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/diese-20-jaehrige-will-das-doctolib-fuer-handwerker-bauen",
+    "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/dieser-student-will-euch-zu-influencern-machen",
     "https://www.businessinsider.de/gruenderszene/ki-schreibt-fast-den-gesamten-code-doch-der-boom-hat-seinen-preis",
     "https://www.businessinsider.de/gruenderszene/liliums-teuerster-fehler-warum-wachstum-zum-problem-wurde",
     "https://www.businessinsider.de/gruenderszene/mit-ki-in-zehn-wochen-ein-startup-bauen-gruenderszene-sommercamp",
@@ -28,8 +31,10 @@
     "https://www.businessinsider.de/gruenderszene/two-and-a-half-men-star-ashton-kutcher-startet-neuen-ki-fonds",
     "https://www.businessinsider.de/gruenderszene/vibecoding-tech-experte-verraet-seine-drei-wichtigsten-tipps",
     "https://www.businessinsider.de/gruenderszene/warum-deutschlands-ki-hoffnung-langdock-in-den-usa-sitzt",
+    "https://www.businessinsider.de/gruenderszene/warum-die-meisten-im-vertrieb-viel-zu-frueh-aufgeben",
     "https://www.businessinsider.de/gruenderszene/warum-gruender-keinen-alkohol-mehr-trinken-die-nuechterne-startup-szene",
     "https://www.businessinsider.de/gruenderszene/wie-berlin-milliarden-euro-einnehmen-koennte",
+    "https://www.businessinsider.de/gruenderszene/zweifel-an-liliums-versprechen-war-der-jet-physikalisch-ueberhaupt-moeglich",
     "https://www.deutsche-startups.de/2026/07/06/andercore-erhaelt-30-millionen-stenon-sammelt-18-millionen-ein-alqem-bekommt-8-millionen",
     "https://www.deutsche-startups.de/2026/07/06/eine-sommernacht-10-startups-viele-ideen",
     "https://www.deutsche-startups.de/2026/07/06/scopo-hansmann-family-office-the-green-deal-show-tractive-venture-capital",
@@ -53,13 +58,21 @@
     "https://www.deutsche-startups.de/2026/07/13/die-expansion-ist-ein-klarer-shift-in-unserer-arbeitsweise",
     "https://www.deutsche-startups.de/2026/07/13/helsing-erhaelt-18-milliarden",
     "https://www.deutsche-startups.de/2026/07/13/pactsheet-ai-hamburg-muenchen-fund-f-almetra-startupstowatch",
+    "https://www.deutsche-startups.de/2026/07/14/5-neue-startups-patronus-protect-velth-hey-mela-netz-werke-tokura",
+    "https://www.deutsche-startups.de/2026/07/14/als-gebootstrapptes-startup-sind-ressourcen-fast-immer-knapp",
+    "https://www.deutsche-startups.de/2026/07/14/skalar-bekommt-12-millionen-maia-sammelt-4-millionen-ein-nextgo-epi-erhaelt-2-millionen",
+    "https://www.deutsche-startups.de/2026/07/14/startup-stimmung-zuversicht-jupus-lesestoff-finanzmanagement-fonio-ai",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
+    "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
+    "https://www.startbase.com/news/all-about-accuracy-sammelt-siebenstellige-pre-seed-runde-ein",
     "https://www.startbase.com/news/bm-h-stellt-5-millionen-euro-wachstumskapital-fuer-die-fib-frankfurt-international-bank-bereit",
     "https://www.startbase.com/news/cleversolutions-gruendet-autonomous-und-sichert-sich-finanzierung-fuer-den-betrieb-autonomer-fahrzeugflotten",
     "https://www.startbase.com/news/deutschlands-gruenderboom-trotzt-der-krise-warum-die-statistiken-scheinbar-unterschiedliche-geschichten-erzaehlen",
     "https://www.startbase.com/news/helsing-sichert-sich-18-milliarden-us-dollar-series-e",
     "https://www.startbase.com/news/lissi-zieht-35-millionen-euro-an-land",
     "https://www.startbase.com/news/luffy-ai-sammelt-81-millionen-pfund-ein-mig-capital-investiert-in-ki-fuer-die-industrielle-echtzeitsteuerung",
+    "https://www.startbase.com/news/nextgo-epi-zieht-2-millionen-euro-an-land",
+    "https://www.startbase.com/news/promptwatch-sammelt-6-millionen-euro-ein-und-setzt-auf-die-zukunft-der-ki-suchoptimierung",
     "https://www.startbase.com/news/quantumdiamonds-erhaelt-91-millionen-euro-fuer-quantensensorik-in-der-halbleiterindustrie",
     "https://www.startbase.com/news/refined-diagnostics-sammelt-29-millionen-euro-ein-und-bereitet-markteintritt-fuer-ki-gestuetzte-krebsdiagnostik-vor",
     "https://www.startbase.com/news/reverse-fashion-erhaelt-siebenstelliges-htgf-investment-fuer-ki-gestuetzte-textilsortierung",
@@ -545,7 +558,98 @@
       "key": "https://www.startbase.com/news/deutschlands-gruenderboom-trotzt-der-krise-warum-die-statistiken-scheinbar-unterschiedliche-geschichten-erzaehlen",
       "source": "Startbase",
       "discovered_at": "2026-07-13T18:01:22.807446+00:00"
+    },
+    {
+      "name": "KI für Online-Shopping: 21-Jähriger will das „Idealo für Secondhand“ bauen",
+      "website": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/21-jaehriger-will-das-idealo-fuer-secondhand-bauen/",
+      "key": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/21-jaehriger-will-das-idealo-fuer-secondhand-bauen",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-14T17:22:29.632391+00:00"
+    },
+    {
+      "name": "Dieser Student entwickelt eine App, die euch zu Influencern machen soll",
+      "website": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/dieser-student-will-euch-zu-influencern-machen/",
+      "key": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/dieser-student-will-euch-zu-influencern-machen",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-14T17:22:29.632416+00:00"
+    },
+    {
+      "name": "Warum die meisten im Vertrieb viel zu früh aufgeben",
+      "website": "https://www.businessinsider.de/gruenderszene/warum-die-meisten-im-vertrieb-viel-zu-frueh-aufgeben/",
+      "key": "https://www.businessinsider.de/gruenderszene/warum-die-meisten-im-vertrieb-viel-zu-frueh-aufgeben",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-14T17:22:29.632424+00:00"
+    },
+    {
+      "name": "Zweifel an Liliums Versprechen: War der Jet physikalisch überhaupt möglich?",
+      "website": "https://www.businessinsider.de/gruenderszene/zweifel-an-liliums-versprechen-war-der-jet-physikalisch-ueberhaupt-moeglich/",
+      "key": "https://www.businessinsider.de/gruenderszene/zweifel-an-liliums-versprechen-war-der-jet-physikalisch-ueberhaupt-moeglich",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-14T17:22:29.632431+00:00"
+    },
+    {
+      "name": "Nach Wegners Rückzug: Das fordert Berlins Startup-Szene vom nächsten Bürgermeister",
+      "website": "https://www.businessinsider.de/gruenderszene/das-fordert-berlins-startup-szene-vom-naechsten-buergermeister/",
+      "key": "https://www.businessinsider.de/gruenderszene/das-fordert-berlins-startup-szene-vom-naechsten-buergermeister",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-14T17:22:29.632436+00:00"
+    },
+    {
+      "name": "MAIA sammelt 4 Millionen ein",
+      "website": "https://www.deutsche-startups.de/2026/07/14/skalar-bekommt-12-millionen-maia-sammelt-4-millionen-ein-nextgo-epi-erhaelt-2-millionen/",
+      "key": "https://www.deutsche-startups.de/2026/07/14/skalar-bekommt-12-millionen-maia-sammelt-4-millionen-ein-nextgo-epi-erhaelt-2-millionen",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-14T17:22:29.632442+00:00"
+    },
+    {
+      "name": "5 neue Startups: Patronus Protect, Velth, hey mela, Netz & Werke, Tokura",
+      "website": "https://www.deutsche-startups.de/2026/07/14/5-neue-startups-patronus-protect-velth-hey-mela-netz-werke-tokura/",
+      "key": "https://www.deutsche-startups.de/2026/07/14/5-neue-startups-patronus-protect-velth-hey-mela-netz-werke-tokura",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-14T17:22:29.632448+00:00"
+    },
+    {
+      "name": "+++ Startup-Stimmung +++ Zuversicht +++ Jupus +++ Lesestoff +++ Finanzmanagement +++ fonio.ai +++",
+      "website": "https://www.deutsche-startups.de/2026/07/14/startup-stimmung-zuversicht-jupus-lesestoff-finanzmanagement-fonio-ai/",
+      "key": "https://www.deutsche-startups.de/2026/07/14/startup-stimmung-zuversicht-jupus-lesestoff-finanzmanagement-fonio-ai",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-14T17:22:29.632452+00:00"
+    },
+    {
+      "name": "„Als gebootstrapptes Startup sind Ressourcen fast immer knapp“",
+      "website": "https://www.deutsche-startups.de/2026/07/14/als-gebootstrapptes-startup-sind-ressourcen-fast-immer-knapp/",
+      "key": "https://www.deutsche-startups.de/2026/07/14/als-gebootstrapptes-startup-sind-ressourcen-fast-immer-knapp",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-14T17:22:29.632459+00:00"
+    },
+    {
+      "name": "All About Accuracy sammelt siebenstellige Pre-Seed-Runde ein",
+      "website": "https://www.startbase.com/news/all-about-accuracy-sammelt-siebenstellige-pre-seed-runde-ein/",
+      "key": "https://www.startbase.com/news/all-about-accuracy-sammelt-siebenstellige-pre-seed-runde-ein",
+      "source": "Startbase",
+      "discovered_at": "2026-07-14T17:22:29.632465+00:00"
+    },
+    {
+      "name": "12 Mio Euro für Steuerberatungs-KI-Startup Skalar",
+      "website": "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar/",
+      "key": "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
+      "source": "Startbase",
+      "discovered_at": "2026-07-14T17:22:29.632470+00:00"
+    },
+    {
+      "name": "Promptwatch sammelt 6 Millionen Euro ein und setzt auf die Zukunft der KI-Suchoptimierung",
+      "website": "https://www.startbase.com/news/promptwatch-sammelt-6-millionen-euro-ein-und-setzt-auf-die-zukunft-der-ki-suchoptimierung/",
+      "key": "https://www.startbase.com/news/promptwatch-sammelt-6-millionen-euro-ein-und-setzt-auf-die-zukunft-der-ki-suchoptimierung",
+      "source": "Startbase",
+      "discovered_at": "2026-07-14T17:22:29.632475+00:00"
+    },
+    {
+      "name": "NextGO Epi zieht 2 Millionen Euro an Land",
+      "website": "https://www.startbase.com/news/nextgo-epi-zieht-2-millionen-euro-an-land/",
+      "key": "https://www.startbase.com/news/nextgo-epi-zieht-2-millionen-euro-an-land",
+      "source": "Startbase",
+      "discovered_at": "2026-07-14T17:22:29.632480+00:00"
     }
   ],
-  "last_run": "2026-07-13T18:01:22.807459+00:00"
+  "last_run": "2026-07-14T17:22:29.632497+00:00"
 }
