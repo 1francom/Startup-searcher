@@ -2,6 +2,7 @@
   "domains": [
     "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq",
     "https://remoteOK.com/remote-jobs/remote-data-analyst-haystack-1134078",
+    "https://remoteOK.com/remote-jobs/remote-data-analyst-healthcare-city-of-hope-1134759",
     "https://remoteOK.com/remote-jobs/remote-data-scientist-new-flyer-1134357",
     "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663",
     "https://www.businessinsider.de/gruenderszene/17-arbeitsplaetze-geschaffen-trotzdem-kein-dauerhaftes-bleiberecht-fuer-gruender",
@@ -14,8 +15,10 @@
     "https://www.businessinsider.de/gruenderszene/die-zalando-mafia-diese-5-startups-sind-aus-dem-modehaendler-entstanden",
     "https://www.businessinsider.de/gruenderszene/dieses-berliner-startup-will-gold-aus-abwasser-holen",
     "https://www.businessinsider.de/gruenderszene/drohnen-startup-helsing-ist-jetzt-mehr-wert-als-die-lufthansa-18-milliarden",
+    "https://www.businessinsider.de/gruenderszene/europas-wertvollstes-ruestungs-startup-die-unglaubliche-helsing-story",
     "https://www.businessinsider.de/gruenderszene/fleiss-beats-everything-die-hiring-regeln-eines-unicorn-gruenders",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/21-jaehriger-will-das-idealo-fuer-secondhand-bauen",
+    "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/baut-er-das-deutsche-polymarket",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/diese-20-jaehrige-will-das-doctolib-fuer-handwerker-bauen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/dieser-student-will-euch-zu-influencern-machen",
     "https://www.businessinsider.de/gruenderszene/ki-schreibt-fast-den-gesamten-code-doch-der-boom-hat-seinen-preis",
@@ -23,11 +26,13 @@
     "https://www.businessinsider.de/gruenderszene/mit-ki-in-zehn-wochen-ein-startup-bauen-gruenderszene-sommercamp",
     "https://www.businessinsider.de/gruenderszene/sap-milliardaer-dietmar-hopp-so-investiert-die-hopp-familie-ihr-vermoegen",
     "https://www.businessinsider.de/gruenderszene/schnecke-statt-unicorn-warum-diese-gruender-keinen-vc-wollten",
+    "https://www.businessinsider.de/gruenderszene/sie-wollte-ihre-kinder-schuetzen-heute-hilft-ihre-app-tausenden-menschen",
     "https://www.businessinsider.de/gruenderszene/sieben-neue-unicorns-diese-deutschen-startups-sind-jetzt-milliarden-wert",
     "https://www.businessinsider.de/gruenderszene/so-veraendert-ki-venture-capital-wirklich-insights-von-earlybird-partner",
     "https://www.businessinsider.de/gruenderszene/sponsored-post/erstmals-messbar-so-entscheiden-business-angels-wirklich-companisto",
     "https://www.businessinsider.de/gruenderszene/thelen-vier-jungs-in-der-garage-so-liefen-die-ersten-jahre-der-flugtaxi-hoffnung-lilium",
     "https://www.businessinsider.de/gruenderszene/trade-republic-darum-schweigt-brad-pitt-in-der-millionenkampagne",
+    "https://www.businessinsider.de/gruenderszene/trade-republic-gruender-ein-weiter-so-kann-es-nicht-geben",
     "https://www.businessinsider.de/gruenderszene/two-and-a-half-men-star-ashton-kutcher-startet-neuen-ki-fonds",
     "https://www.businessinsider.de/gruenderszene/vibecoding-tech-experte-verraet-seine-drei-wichtigsten-tipps",
     "https://www.businessinsider.de/gruenderszene/warum-deutschlands-ki-hoffnung-langdock-in-den-usa-sitzt",
@@ -62,16 +67,24 @@
     "https://www.deutsche-startups.de/2026/07/14/als-gebootstrapptes-startup-sind-ressourcen-fast-immer-knapp",
     "https://www.deutsche-startups.de/2026/07/14/skalar-bekommt-12-millionen-maia-sammelt-4-millionen-ein-nextgo-epi-erhaelt-2-millionen",
     "https://www.deutsche-startups.de/2026/07/14/startup-stimmung-zuversicht-jupus-lesestoff-finanzmanagement-fonio-ai",
+    "https://www.deutsche-startups.de/2026/07/15/22-startup-buecher-fuer-den-sommer",
+    "https://www.deutsche-startups.de/2026/07/15/5-neue-startups-wakeline-zapdeck-valueverde-previty-rosi",
+    "https://www.deutsche-startups.de/2026/07/15/ardian-uebernimmt-pflegia-visuallogix-kauft-refyne-apryse-uebernimmt-pdf-tools",
+    "https://www.deutsche-startups.de/2026/07/15/red-bull-ventures-kinexon-twelve-labs-proptech-stenon-capacities",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
     "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
     "https://www.startbase.com/news/all-about-accuracy-sammelt-siebenstellige-pre-seed-runde-ein",
     "https://www.startbase.com/news/bm-h-stellt-5-millionen-euro-wachstumskapital-fuer-die-fib-frankfurt-international-bank-bereit",
     "https://www.startbase.com/news/cleversolutions-gruendet-autonomous-und-sichert-sich-finanzierung-fuer-den-betrieb-autonomer-fahrzeugflotten",
     "https://www.startbase.com/news/deutschlands-gruenderboom-trotzt-der-krise-warum-die-statistiken-scheinbar-unterschiedliche-geschichten-erzaehlen",
+    "https://www.startbase.com/news/energyminer-holt-sich-21-millionen-euro-fuer-die-kommerzialisierung-seiner-flusskraftwerke",
     "https://www.startbase.com/news/helsing-sichert-sich-18-milliarden-us-dollar-series-e",
     "https://www.startbase.com/news/lissi-zieht-35-millionen-euro-an-land",
     "https://www.startbase.com/news/luffy-ai-sammelt-81-millionen-pfund-ein-mig-capital-investiert-in-ki-fuer-die-industrielle-echtzeitsteuerung",
+    "https://www.startbase.com/news/mbg-investiert-1-million-euro-in-naturenergie-rotachtal",
+    "https://www.startbase.com/news/nestermind-erhaelt-siebenstellige-seed-finanzierung-fuer-seine-ki-crm-plattform",
     "https://www.startbase.com/news/nextgo-epi-zieht-2-millionen-euro-an-land",
+    "https://www.startbase.com/news/nous-sammelt-23-millionen-euro-seed-ein",
     "https://www.startbase.com/news/promptwatch-sammelt-6-millionen-euro-ein-und-setzt-auf-die-zukunft-der-ki-suchoptimierung",
     "https://www.startbase.com/news/quantumdiamonds-erhaelt-91-millionen-euro-fuer-quantensensorik-in-der-halbleiterindustrie",
     "https://www.startbase.com/news/refined-diagnostics-sammelt-29-millionen-euro-ein-und-bereitet-markteintritt-fuer-ki-gestuetzte-krebsdiagnostik-vor",
@@ -649,7 +662,98 @@
       "key": "https://www.startbase.com/news/nextgo-epi-zieht-2-millionen-euro-an-land",
       "source": "Startbase",
       "discovered_at": "2026-07-14T17:22:29.632480+00:00"
+    },
+    {
+      "name": "heute hilft ihre App Tausenden Menschen",
+      "website": "https://www.businessinsider.de/gruenderszene/sie-wollte-ihre-kinder-schuetzen-heute-hilft-ihre-app-tausenden-menschen/",
+      "key": "https://www.businessinsider.de/gruenderszene/sie-wollte-ihre-kinder-schuetzen-heute-hilft-ihre-app-tausenden-menschen",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-15T17:25:19.395915+00:00"
+    },
+    {
+      "name": "Baut er das deutsche Polymarket?",
+      "website": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/baut-er-das-deutsche-polymarket/",
+      "key": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/baut-er-das-deutsche-polymarket",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-15T17:25:19.395937+00:00"
+    },
+    {
+      "name": "Europas wertvollstes Rüstungs-Startup: Die unglaubliche Helsing-Story",
+      "website": "https://www.businessinsider.de/gruenderszene/europas-wertvollstes-ruestungs-startup-die-unglaubliche-helsing-story/",
+      "key": "https://www.businessinsider.de/gruenderszene/europas-wertvollstes-ruestungs-startup-die-unglaubliche-helsing-story",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-15T17:25:19.395944+00:00"
+    },
+    {
+      "name": "„Ein Weiter-so kann es nicht geben“: Trade-Republic-Gründer über die unbequeme Wahrheit für Deutschland",
+      "website": "https://www.businessinsider.de/gruenderszene/trade-republic-gruender-ein-weiter-so-kann-es-nicht-geben/",
+      "key": "https://www.businessinsider.de/gruenderszene/trade-republic-gruender-ein-weiter-so-kann-es-nicht-geben",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-15T17:25:19.395950+00:00"
+    },
+    {
+      "name": "Apryse übernimmt PDF Tools",
+      "website": "https://www.deutsche-startups.de/2026/07/15/ardian-uebernimmt-pflegia-visuallogix-kauft-refyne-apryse-uebernimmt-pdf-tools/",
+      "key": "https://www.deutsche-startups.de/2026/07/15/ardian-uebernimmt-pflegia-visuallogix-kauft-refyne-apryse-uebernimmt-pdf-tools",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-15T17:25:19.395955+00:00"
+    },
+    {
+      "name": "5 neue Startups: Wakeline, Zapdeck, valueverde, Previty, ROSI",
+      "website": "https://www.deutsche-startups.de/2026/07/15/5-neue-startups-wakeline-zapdeck-valueverde-previty-rosi/",
+      "key": "https://www.deutsche-startups.de/2026/07/15/5-neue-startups-wakeline-zapdeck-valueverde-previty-rosi",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-15T17:25:19.395960+00:00"
+    },
+    {
+      "name": "+++ Red Bull Ventures +++ Kinexon +++ Twelve Labs +++ PropTech +++ Stenon +++ Capacities +++",
+      "website": "https://www.deutsche-startups.de/2026/07/15/red-bull-ventures-kinexon-twelve-labs-proptech-stenon-capacities/",
+      "key": "https://www.deutsche-startups.de/2026/07/15/red-bull-ventures-kinexon-twelve-labs-proptech-stenon-capacities",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-15T17:25:19.395964+00:00"
+    },
+    {
+      "name": "23 Startup-Bücher für den Sommer",
+      "website": "https://www.deutsche-startups.de/2026/07/15/22-startup-buecher-fuer-den-sommer/",
+      "key": "https://www.deutsche-startups.de/2026/07/15/22-startup-buecher-fuer-den-sommer",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-15T17:25:19.395969+00:00"
+    },
+    {
+      "name": "MBG investiert 1 Million Euro in Naturenergie Rotachtal",
+      "website": "https://www.startbase.com/news/mbg-investiert-1-million-euro-in-naturenergie-rotachtal/",
+      "key": "https://www.startbase.com/news/mbg-investiert-1-million-euro-in-naturenergie-rotachtal",
+      "source": "Startbase",
+      "discovered_at": "2026-07-15T17:25:19.395973+00:00"
+    },
+    {
+      "name": "Nestermind erhält siebenstellige Seed-Finanzierung für seine KI-CRM-Plattform",
+      "website": "https://www.startbase.com/news/nestermind-erhaelt-siebenstellige-seed-finanzierung-fuer-seine-ki-crm-plattform/",
+      "key": "https://www.startbase.com/news/nestermind-erhaelt-siebenstellige-seed-finanzierung-fuer-seine-ki-crm-plattform",
+      "source": "Startbase",
+      "discovered_at": "2026-07-15T17:25:19.395978+00:00"
+    },
+    {
+      "name": "Energyminer holt sich 2,1 Millionen Euro für die Kommerzialisierung seiner Flusskraftwerke",
+      "website": "https://www.startbase.com/news/energyminer-holt-sich-21-millionen-euro-fuer-die-kommerzialisierung-seiner-flusskraftwerke/",
+      "key": "https://www.startbase.com/news/energyminer-holt-sich-21-millionen-euro-fuer-die-kommerzialisierung-seiner-flusskraftwerke",
+      "source": "Startbase",
+      "discovered_at": "2026-07-15T17:25:19.395982+00:00"
+    },
+    {
+      "name": "Nous sammelt 2,3 Millionen Euro Seed ein",
+      "website": "https://www.startbase.com/news/nous-sammelt-23-millionen-euro-seed-ein/",
+      "key": "https://www.startbase.com/news/nous-sammelt-23-millionen-euro-seed-ein",
+      "source": "Startbase",
+      "discovered_at": "2026-07-15T17:25:19.395987+00:00"
+    },
+    {
+      "name": "Data Analyst Healthcare",
+      "website": "https://remoteOK.com/remote-jobs/remote-data-analyst-healthcare-city-of-hope-1134759",
+      "key": "https://remoteOK.com/remote-jobs/remote-data-analyst-healthcare-city-of-hope-1134759",
+      "source": "RemoteOK (data)",
+      "discovered_at": "2026-07-15T17:25:19.395992+00:00"
     }
   ],
-  "last_run": "2026-07-14T17:22:29.632497+00:00"
+  "last_run": "2026-07-15T17:25:19.396010+00:00"
 }
