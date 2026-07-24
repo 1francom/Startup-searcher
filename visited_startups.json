@@ -15,6 +15,7 @@
     "https://www.businessinsider.de/gruenderszene/das-fordert-berlins-startup-szene-vom-naechsten-buergermeister",
     "https://www.businessinsider.de/gruenderszene/dating-app-fuer-highperformer-bei-alea-muesst-ihr-euch-mit-linkedin-bewerben",
     "https://www.businessinsider.de/gruenderszene/david-beckhams-vitamin-startup-sammelt-eine-milliarde-dollar-ein",
+    "https://www.businessinsider.de/gruenderszene/delivery-hero-diese-42-startups-wurden-von-ex-mitarbeitern-gegruendet",
     "https://www.businessinsider.de/gruenderszene/delivery-hero-mafia-42-startups-von-ex-mitarbeitern-des-lieferdienstes",
     "https://www.businessinsider.de/gruenderszene/delivery-hero-mafia-diese-42-startups-wurden-von-ex-mitarbeitern-gegruendet",
     "https://www.businessinsider.de/gruenderszene/der-krieg-zerstoerte-sein-startup-und-dann-baute-er-es-wieder-auf",
@@ -73,11 +74,13 @@
     "https://www.businessinsider.de/gruenderszene/trade-republic-gruender-wird-deutlich-darum-ist-ki-fuer-deutschland-eine-historische-chance",
     "https://www.businessinsider.de/gruenderszene/two-and-a-half-men-star-ashton-kutcher-startet-neuen-ki-fonds",
     "https://www.businessinsider.de/gruenderszene/uber-gruender-sammelt-17-milliarden-dollar-fuer-sein-robotik-startup-ein",
+    "https://www.businessinsider.de/gruenderszene/ueber-buerokratie-zu-schimpfen-ist-nur-eine-ausrede-eigentliche-haben-sie-angst",
     "https://www.businessinsider.de/gruenderszene/verrennen-sich-in-ideen-vercel-cto-erklaert-warum-gruender-scheitern",
     "https://www.businessinsider.de/gruenderszene/vibecoding-tech-experte-verraet-seine-drei-wichtigsten-tipps",
     "https://www.businessinsider.de/gruenderszene/vor-diesem-34-jaehrigen-chinesen-zittert-das-silicon-valley",
     "https://www.businessinsider.de/gruenderszene/warum-deutschlands-ki-hoffnung-langdock-in-den-usa-sitzt",
     "https://www.businessinsider.de/gruenderszene/warum-die-meisten-im-vertrieb-viel-zu-frueh-aufgeben",
+    "https://www.businessinsider.de/gruenderszene/warum-es-richtig-ist-unsere-rente-in-riskante-startups-zu-stecken",
     "https://www.businessinsider.de/gruenderszene/warum-gruender-keinen-alkohol-mehr-trinken-die-nuechterne-startup-szene",
     "https://www.businessinsider.de/gruenderszene/warum-lilium-die-100-millionen-nie-bekam-und-daran-scheiterte",
     "https://www.businessinsider.de/gruenderszene/wie-berlin-milliarden-euro-einnehmen-koennte",
@@ -138,6 +141,9 @@
     "https://www.deutsche-startups.de/2026/07/23/telli-sammelt-15-millionen-ein-passionfroot-erhaelt-15-millionen-lockheed-martin-investiert-in-spread",
     "https://www.deutsche-startups.de/2026/07/23/was-chatgpt-google-und-perplexity-wirklich-zitieren",
     "https://www.deutsche-startups.de/2026/07/23/zu-beginn-besser-auf-wenige-industrien-konzentrieren",
+    "https://www.deutsche-startups.de/2026/07/24/kausable-sammelt-12-millionen-ein-bruker-uebernimmt-noscendo",
+    "https://www.deutsche-startups.de/2026/07/24/so-bleiben-softwarefirmen-exit-ready",
+    "https://www.deutsche-startups.de/2026/07/24/venture-capital-fresenius-ventures-bw-capital-scalable-capital-fusion",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
     "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
     "https://www.startbase.com/news/all-about-accuracy-sammelt-siebenstellige-pre-seed-runde-ein",
@@ -175,6 +181,7 @@
     "https://www.startbase.com/news/spacetech-deltavision-erhaelt-102-millionen-euro",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-28-26",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-29-26",
+    "https://www.startbase.com/news/startupnews-zum-wochenende-kw-29-26-2",
     "https://www.startbase.com/news/supraleiter-startup-subra-sichert-sich-50-mio-euro-und-bayern-kapital-ist-dabei",
     "https://www.startbase.com/news/valuemize-erhaelt-siebenstellige-pre-seed-finanzierung",
     "https://www.startbase.com/news/vayora-verlaesst-den-stealth-modus",
@@ -1457,7 +1464,56 @@
       "key": "https://www.startbase.com/news/augustus-wird-unicorn-180-millionen-us-dollar-fuer-globale-dollar-infrastruktur",
       "source": "Startbase",
       "discovered_at": "2026-07-23T17:39:38.242998+00:00"
+    },
+    {
+      "name": "die eigentliche Hürde ist die Angst",
+      "website": "https://www.businessinsider.de/gruenderszene/ueber-buerokratie-zu-schimpfen-ist-nur-eine-ausrede-eigentliche-haben-sie-angst/",
+      "key": "https://www.businessinsider.de/gruenderszene/ueber-buerokratie-zu-schimpfen-ist-nur-eine-ausrede-eigentliche-haben-sie-angst",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-24T17:44:56.979872+00:00"
+    },
+    {
+      "name": "Warum es richtig ist, unsere Rente in riskante Startups zu stecken",
+      "website": "https://www.businessinsider.de/gruenderszene/warum-es-richtig-ist-unsere-rente-in-riskante-startups-zu-stecken/",
+      "key": "https://www.businessinsider.de/gruenderszene/warum-es-richtig-ist-unsere-rente-in-riskante-startups-zu-stecken",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-24T17:44:56.979893+00:00"
+    },
+    {
+      "name": "„Delivery-Hero-Mafia“: Ex-Mitarbeiter haben diese 42 Startups gegründet",
+      "website": "https://www.businessinsider.de/gruenderszene/delivery-hero-diese-42-startups-wurden-von-ex-mitarbeitern-gegruendet/",
+      "key": "https://www.businessinsider.de/gruenderszene/delivery-hero-diese-42-startups-wurden-von-ex-mitarbeitern-gegruendet",
+      "source": "Gründerszene",
+      "discovered_at": "2026-07-24T17:44:56.979900+00:00"
+    },
+    {
+      "name": "Bruker übernimmt Noscendo",
+      "website": "https://www.deutsche-startups.de/2026/07/24/kausable-sammelt-12-millionen-ein-bruker-uebernimmt-noscendo/",
+      "key": "https://www.deutsche-startups.de/2026/07/24/kausable-sammelt-12-millionen-ein-bruker-uebernimmt-noscendo",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-24T17:44:56.979906+00:00"
+    },
+    {
+      "name": "+++ Venture Capital +++ Fresenius Ventures +++ BW-Capital +++ Scalable Capital +++ FUSION +++",
+      "website": "https://www.deutsche-startups.de/2026/07/24/venture-capital-fresenius-ventures-bw-capital-scalable-capital-fusion/",
+      "key": "https://www.deutsche-startups.de/2026/07/24/venture-capital-fresenius-ventures-bw-capital-scalable-capital-fusion",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-24T17:44:56.979911+00:00"
+    },
+    {
+      "name": "So bleiben Softwarefirmen exit-ready",
+      "website": "https://www.deutsche-startups.de/2026/07/24/so-bleiben-softwarefirmen-exit-ready/",
+      "key": "https://www.deutsche-startups.de/2026/07/24/so-bleiben-softwarefirmen-exit-ready",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-24T17:44:56.979916+00:00"
+    },
+    {
+      "name": "KW 29/26",
+      "website": "https://www.startbase.com/news/startupnews-zum-wochenende-kw-29-26-2/",
+      "key": "https://www.startbase.com/news/startupnews-zum-wochenende-kw-29-26-2",
+      "source": "Startbase",
+      "discovered_at": "2026-07-24T17:44:56.979920+00:00"
     }
   ],
-  "last_run": "2026-07-23T17:39:38.243029+00:00"
+  "last_run": "2026-07-24T17:44:56.979952+00:00"
 }
