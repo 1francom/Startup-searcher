@@ -144,6 +144,7 @@
     "https://www.deutsche-startups.de/2026/07/24/kausable-sammelt-12-millionen-ein-bruker-uebernimmt-noscendo",
     "https://www.deutsche-startups.de/2026/07/24/so-bleiben-softwarefirmen-exit-ready",
     "https://www.deutsche-startups.de/2026/07/24/venture-capital-fresenius-ventures-bw-capital-scalable-capital-fusion",
+    "https://www.deutsche-startups.de/2026/07/25/wochenrueckblick-30-2026",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
     "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
     "https://www.startbase.com/news/all-about-accuracy-sammelt-siebenstellige-pre-seed-runde-ein",
@@ -1513,7 +1514,14 @@
       "key": "https://www.startbase.com/news/startupnews-zum-wochenende-kw-29-26-2",
       "source": "Startbase",
       "discovered_at": "2026-07-24T17:44:56.979920+00:00"
+    },
+    {
+      "name": "+++ Augustus +++ Hilo +++ telli +++ Passionfroot +++ kausable +++ deltaVision +++ dsb +++ Autodoc +++",
+      "website": "https://www.deutsche-startups.de/2026/07/25/wochenrueckblick-30-2026/",
+      "key": "https://www.deutsche-startups.de/2026/07/25/wochenrueckblick-30-2026",
+      "source": "deutsche-startups.de",
+      "discovered_at": "2026-07-25T17:08:52.756280+00:00"
     }
   ],
-  "last_run": "2026-07-24T17:44:56.979952+00:00"
+  "last_run": "2026-07-25T17:08:52.756327+00:00"
 }
