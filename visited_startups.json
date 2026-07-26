@@ -1,5 +1,10 @@
 {
   "domains": [
+    "ampelo.de",
+    "augustus.com",
+    "bodywision.com",
+    "datatroniq.com",
+    "deltavision.space",
     "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq",
     "https://remoteOK.com/remote-jobs/remote-data-analyst-haystack-1134078",
     "https://remoteOK.com/remote-jobs/remote-data-analyst-healthcare-city-of-hope-1134759",
@@ -189,7 +194,18 @@
     "https://www.startbase.com/news/volle-anziehungskraft-der-gruendungsmagnetstartet-gastbeitraege-und-das-munich-startupfestival-steht-vor-der-tuer",
     "https://www.startbase.com/news/zalando-steigt-bei-robotik-startup-sereact-ein-finanzierungsrunde-waechst-auf-116-millionen-us-dollar",
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
-    "https://www.startbase.com/reports/deutschland-zaehlt-erstmals-mehr-als-3-000-neugruendungen-in-nur-sechs-monaten"
+    "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
+    "https://www.startbase.com/reports/deutschland-zaehlt-erstmals-mehr-als-3-000-neugruendungen-in-nur-sechs-monaten",
+    "kausable.ai",
+    "klao.eu",
+    "nemedus.de",
+    "oracomputing.com",
+    "resource-intelligence.com",
+    "soulofconcrete.com",
+    "tawo.group",
+    "tax-graph.com",
+    "telli.com",
+    "yovo.de"
   ],
   "startups": [
     {
@@ -1521,7 +1537,135 @@
       "key": "https://www.deutsche-startups.de/2026/07/25/wochenrueckblick-30-2026",
       "source": "deutsche-startups.de",
       "discovered_at": "2026-07-25T17:08:52.756280+00:00"
+    },
+    {
+      "name": "kausable",
+      "website": "https://kausable.ai/",
+      "key": "kausable.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103245+00:00"
+    },
+    {
+      "name": "telli",
+      "website": "https://www.telli.com/de",
+      "key": "telli.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103267+00:00"
+    },
+    {
+      "name": "Augustus",
+      "website": "http://augustus.com/",
+      "key": "augustus.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103276+00:00"
+    },
+    {
+      "name": "TaxGraph",
+      "website": "http://tax-graph.com/",
+      "key": "tax-graph.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103283+00:00"
+    },
+    {
+      "name": "Ampelo",
+      "website": "http://ampelo.de/",
+      "key": "ampelo.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103289+00:00"
+    },
+    {
+      "name": "re_source",
+      "website": "http://resource-intelligence.com/",
+      "key": "resource-intelligence.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103295+00:00"
+    },
+    {
+      "name": "Ora Computing",
+      "website": "https://www.oracomputing.com/",
+      "key": "oracomputing.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103301+00:00"
+    },
+    {
+      "name": "Soul of Concrete",
+      "website": "http://soulofconcrete.com/",
+      "key": "soulofconcrete.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103306+00:00"
+    },
+    {
+      "name": "deltaVision",
+      "website": "https://deltavision.space/",
+      "key": "deltavision.space",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103312+00:00"
+    },
+    {
+      "name": "KLAO",
+      "website": "http://klao.eu/",
+      "key": "klao.eu",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103318+00:00"
+    },
+    {
+      "name": "BodyWision",
+      "website": "http://bodywision.com/de",
+      "key": "bodywision.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103323+00:00"
+    },
+    {
+      "name": "Yovo",
+      "website": "http://yovo.de/",
+      "key": "yovo.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103330+00:00"
+    },
+    {
+      "name": "nemedus",
+      "website": "http://nemedus.de/",
+      "key": "nemedus.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103335+00:00"
+    },
+    {
+      "name": "Tawo",
+      "website": "http://tawo.group/",
+      "key": "tawo.group",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103340+00:00"
+    },
+    {
+      "name": "Vom Anziehungspunkt zum Ankerpunkt: DerUnternehmerTUM Incubator im MünchnerGründungsnetzwerk",
+      "website": "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk/",
+      "key": "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-07-26T16:29:50.103346+00:00"
+    },
+    {
+      "name": "DATATRONiQ",
+      "website": "https://datatroniq.com/de/",
+      "key": "datatroniq.com",
+      "source": "Berlin Startup Jobs (Data Science)",
+      "resolved": true,
+      "discovered_at": "2026-07-26T16:29:50.103380+00:00"
     }
   ],
-  "last_run": "2026-07-25T17:08:52.756327+00:00"
+  "last_run": "2026-07-26T16:29:50.103428+00:00"
 }
