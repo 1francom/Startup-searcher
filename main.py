@@ -554,14 +554,18 @@ def discover_startups() -> list[Startup]:
 # --------------------------------------------------------------------------- #
 
 def _build_email_body(new_startups: list[Startup]) -> tuple[str, str]:
-    """Return ``(plain_text, html)`` bodies listing the new startups."""
+    """Return ``(plain_text, html)`` bodies listing the new startups.
+
+    ``new_startups`` is expected to already be filtered down to resolved
+    leads only (see ``main()``) — every entry here links straight to the
+    startup's own website, never a portal/article page.
+    """
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     # Plain-text version.
     lines = [f"Startup Scout — {len(new_startups)} new lead(s) on {today}", ""]
     for i, s in enumerate(new_startups, 1):
-        tag = "" if s.resolved else "  [article link — company site not found]"
-        lines.append(f"{i}. {s.name}{tag}")
+        lines.append(f"{i}. {s.name}")
         lines.append(f"   {s.website}")
         lines.append(f"   (source: {s.source})")
         lines.append("")
@@ -570,9 +574,7 @@ def _build_email_body(new_startups: list[Startup]) -> tuple[str, str]:
     # HTML version.
     items = "\n".join(
         f'<li><a href="{s.website}">{s.name}</a> '
-        f'<span style="color:#888">— {s.website} (via {s.source})'
-        + ("" if s.resolved else " — article link, company site not found")
-        + "</span></li>"
+        f'<span style="color:#888">— {s.website} (via {s.source})</span></li>'
         for s in new_startups
     )
     html = f"""\
@@ -683,7 +685,16 @@ def main() -> int:
         for s in new_startups:
             log.info("  NEW: %s", s)
 
-    send_email(new_startups)
+    # Only email leads resolved to the startup's own website — fallback leads
+    # (portal/article link, company site not found) are still persisted below
+    # so they're never reprocessed, just never sent.
+    resolved_new = [s for s in new_startups if s.resolved]
+    log.info(
+        "%d of %d new leads resolved to a real company site — emailing those only.",
+        len(resolved_new), len(new_startups),
+    )
+
+    send_email(resolved_new)
     save_visited(state, new_startups)
 
     log.info("=== Startup Scout run finished ===")
