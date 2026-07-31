@@ -33,6 +33,7 @@
     "https://www.businessinsider.de/gruenderszene/deutscher-spacex-konkurrent-steuert-auf-2-milliarden-dollar-bewertung-zu",
     "https://www.businessinsider.de/gruenderszene/deutschlands-antwort-auf-spacex-start-up-koennte-mehr-als-2-milliarden-dollar-wert-sein",
     "https://www.businessinsider.de/gruenderszene/deutschlands-mega-unicorn-quantum-systems-sammelt-12-milliarden-ein",
+    "https://www.businessinsider.de/gruenderszene/die-unertraegliche-zumutung-des-link-klicks",
     "https://www.businessinsider.de/gruenderszene/die-zalando-mafia-diese-5-startups-sind-aus-dem-modehaendler-entstanden",
     "https://www.businessinsider.de/gruenderszene/dieses-berliner-startup-will-gold-aus-abwasser-holen",
     "https://www.businessinsider.de/gruenderszene/doch-kein-crepe-stand-ex-fdp-chef-duerr-wechselt-zu-diesem-startup",
@@ -40,6 +41,7 @@
     "https://www.businessinsider.de/gruenderszene/enpal-baut-erneut-stellen-ab-warum-jetzt-ein-kompletter-standort-geschlossen-wird",
     "https://www.businessinsider.de/gruenderszene/enpal-schliesst-standort-in-hamburg-rund-85-mitarbeiter-entlassen",
     "https://www.businessinsider.de/gruenderszene/europas-wertvollstes-ruestungs-startup-die-unglaubliche-helsing-story",
+    "https://www.businessinsider.de/gruenderszene/ex-openai-managerin-kann-das-tempo-im-silicon-valley-nicht-mehr-mitgehen",
     "https://www.businessinsider.de/gruenderszene/ex-openai-managerin-zieht-reissleine-kann-das-tempo-nicht-mehr-mitgehen",
     "https://www.businessinsider.de/gruenderszene/fast-600-millionen-in-bar-netflix-kauft-ki-startup-von-ben-affleck",
     "https://www.businessinsider.de/gruenderszene/fehler-im-aws-kostentool-laesst-gruender-apokalyptische-schulden-fuerchten",
@@ -78,6 +80,7 @@
     "https://www.businessinsider.de/gruenderszene/nach-gerichtsverfahren-produzent-von-christian-wolfs-more-jetzt-mit-betriebsrat",
     "https://www.businessinsider.de/gruenderszene/nach-prozess-christian-wolfs-proteinfabrik-bekommt-nun-betriebsrat",
     "https://www.businessinsider.de/gruenderszene/netflix-kauft-fuer-fast-600-millionen-ben-afflecks-ki-startup",
+    "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-gerade-gruender-machen",
     "https://www.businessinsider.de/gruenderszene/ploetzlich-kosten-in-milliardenhoehe-systemfehler-schockt-unternehmer",
     "https://www.businessinsider.de/gruenderszene/rente-in-startups-investieren-der-neue-plan-der-bundesregierung",
     "https://www.businessinsider.de/gruenderszene/sap-milliardaer-dietmar-hopp-so-investiert-die-hopp-familie-ihr-vermoegen",
@@ -88,6 +91,8 @@
     "https://www.businessinsider.de/gruenderszene/so-veraendert-ki-venture-capital-wirklich-insights-von-earlybird-partner",
     "https://www.businessinsider.de/gruenderszene/soll-chinas-ki-ausgebremst-werden",
     "https://www.businessinsider.de/gruenderszene/sponsored-post/erstmals-messbar-so-entscheiden-business-angels-wirklich-companisto",
+    "https://www.businessinsider.de/gruenderszene/sponsored-post/wie-sich-maerkte-veraendern-und-marken-relevant-bleiben-gizeh",
+    "https://www.businessinsider.de/gruenderszene/startup-verspricht-bewerbern-interview-wenn-sie-sich-das-firmenlogo-taetowieren",
     "https://www.businessinsider.de/gruenderszene/statt-neuer-investoren-holt-sich-dieses-startup-lieber-schulden-ins-haus",
     "https://www.businessinsider.de/gruenderszene/thelen-vier-jungs-in-der-garage-so-liefen-die-ersten-jahre-der-flugtaxi-hoffnung-lilium",
     "https://www.businessinsider.de/gruenderszene/trade-republic-darum-schweigt-brad-pitt-in-der-millionenkampagne",
@@ -181,6 +186,8 @@
     "https://www.deutsche-startups.de/2026/07/30/blnwrk-autodoc-microagi-ki-acton-capital",
     "https://www.deutsche-startups.de/2026/07/30/deutschland-gruendet-wieder-jetzt-muss-der-erfolg-zurueckfliessen",
     "https://www.deutsche-startups.de/2026/07/30/ich-sehe-gute-chancen-fuer-teams-mit-klarer-traktion",
+    "https://www.deutsche-startups.de/2026/07/31/geo-was-startups-jetzt-konkret-tun-muessen",
+    "https://www.deutsche-startups.de/2026/07/31/pr-journalistinnen-startups-reputation-geo-pressemitteilungen-publishing",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
     "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
     "https://www.startbase.com/news/5u-ai-erhaelt-32-millionen-us-dollar-pre-seed",
@@ -2178,7 +2185,63 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-07-30T17:42:52.625149+00:00"
+    },
+    {
+      "name": "wenn sie sich das Firmenlogo tätowieren lassen",
+      "website": "https://www.businessinsider.de/gruenderszene/startup-verspricht-bewerbern-interview-wenn-sie-sich-das-firmenlogo-taetowieren/",
+      "key": "https://www.businessinsider.de/gruenderszene/startup-verspricht-bewerbern-interview-wenn-sie-sich-das-firmenlogo-taetowieren",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-07-31T17:47:11.230482+00:00"
+    },
+    {
+      "name": "Die unerträgliche Zumutung des Link-Klicks",
+      "website": "https://www.businessinsider.de/gruenderszene/die-unertraegliche-zumutung-des-link-klicks/",
+      "key": "https://www.businessinsider.de/gruenderszene/die-unertraegliche-zumutung-des-link-klicks",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-07-31T17:47:11.230505+00:00"
+    },
+    {
+      "name": "„Ich kann das Tempo eines Startups nicht mehr mitgehen“: Ex-OpenAI-Managerin zieht die Reißleine",
+      "website": "https://www.businessinsider.de/gruenderszene/ex-openai-managerin-kann-das-tempo-im-silicon-valley-nicht-mehr-mitgehen/",
+      "key": "https://www.businessinsider.de/gruenderszene/ex-openai-managerin-kann-das-tempo-im-silicon-valley-nicht-mehr-mitgehen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-07-31T17:47:11.230512+00:00"
+    },
+    {
+      "name": "weil KI das Bauen so einfach macht",
+      "website": "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-gerade-gruender-machen/",
+      "key": "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-gerade-gruender-machen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-07-31T17:47:11.230516+00:00"
+    },
+    {
+      "name": "Wie sich Märkte verändern und Marken relevant bleiben",
+      "website": "https://www.businessinsider.de/gruenderszene/sponsored-post/wie-sich-maerkte-veraendern-und-marken-relevant-bleiben-gizeh/",
+      "key": "https://www.businessinsider.de/gruenderszene/sponsored-post/wie-sich-maerkte-veraendern-und-marken-relevant-bleiben-gizeh",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-07-31T17:47:11.230520+00:00"
+    },
+    {
+      "name": "+++ PR ++++ Journalist:innen +++ Startups +++ Reputation +++ GEO +++ Pressemitteilungen +++ Publishing +++",
+      "website": "https://www.deutsche-startups.de/2026/07/31/pr-journalistinnen-startups-reputation-geo-pressemitteilungen-publishing/",
+      "key": "https://www.deutsche-startups.de/2026/07/31/pr-journalistinnen-startups-reputation-geo-pressemitteilungen-publishing",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-07-31T17:47:11.230524+00:00"
+    },
+    {
+      "name": "GEO: Was Startups jetzt konkret tun müssen",
+      "website": "https://www.deutsche-startups.de/2026/07/31/geo-was-startups-jetzt-konkret-tun-muessen/",
+      "key": "https://www.deutsche-startups.de/2026/07/31/geo-was-startups-jetzt-konkret-tun-muessen",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-07-31T17:47:11.230528+00:00"
     }
   ],
-  "last_run": "2026-07-30T17:42:52.625206+00:00"
+  "last_run": "2026-07-31T17:47:11.230570+00:00"
 }
