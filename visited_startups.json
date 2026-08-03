@@ -2,6 +2,7 @@
   "domains": [
     "aiceflow.de",
     "ampelo.de",
+    "ampway.de",
     "augustus.com",
     "bodywision.com",
     "cense.com",
@@ -33,6 +34,7 @@
     "https://www.businessinsider.de/gruenderszene/deutscher-spacex-konkurrent-steuert-auf-2-milliarden-dollar-bewertung-zu",
     "https://www.businessinsider.de/gruenderszene/deutschlands-antwort-auf-spacex-start-up-koennte-mehr-als-2-milliarden-dollar-wert-sein",
     "https://www.businessinsider.de/gruenderszene/deutschlands-mega-unicorn-quantum-systems-sammelt-12-milliarden-ein",
+    "https://www.businessinsider.de/gruenderszene/die-seltsame-angst-vor-links-bei-whatsapp",
     "https://www.businessinsider.de/gruenderszene/die-unertraegliche-zumutung-des-link-klicks",
     "https://www.businessinsider.de/gruenderszene/die-zalando-mafia-diese-5-startups-sind-aus-dem-modehaendler-entstanden",
     "https://www.businessinsider.de/gruenderszene/dieses-berliner-startup-will-gold-aus-abwasser-holen",
@@ -52,6 +54,7 @@
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/angriff-auf-google-maps-dieses-startup-will-fake-bewertungen-ueberfluessig-machen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/baut-er-das-deutsche-polymarket",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/diese-20-jaehrige-will-das-doctolib-fuer-handwerker-bauen",
+    "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/diese-panne-hat-mich-gelehrt-worauf-es-beim-gruenden-ankommt",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/diese-panne-lehrte-mich-worauf-es-beim-gruenden-ankommt",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/diese-strategie-hat-meine-sales-calls-komplett-veraendert",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/dieser-student-will-euch-zu-influencern-machen",
@@ -62,6 +65,7 @@
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/wetten-auf-doenerpreise-wahlen-und-fussball-baut-er-das-deutsche-polymarket",
     "https://www.businessinsider.de/gruenderszene/handwerklich-schwach-reaktionen-auf-reiches-startup-strategie",
     "https://www.businessinsider.de/gruenderszene/hast-du-frueher-andere-verpruegelt-brammibals-gruenderin-im-interview",
+    "https://www.businessinsider.de/gruenderszene/ich-habe-nur-vier-stunden-pro-nacht-geschlafen-was-vereinbarkeit-bedeutet",
     "https://www.businessinsider.de/gruenderszene/jemand-richtete-eine-schusswaffe-auf-mich-queere-gruender-ueber-hass",
     "https://www.businessinsider.de/gruenderszene/kann-das-tempo-nicht-mehr-mitgehen-ex-openai-managerin-zieht-reissleine",
     "https://www.businessinsider.de/gruenderszene/ki-schreibt-fast-den-gesamten-code-doch-der-boom-hat-seinen-preis",
@@ -81,8 +85,10 @@
     "https://www.businessinsider.de/gruenderszene/nach-prozess-christian-wolfs-proteinfabrik-bekommt-nun-betriebsrat",
     "https://www.businessinsider.de/gruenderszene/netflix-kauft-fuer-fast-600-millionen-ben-afflecks-ki-startup",
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-gerade-gruender-machen",
+    "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-startup-gruender-gerade-machen",
     "https://www.businessinsider.de/gruenderszene/ploetzlich-kosten-in-milliardenhoehe-systemfehler-schockt-unternehmer",
     "https://www.businessinsider.de/gruenderszene/rente-in-startups-investieren-der-neue-plan-der-bundesregierung",
+    "https://www.businessinsider.de/gruenderszene/sales-profi-nach-tausend-cold-calls-diese-3-regeln-bringen-millionen-deals",
     "https://www.businessinsider.de/gruenderszene/sap-milliardaer-dietmar-hopp-so-investiert-die-hopp-familie-ihr-vermoegen",
     "https://www.businessinsider.de/gruenderszene/schnecke-statt-unicorn-warum-diese-gruender-keinen-vc-wollten",
     "https://www.businessinsider.de/gruenderszene/schwach-unambitioniert-gruenen-politikerin-kritisiert-reiches-strategie",
@@ -108,15 +114,18 @@
     "https://www.businessinsider.de/gruenderszene/vor-diesem-34-jaehrigen-chinesen-zittert-das-silicon-valley",
     "https://www.businessinsider.de/gruenderszene/warum-deutschlands-ki-hoffnung-langdock-in-den-usa-sitzt",
     "https://www.businessinsider.de/gruenderszene/warum-die-meisten-im-vertrieb-viel-zu-frueh-aufgeben",
+    "https://www.businessinsider.de/gruenderszene/warum-dieser-unternehmer-den-satz-meine-firma-ist-meine-familie-ablehnt",
     "https://www.businessinsider.de/gruenderszene/warum-es-manchmal-richtig-ist-seine-startup-idee-fallen-zu-lassen",
     "https://www.businessinsider.de/gruenderszene/warum-es-richtig-ist-unsere-rente-in-riskante-startups-zu-stecken",
     "https://www.businessinsider.de/gruenderszene/warum-gruender-keinen-alkohol-mehr-trinken-die-nuechterne-startup-szene",
     "https://www.businessinsider.de/gruenderszene/warum-lilium-die-100-millionen-nie-bekam-und-daran-scheiterte",
     "https://www.businessinsider.de/gruenderszene/warum-selbst-gruender-manchmal-frueher-feierabend-machen-sollten",
     "https://www.businessinsider.de/gruenderszene/wer-nicht-performt-muss-weg-dash0-gruender-ueber-harte-entscheidungen",
+    "https://www.businessinsider.de/gruenderszene/wer-sich-das-firmenlogo-taetowiert-bekommt-ein-vorstellungsgespraech",
     "https://www.businessinsider.de/gruenderszene/wer-ueber-buerokratie-schimpft-sucht-sich-nur-eine-ausrede",
     "https://www.businessinsider.de/gruenderszene/wie-berlin-milliarden-euro-einnehmen-koennte",
     "https://www.businessinsider.de/gruenderszene/wie-helsing-zum-groessten-ruestungs-startups-europas-wurde",
+    "https://www.businessinsider.de/gruenderszene/wir-machen-jungen-menschen-mehr-angst-vor-dem-gruenden-als-noetig",
     "https://www.businessinsider.de/gruenderszene/zweifel-an-liliums-versprechen-war-der-jet-physikalisch-ueberhaupt-moeglich",
     "https://www.deutsche-startups.de/2026/07/06/andercore-erhaelt-30-millionen-stenon-sammelt-18-millionen-ein-alqem-bekommt-8-millionen",
     "https://www.deutsche-startups.de/2026/07/06/eine-sommernacht-10-startups-viele-ideen",
@@ -188,6 +197,9 @@
     "https://www.deutsche-startups.de/2026/07/30/ich-sehe-gute-chancen-fuer-teams-mit-klarer-traktion",
     "https://www.deutsche-startups.de/2026/07/31/geo-was-startups-jetzt-konkret-tun-muessen",
     "https://www.deutsche-startups.de/2026/07/31/pr-journalistinnen-startups-reputation-geo-pressemitteilungen-publishing",
+    "https://www.deutsche-startups.de/2026/08/03/am-ende-braucht-es-immer-auch-ein-stueck-glueck",
+    "https://www.deutsche-startups.de/2026/08/03/stroya-twaice-omio-founders-stories-2-0-neoteq",
+    "https://www.startbase.com/meinung/gross-groesser-gelogen",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
     "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
     "https://www.startbase.com/news/5u-ai-erhaelt-32-millionen-us-dollar-pre-seed",
@@ -213,7 +225,9 @@
     "https://www.startbase.com/news/fortino-capital-investiert-in-operations1",
     "https://www.startbase.com/news/fresenius-startet-venture-fonds-mit-mindestens-200-millionen-euro-fuer-gesundheits-startups",
     "https://www.startbase.com/news/helsing-sichert-sich-18-milliarden-us-dollar-series-e",
+    "https://www.startbase.com/news/highest-und-futury-starten-zweite-phase-ihres-company-builders-mit-450-000-euro-privatem-kapital",
     "https://www.startbase.com/news/humanoid-sammelt-152-millionen-us-dollar-ein-und-erreicht-unicorn-bewertung",
+    "https://www.startbase.com/news/index-ventures-sammelt-35-milliarden-us-dollar-fuer-neue-seed-venture-und-growth-fonds-ein",
     "https://www.startbase.com/news/kicker-ventures-steigt-bei-cotrainer-ein",
     "https://www.startbase.com/news/konstanzer-medtech-startup-eversion-technologies-erhaelt-23-millionen-euro-seed-ii-finanzierung",
     "https://www.startbase.com/news/lilly-kauft-ataibeckley-fuer-bis-zu-38-milliarden-us-dollar-und-setzt-auf-neue-therapien-gegen-therapieresistente-depressionen",
@@ -226,6 +240,7 @@
     "https://www.startbase.com/news/neko-health-erhaelt-700-millionen-us-dollar-fuer-den-ausbau-seiner-praeventionsplattform",
     "https://www.startbase.com/news/nestermind-erhaelt-siebenstellige-seed-finanzierung-fuer-seine-ki-crm-plattform",
     "https://www.startbase.com/news/nextgo-epi-zieht-2-millionen-euro-an-land",
+    "https://www.startbase.com/news/nia-health-kooperiert-mit-abbvie-deutschland-bei-ki-gestuetzter-neurodermitis-versorgung",
     "https://www.startbase.com/news/nous-sammelt-23-millionen-euro-seed-ein",
     "https://www.startbase.com/news/nxtgn-startup-factory-waechst-tuebingen-freiburg-und-hohenheim-schliessen-sich-an",
     "https://www.startbase.com/news/promptwatch-sammelt-6-millionen-euro-ein-und-setzt-auf-die-zukunft-der-ki-suchoptimierung",
@@ -249,14 +264,17 @@
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
     "https://www.startbase.com/reports/deutschland-zaehlt-erstmals-mehr-als-3-000-neugruendungen-in-nur-sechs-monaten",
+    "jouly.ai",
     "kausable.ai",
     "klao.eu",
     "knowlix.ai",
     "mevio.io",
     "mkind.ai",
     "nemedus.de",
+    "nomerra.com",
     "noranotes.ai",
     "oracomputing.com",
+    "outcomet.app",
     "padelcity.de",
     "patchley.com",
     "praedia.ai",
@@ -264,6 +282,7 @@
     "resource-intelligence.com",
     "seppy.de",
     "soulofconcrete.com",
+    "stabley.io",
     "sudzero.de",
     "tawo.group",
     "tax-graph.com",
@@ -2259,7 +2278,159 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-02T17:09:07.831579+00:00"
+    },
+    {
+      "name": "diese 3 Regeln brachten ihm Millionen-Deals",
+      "website": "https://www.businessinsider.de/gruenderszene/sales-profi-nach-tausend-cold-calls-diese-3-regeln-bringen-millionen-deals/",
+      "key": "https://www.businessinsider.de/gruenderszene/sales-profi-nach-tausend-cold-calls-diese-3-regeln-bringen-millionen-deals",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933692+00:00"
+    },
+    {
+      "name": "Wir machen jungen Menschen mehr Angst vor dem Gründen, als sie dafür zu begeistern",
+      "website": "https://www.businessinsider.de/gruenderszene/wir-machen-jungen-menschen-mehr-angst-vor-dem-gruenden-als-noetig/",
+      "key": "https://www.businessinsider.de/gruenderszene/wir-machen-jungen-menschen-mehr-angst-vor-dem-gruenden-als-noetig",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933715+00:00"
+    },
+    {
+      "name": "Warum dieser Unternehmer den Satz „Meine Firma ist meine Familie“ ablehnt",
+      "website": "https://www.businessinsider.de/gruenderszene/warum-dieser-unternehmer-den-satz-meine-firma-ist-meine-familie-ablehnt/",
+      "key": "https://www.businessinsider.de/gruenderszene/warum-dieser-unternehmer-den-satz-meine-firma-ist-meine-familie-ablehnt",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933724+00:00"
+    },
+    {
+      "name": "Diese Panne hat mich gelehrt, worauf es beim Gründen ankommt",
+      "website": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/diese-panne-hat-mich-gelehrt-worauf-es-beim-gruenden-ankommt/",
+      "key": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/diese-panne-hat-mich-gelehrt-worauf-es-beim-gruenden-ankommt",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933730+00:00"
+    },
+    {
+      "name": "Whatsapp",
+      "website": "https://www.businessinsider.de/gruenderszene/die-seltsame-angst-vor-links-bei-whatsapp/",
+      "key": "https://www.businessinsider.de/gruenderszene/die-seltsame-angst-vor-links-bei-whatsapp",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933735+00:00"
+    },
+    {
+      "name": "Wer sich das Firmenlogo tätowiert, bekommt ein Vorstellungsgespräch",
+      "website": "https://www.businessinsider.de/gruenderszene/wer-sich-das-firmenlogo-taetowiert-bekommt-ein-vorstellungsgespraech/",
+      "key": "https://www.businessinsider.de/gruenderszene/wer-sich-das-firmenlogo-taetowiert-bekommt-ein-vorstellungsgespraech",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933741+00:00"
+    },
+    {
+      "name": "weil KI das Bauen so einfach macht",
+      "website": "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-startup-gruender-gerade-machen/",
+      "key": "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-startup-gruender-gerade-machen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933746+00:00"
+    },
+    {
+      "name": "„Ich habe nur vier Stunden pro Nacht geschlafen“: Was Vereinbarkeit von Karriere und Familie wirklich heißt",
+      "website": "https://www.businessinsider.de/gruenderszene/ich-habe-nur-vier-stunden-pro-nacht-geschlafen-was-vereinbarkeit-bedeutet/",
+      "key": "https://www.businessinsider.de/gruenderszene/ich-habe-nur-vier-stunden-pro-nacht-geschlafen-was-vereinbarkeit-bedeutet",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933751+00:00"
+    },
+    {
+      "name": "Nomerra",
+      "website": "http://nomerra.com/",
+      "key": "nomerra.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-03T17:59:07.933757+00:00"
+    },
+    {
+      "name": "Ampway",
+      "website": "http://ampway.de/",
+      "key": "ampway.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-03T17:59:07.933762+00:00"
+    },
+    {
+      "name": "Outcomet",
+      "website": "https://outcomet.app/",
+      "key": "outcomet.app",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-03T17:59:07.933767+00:00"
+    },
+    {
+      "name": "Stabley",
+      "website": "http://stabley.io/de",
+      "key": "stabley.io",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-03T17:59:07.933772+00:00"
+    },
+    {
+      "name": "Jouly",
+      "website": "http://jouly.ai/",
+      "key": "jouly.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-03T17:59:07.933777+00:00"
+    },
+    {
+      "name": "+++ stroya +++ Twaice +++ Omio +++ Founders‘ Stories 2.0 +++ neoteq +++",
+      "website": "https://www.deutsche-startups.de/2026/08/03/stroya-twaice-omio-founders-stories-2-0-neoteq/",
+      "key": "https://www.deutsche-startups.de/2026/08/03/stroya-twaice-omio-founders-stories-2-0-neoteq",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933782+00:00"
+    },
+    {
+      "name": "„Am Ende braucht es immer auch ein Stück Glück“",
+      "website": "https://www.deutsche-startups.de/2026/08/03/am-ende-braucht-es-immer-auch-ein-stueck-glueck/",
+      "key": "https://www.deutsche-startups.de/2026/08/03/am-ende-braucht-es-immer-auch-ein-stueck-glueck",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933788+00:00"
+    },
+    {
+      "name": "HIGHEST und FUTURY starten zweite Phase ihres Company Builders mit 450.000 Euro privatem Kapital",
+      "website": "https://www.startbase.com/news/highest-und-futury-starten-zweite-phase-ihres-company-builders-mit-450-000-euro-privatem-kapital/",
+      "key": "https://www.startbase.com/news/highest-und-futury-starten-zweite-phase-ihres-company-builders-mit-450-000-euro-privatem-kapital",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933793+00:00"
+    },
+    {
+      "name": "Index Ventures sammelt 3,5 Milliarden US-Dollar für neue Seed-, Venture- und Growth-Fonds ein",
+      "website": "https://www.startbase.com/news/index-ventures-sammelt-35-milliarden-us-dollar-fuer-neue-seed-venture-und-growth-fonds-ein/",
+      "key": "https://www.startbase.com/news/index-ventures-sammelt-35-milliarden-us-dollar-fuer-neue-seed-venture-und-growth-fonds-ein",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933797+00:00"
+    },
+    {
+      "name": "KI-gestützter Neurodermitis-Versorgung",
+      "website": "https://www.startbase.com/news/nia-health-kooperiert-mit-abbvie-deutschland-bei-ki-gestuetzter-neurodermitis-versorgung/",
+      "key": "https://www.startbase.com/news/nia-health-kooperiert-mit-abbvie-deutschland-bei-ki-gestuetzter-neurodermitis-versorgung",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933803+00:00"
+    },
+    {
+      "name": "Groß, größer, gelogen?",
+      "website": "https://www.startbase.com/meinung/gross-groesser-gelogen/",
+      "key": "https://www.startbase.com/meinung/gross-groesser-gelogen",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-03T17:59:07.933808+00:00"
     }
   ],
-  "last_run": "2026-08-02T17:09:07.831661+00:00"
+  "last_run": "2026-08-03T17:59:07.933855+00:00"
 }
