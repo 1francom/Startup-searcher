@@ -309,6 +309,7 @@
     "https://www.startbase.com/news/willidrop-startet-offiziell-und-sichert-sich-finanzierung-fuer-ki-in-der-fahrzeuglogistik",
     "https://www.startbase.com/news/xtend-fusioniert-mit-jfb-15-milliarden-dollar-deal-bringt-israelischen-drohnenpionier-an-die-nasdaq",
     "https://www.startbase.com/news/zalando-steigt-bei-robotik-startup-sereact-ein-finanzierungsrunde-waechst-auf-116-millionen-us-dollar",
+    "https://www.startbase.com/portraits/10-jahre-q-summit-was-passiert-wenn-studierende-ihre-eigene-startup-konferenz-gruenden",
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
     "https://www.startbase.com/reports/deutschland-zaehlt-erstmals-mehr-als-3-000-neugruendungen-in-nur-sechs-monaten",
@@ -2925,7 +2926,15 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-07T16:59:56.837325+00:00"
+    },
+    {
+      "name": "10 Jahre Q-Summit: Was passiert, wenn Studierende ihre  eigene Startup-Konferenz gründen?",
+      "website": "https://www.startbase.com/portraits/10-jahre-q-summit-was-passiert-wenn-studierende-ihre-eigene-startup-konferenz-gruenden/",
+      "key": "https://www.startbase.com/portraits/10-jahre-q-summit-was-passiert-wenn-studierende-ihre-eigene-startup-konferenz-gruenden",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-09T16:44:43.321327+00:00"
     }
   ],
-  "last_run": "2026-08-08T16:42:37.290054+00:00"
+  "last_run": "2026-08-09T16:44:43.321426+00:00"
 }
