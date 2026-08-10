@@ -1,14 +1,17 @@
 {
   "domains": [
     "aiceflow.de",
+    "alqem.ai",
     "ampelo.de",
     "ampway.de",
+    "atlea.com",
     "augustus.com",
     "birdwave.de",
     "bodywision.com",
     "cense.com",
     "ciro.immo",
     "datatroniq.com",
+    "de.navvis.com",
     "deltavision.space",
     "detesia.com",
     "evems.de",
@@ -44,6 +47,7 @@
     "https://www.businessinsider.de/gruenderszene/die-unertraegliche-zumutung-des-link-klicks",
     "https://www.businessinsider.de/gruenderszene/die-zalando-mafia-diese-5-startups-sind-aus-dem-modehaendler-entstanden",
     "https://www.businessinsider.de/gruenderszene/diese-3-dinge-sind-der-vc-partnerin-bei-gruendern-besonders-wichtig",
+    "https://www.businessinsider.de/gruenderszene/diese-7-ki-startups-haben-einen-ueberraschenden-investor-die-telekom",
     "https://www.businessinsider.de/gruenderszene/diese-drei-eigenschaften-trennen-erfolgreiche-unternehmer-vom-rest",
     "https://www.businessinsider.de/gruenderszene/dieses-berliner-startup-will-gold-aus-abwasser-holen",
     "https://www.businessinsider.de/gruenderszene/doch-kein-crepe-stand-ex-fdp-chef-duerr-wechselt-zu-diesem-startup",
@@ -71,11 +75,13 @@
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/ich-hatte-schon-500-nutzer-trotzdem-habe-ich-meine-app-umbenannt",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/mit-diesem-einen-trick-startete-ich-das-marketing-fuer-meine-app",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/sie-wollen-die-art-veraendern-wie-wir-restaurants-entdecken",
+    "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/so-habe-ich-meine-app-in-den-app-store-gebracht-schritt-fuer-schritt",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/vom-coder-zum-verkaeufer-wenn-gruender-ueber-ihren-schatten-springen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/wetten-auf-doenerpreise-wahlen-und-fussball-baut-er-das-deutsche-polymarket",
     "https://www.businessinsider.de/gruenderszene/handwerklich-schwach-reaktionen-auf-reiches-startup-strategie",
     "https://www.businessinsider.de/gruenderszene/hast-du-frueher-andere-verpruegelt-brammibals-gruenderin-im-interview",
     "https://www.businessinsider.de/gruenderszene/ich-habe-nur-vier-stunden-pro-nacht-geschlafen-was-vereinbarkeit-bedeutet",
+    "https://www.businessinsider.de/gruenderszene/ich-nutze-ki-statt-praktikanten-und-bin-damit-produktiver",
     "https://www.businessinsider.de/gruenderszene/in-diesen-drei-staedten-rechnet-niemand-mit-milliardenfirmen",
     "https://www.businessinsider.de/gruenderszene/jared-leto-plante-75-millionen-dollar-fonds-vor-den-juengsten-vorwuerfen",
     "https://www.businessinsider.de/gruenderszene/jemand-richtete-eine-schusswaffe-auf-mich-queere-gruender-ueber-hass",
@@ -102,6 +108,8 @@
     "https://www.businessinsider.de/gruenderszene/nach-ueber-20-jahren-berufserfahrung-das-sind-die-3-learnings-eines-unternehmers",
     "https://www.businessinsider.de/gruenderszene/netflix-kauft-fuer-fast-600-millionen-ben-afflecks-ki-startup",
     "https://www.businessinsider.de/gruenderszene/neues-unicorn-berliner-fintech-moss-knackt-milliarden-bewertung",
+    "https://www.businessinsider.de/gruenderszene/news/8-investoren-2-neuzugaenge-das-ist-das-neue-loewenrudel-in-staffel-20-von-die-hoehle-der-loewen",
+    "https://www.businessinsider.de/gruenderszene/openai-kauft-nextslide-dieses-neue-tool-koennte-jetzt-fuer-chatgpt-kommen",
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-gerade-gruender-machen",
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-startup-gruender-gerade-machen",
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-fehlern-die-startup-gruender-gerade-machen",
@@ -130,12 +138,14 @@
     "https://www.businessinsider.de/gruenderszene/two-and-a-half-men-star-ashton-kutcher-startet-neuen-ki-fonds",
     "https://www.businessinsider.de/gruenderszene/uber-gruender-sammelt-17-milliarden-dollar-fuer-sein-robotik-startup-ein",
     "https://www.businessinsider.de/gruenderszene/ueber-buerokratie-zu-schimpfen-ist-nur-eine-ausrede-eigentliche-haben-sie-angst",
+    "https://www.businessinsider.de/gruenderszene/unbekannte-alternative-zu-aktien-das-ist-der-grosse-unterschied",
     "https://www.businessinsider.de/gruenderszene/unbekannte-alternative-zu-aktien-neobroker-fuer-genossenschaften",
     "https://www.businessinsider.de/gruenderszene/unternehmen-in-dieses-hamburger-getraenke-startup-investiert-caro-daur",
     "https://www.businessinsider.de/gruenderszene/urlaubsgruesse-von-maschmeyer-co-hier-machen-unsere-gruender-urlaub",
     "https://www.businessinsider.de/gruenderszene/verrennen-sich-in-ideen-vercel-cto-erklaert-warum-gruender-scheitern",
     "https://www.businessinsider.de/gruenderszene/vibecoding-tech-experte-verraet-seine-drei-wichtigsten-tipps",
     "https://www.businessinsider.de/gruenderszene/vor-diesem-34-jaehrigen-chinesen-zittert-das-silicon-valley",
+    "https://www.businessinsider.de/gruenderszene/warum-der-richtige-startup-name-oft-die-groesste-herausforderung-ist",
     "https://www.businessinsider.de/gruenderszene/warum-deutschlands-ki-hoffnung-langdock-in-den-usa-sitzt",
     "https://www.businessinsider.de/gruenderszene/warum-die-meisten-im-vertrieb-viel-zu-frueh-aufgeben",
     "https://www.businessinsider.de/gruenderszene/warum-dieser-unternehmer-den-satz-meine-firma-ist-meine-familie-ablehnt",
@@ -231,8 +241,11 @@
     "https://www.deutsche-startups.de/2026/08/06/alphawave-scheint-der-durchbruch-gelungen-zu-sein",
     "https://www.deutsche-startups.de/2026/08/06/camunda-cosmema-ryon-futury-21-work-hacks",
     "https://www.deutsche-startups.de/2026/08/06/operative-arbeit-motiviert-mich-am-meisten",
+    "https://www.deutsche-startups.de/2026/08/07/speichertechnologie-treibt-den-boom-der-mini-solaranlagen-an",
     "https://www.deutsche-startups.de/2026/08/07/visionaries-accel-spotmyenergy-venture-capital-zelara",
     "https://www.deutsche-startups.de/2026/08/07/wie-ich-mit-ki-den-flaschenhals-in-meinem-unternehmen-beseitigt-habe",
+    "https://www.deutsche-startups.de/2026/08/10/ich-erwarte-keinen-grundlegenden-stimmungswechsel",
+    "https://www.deutsche-startups.de/2026/08/10/vincifi-moss-fintech-unicorn-sonosolar-ki",
     "https://www.startbase.com/meinung/gross-groesser-gelogen",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
     "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
@@ -249,6 +262,7 @@
     "https://www.startbase.com/news/bm-h-stellt-5-millionen-euro-wachstumskapital-fuer-die-fib-frankfurt-international-bank-bereit",
     "https://www.startbase.com/news/bm-h-unterstuetzt-antrok-mit-1-million-euro-beim-ausbau-modularer-energieloesungen",
     "https://www.startbase.com/news/bundeskabinett-beschliesst-startup-und-scaleup-strategie-mit-152-massnahmen",
+    "https://www.startbase.com/news/cambridge-aerospace-sammelt-300-mio-us-dollar-ein-und-erreicht-34-mrd-us-dollar-bewertung",
     "https://www.startbase.com/news/chargepoly-sichert-sich-23-millionen-euro",
     "https://www.startbase.com/news/circular-materials-erhaelt-118-millionen-euro-fuer-den-ausbau-seiner-rohstoff-recyclingtechnologie",
     "https://www.startbase.com/news/cleversolutions-gruendet-autonomous-und-sichert-sich-finanzierung-fuer-den-betrieb-autonomer-fahrzeugflotten",
@@ -267,6 +281,7 @@
     "https://www.startbase.com/news/happyrobot-wird-unicorn-mit-deutscher-beteiligung-und-holt-sich-150-mio-usd",
     "https://www.startbase.com/news/helsing-sichert-sich-18-milliarden-us-dollar-series-e",
     "https://www.startbase.com/news/highest-und-futury-starten-zweite-phase-ihres-company-builders-mit-450-000-euro-privatem-kapital",
+    "https://www.startbase.com/news/hoehle-der-loewen/staffel-die-hoehle-der-loewen-zum-jubilaeum-waechst-das-rudel-auf-acht-investoren",
     "https://www.startbase.com/news/horizon3-wird-zum-cybersecurity-unicorn-250-millionen-us-dollar-bei-ueber-2-milliarden-bewertung",
     "https://www.startbase.com/news/humanoid-sammelt-152-millionen-us-dollar-ein-und-erreicht-unicorn-bewertung",
     "https://www.startbase.com/news/index-ventures-sammelt-35-milliarden-us-dollar-fuer-neue-seed-venture-und-growth-fonds-ein",
@@ -312,6 +327,7 @@
     "https://www.startbase.com/portraits/10-jahre-q-summit-was-passiert-wenn-studierende-ihre-eigene-startup-konferenz-gruenden",
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
+    "https://www.startbase.com/reports/deutschland-wird-aelter-anteil-junger-menschen-bleibt-auf-historischem-tiefstand",
     "https://www.startbase.com/reports/deutschland-zaehlt-erstmals-mehr-als-3-000-neugruendungen-in-nur-sechs-monaten",
     "jouly.ai",
     "kausable.ai",
@@ -323,6 +339,7 @@
     "mkind.ai",
     "nemedus.de",
     "nerdsip.com",
+    "nextgoepi.com",
     "noa.health",
     "nomerra.com",
     "noranotes.ai",
@@ -341,6 +358,8 @@
     "tawo.group",
     "tax-graph.com",
     "telli.com",
+    "titanspear.agency",
+    "trytripbot.com",
     "usemirel.com",
     "vambiant.com",
     "versipedia.de",
@@ -2934,7 +2953,159 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-09T16:44:43.321327+00:00"
+    },
+    {
+      "name": "Diese 7 KI-Startups haben einen überraschenden Investor: die Telekom",
+      "website": "https://www.businessinsider.de/gruenderszene/diese-7-ki-startups-haben-einen-ueberraschenden-investor-die-telekom/",
+      "key": "https://www.businessinsider.de/gruenderszene/diese-7-ki-startups-haben-einen-ueberraschenden-investor-die-telekom",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091314+00:00"
+    },
+    {
+      "name": "8 Investoren, 2 Neuzugänge: Das ist das neue Löwenrudel in Staffel 20 von „Die Höhle der Löwen“",
+      "website": "https://www.businessinsider.de/gruenderszene/news/8-investoren-2-neuzugaenge-das-ist-das-neue-loewenrudel-in-staffel-20-von-die-hoehle-der-loewen/",
+      "key": "https://www.businessinsider.de/gruenderszene/news/8-investoren-2-neuzugaenge-das-ist-das-neue-loewenrudel-in-staffel-20-von-die-hoehle-der-loewen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091341+00:00"
+    },
+    {
+      "name": "Schritt für Schritt",
+      "website": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/so-habe-ich-meine-app-in-den-app-store-gebracht-schritt-fuer-schritt/",
+      "key": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/so-habe-ich-meine-app-in-den-app-store-gebracht-schritt-fuer-schritt",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091349+00:00"
+    },
+    {
+      "name": "Warum der richtige Startup-Name oft die größte Herausforderung ist",
+      "website": "https://www.businessinsider.de/gruenderszene/warum-der-richtige-startup-name-oft-die-groesste-herausforderung-ist/",
+      "key": "https://www.businessinsider.de/gruenderszene/warum-der-richtige-startup-name-oft-die-groesste-herausforderung-ist",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091355+00:00"
+    },
+    {
+      "name": "und bin damit produktiver",
+      "website": "https://www.businessinsider.de/gruenderszene/ich-nutze-ki-statt-praktikanten-und-bin-damit-produktiver/",
+      "key": "https://www.businessinsider.de/gruenderszene/ich-nutze-ki-statt-praktikanten-und-bin-damit-produktiver",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091362+00:00"
+    },
+    {
+      "name": "OpenAI kauft NextSlide: Dieses neue Tool könnte jetzt für ChatGPT kommen",
+      "website": "https://www.businessinsider.de/gruenderszene/openai-kauft-nextslide-dieses-neue-tool-koennte-jetzt-fuer-chatgpt-kommen/",
+      "key": "https://www.businessinsider.de/gruenderszene/openai-kauft-nextslide-dieses-neue-tool-koennte-jetzt-fuer-chatgpt-kommen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091367+00:00"
+    },
+    {
+      "name": "Unbekannte Alternative zu Aktien: Gründer bauen Neobroker für Genossenschaften",
+      "website": "https://www.businessinsider.de/gruenderszene/unbekannte-alternative-zu-aktien-das-ist-der-grosse-unterschied/",
+      "key": "https://www.businessinsider.de/gruenderszene/unbekannte-alternative-zu-aktien-das-ist-der-grosse-unterschied",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091374+00:00"
+    },
+    {
+      "name": "NavVis",
+      "website": "https://de.navvis.com/",
+      "key": "de.navvis.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-10T17:00:46.091380+00:00"
+    },
+    {
+      "name": "atlea",
+      "website": "http://atlea.com/",
+      "key": "atlea.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-10T17:00:46.091400+00:00"
+    },
+    {
+      "name": "titanspear.ai",
+      "website": "https://titanspear.agency/",
+      "key": "titanspear.agency",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-10T17:00:46.091405+00:00"
+    },
+    {
+      "name": "tripbot",
+      "website": "http://trytripbot.com/de",
+      "key": "trytripbot.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-10T17:00:46.091411+00:00"
+    },
+    {
+      "name": "alqem",
+      "website": "http://www.alqem.ai/",
+      "key": "alqem.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-10T17:00:46.091649+00:00"
+    },
+    {
+      "name": "NextGO Epi",
+      "website": "http://www.nextgoepi.com/",
+      "key": "nextgoepi.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-10T17:00:46.091656+00:00"
+    },
+    {
+      "name": "+++ VinciFi +++ Moss +++ FinTech +++ Unicorn +++ SonoSolar +++ KI +++",
+      "website": "https://www.deutsche-startups.de/2026/08/10/vincifi-moss-fintech-unicorn-sonosolar-ki/",
+      "key": "https://www.deutsche-startups.de/2026/08/10/vincifi-moss-fintech-unicorn-sonosolar-ki",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091662+00:00"
+    },
+    {
+      "name": "„Ich erwarte keinen grundlegenden Stimmungswechsel“",
+      "website": "https://www.deutsche-startups.de/2026/08/10/ich-erwarte-keinen-grundlegenden-stimmungswechsel/",
+      "key": "https://www.deutsche-startups.de/2026/08/10/ich-erwarte-keinen-grundlegenden-stimmungswechsel",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091667+00:00"
+    },
+    {
+      "name": "Speichertechnologie treibt den Boom der Mini-Solaranlagen an",
+      "website": "https://www.deutsche-startups.de/2026/08/07/speichertechnologie-treibt-den-boom-der-mini-solaranlagen-an/",
+      "key": "https://www.deutsche-startups.de/2026/08/07/speichertechnologie-treibt-den-boom-der-mini-solaranlagen-an",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091672+00:00"
+    },
+    {
+      "name": "Staffel „Die Höhle der Löwen“: Zum Jubiläum wächst das Rudel auf acht Investoren",
+      "website": "https://www.startbase.com/news/hoehle-der-loewen/staffel-die-hoehle-der-loewen-zum-jubilaeum-waechst-das-rudel-auf-acht-investoren/",
+      "key": "https://www.startbase.com/news/hoehle-der-loewen/staffel-die-hoehle-der-loewen-zum-jubilaeum-waechst-das-rudel-auf-acht-investoren",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091677+00:00"
+    },
+    {
+      "name": "Cambridge Aerospace sammelt 300 Mio. US-Dollar ein und erreicht 3,4 Mrd. US-Dollar Bewertung",
+      "website": "https://www.startbase.com/news/cambridge-aerospace-sammelt-300-mio-us-dollar-ein-und-erreicht-34-mrd-us-dollar-bewertung/",
+      "key": "https://www.startbase.com/news/cambridge-aerospace-sammelt-300-mio-us-dollar-ein-und-erreicht-34-mrd-us-dollar-bewertung",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091682+00:00"
+    },
+    {
+      "name": "Deutschland wird älter: Anteil junger Menschen bleibt auf historischem Tiefstand",
+      "website": "https://www.startbase.com/reports/deutschland-wird-aelter-anteil-junger-menschen-bleibt-auf-historischem-tiefstand/",
+      "key": "https://www.startbase.com/reports/deutschland-wird-aelter-anteil-junger-menschen-bleibt-auf-historischem-tiefstand",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-10T17:00:46.091687+00:00"
     }
   ],
-  "last_run": "2026-08-09T16:44:43.321426+00:00"
+  "last_run": "2026-08-10T17:00:46.091756+00:00"
 }
