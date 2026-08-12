@@ -1,23 +1,28 @@
 {
   "domains": [
     "aiceflow.de",
+    "alawyer.ai",
     "alqem.ai",
     "ampelo.de",
     "ampway.de",
     "atlea.com",
     "augustus.com",
     "auxilius.ai",
+    "baudis.ai",
     "birdwave.de",
     "bodywision.com",
     "cense.com",
     "ciro.immo",
+    "citelm.com",
     "datatroniq.com",
     "de.navvis.com",
     "deltavision.space",
     "detesia.com",
+    "drvivienkarl.com",
     "evems.de",
     "familystories.love",
     "gosophia.ai",
+    "helmit.org",
     "hofsync.de",
     "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq",
     "https://remoteOK.com/remote-jobs/remote-data-analyst-haystack-1134078",
@@ -33,6 +38,7 @@
     "https://www.businessinsider.de/gruenderszene/bundesregierung-investiert-erstmals-direkt-in-ruestungs-startups",
     "https://www.businessinsider.de/gruenderszene/business/die-verlassenen-lilium-bueros-was-vom-flugtaxi-traum-uebrig-ist",
     "https://www.businessinsider.de/gruenderszene/business/scheiter-bilanz-was-brachte-das-flugtaxi-startup-lilium-zu-fall",
+    "https://www.businessinsider.de/gruenderszene/business/will-google-diesen-15-milliarden-dollar-deal",
     "https://www.businessinsider.de/gruenderszene/business/will-google-dieses-startup-fuer-15-milliarden-dollar-kaufen",
     "https://www.businessinsider.de/gruenderszene/caro-daur-investiert-in-dieses-deutsche-getraenke-startup",
     "https://www.businessinsider.de/gruenderszene/das-fordert-berlins-startup-szene-vom-naechsten-buergermeister",
@@ -66,6 +72,7 @@
     "https://www.businessinsider.de/gruenderszene/firmen-verstehen-ki-laengst-doch-ihnen-fehlt-etwas-ueberraschend-banales",
     "https://www.businessinsider.de/gruenderszene/fleiss-beats-everything-die-hiring-regeln-eines-unicorn-gruenders",
     "https://www.businessinsider.de/gruenderszene/food/von-lieferheld-zur-uber-nahme-die-grosse-delivery-hero-chronik",
+    "https://www.businessinsider.de/gruenderszene/ganz-schoen-meta-ich-habe-zuckerbergs-6500-woerter-ki-manifest-gelesen",
     "https://www.businessinsider.de/gruenderszene/geplatzer-deal-mit-der-politik-warum-lilium-die-100-millionen-nie-bekam",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/21-jaehriger-will-das-idealo-fuer-secondhand-bauen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/angriff-auf-google-maps-dieses-startup-will-fake-bewertungen-ueberfluessig-machen",
@@ -77,6 +84,7 @@
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/diese-strategie-hat-meine-sales-calls-komplett-veraendert",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/dieser-student-will-euch-zu-influencern-machen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/hier-koennt-ihr-auf-doenerpreise-wetten",
+    "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/ich-arbeite-120-stunden-pro-woche-und-treffe-keine-freunde",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/ich-hatte-schon-500-nutzer-trotzdem-habe-ich-meine-app-umbenannt",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/mit-diesem-einen-trick-startete-ich-das-marketing-fuer-meine-app",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/sie-wollen-die-art-veraendern-wie-wir-restaurants-entdecken",
@@ -92,6 +100,7 @@
     "https://www.businessinsider.de/gruenderszene/jared-leto-plante-75-millionen-dollar-fonds-vor-den-juengsten-vorwuerfen",
     "https://www.businessinsider.de/gruenderszene/jemand-richtete-eine-schusswaffe-auf-mich-queere-gruender-ueber-hass",
     "https://www.businessinsider.de/gruenderszene/kann-das-tempo-nicht-mehr-mitgehen-ex-openai-managerin-zieht-reissleine",
+    "https://www.businessinsider.de/gruenderszene/karriere-startup/nur-einer-von-300-schafft-es-so-laeuft-der-auswahlprozess-fuer-ein-praktikum-bei-cherry-ventures",
     "https://www.businessinsider.de/gruenderszene/ki-schreibt-fast-den-gesamten-code-doch-der-boom-hat-seinen-preis",
     "https://www.businessinsider.de/gruenderszene/ki-startup-ist-jetzt-ein-unicorn-150-konzerne-nutzen-es-bereits",
     "https://www.businessinsider.de/gruenderszene/ki-startups-diese-7-haben-einen-ueberraschenden-investor",
@@ -117,6 +126,7 @@
     "https://www.businessinsider.de/gruenderszene/neues-unicorn-berliner-fintech-moss-knackt-milliarden-bewertung",
     "https://www.businessinsider.de/gruenderszene/news/8-investoren-2-neuzugaenge-das-ist-das-neue-loewenrudel-in-staffel-20-von-die-hoehle-der-loewen",
     "https://www.businessinsider.de/gruenderszene/news/dieses-wort-verraet-ob-gruender-ihre-bewerbung-von-ki-schreiben-liessen",
+    "https://www.businessinsider.de/gruenderszene/news/mit-ki-bewerben-dieses-wort-faellt-sofort-auf",
     "https://www.businessinsider.de/gruenderszene/openai-kauft-nextslide-dieses-neue-tool-koennte-jetzt-fuer-chatgpt-kommen",
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-gerade-gruender-machen",
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-startup-gruender-gerade-machen",
@@ -166,6 +176,7 @@
     "https://www.businessinsider.de/gruenderszene/wer-sich-das-firmenlogo-taetowiert-bekommt-ein-vorstellungsgespraech",
     "https://www.businessinsider.de/gruenderszene/wer-ueber-buerokratie-schimpft-sucht-sich-nur-eine-ausrede",
     "https://www.businessinsider.de/gruenderszene/wie-berlin-milliarden-euro-einnehmen-koennte",
+    "https://www.businessinsider.de/gruenderszene/wie-ein-linkedin-post-mir-1000-app-anmeldungen-brachte",
     "https://www.businessinsider.de/gruenderszene/wie-gewinnt-man-die-ersten-kunden-gruender-setzen-auf-einen-party-trick",
     "https://www.businessinsider.de/gruenderszene/wie-helsing-zum-groessten-ruestungs-startups-europas-wurde",
     "https://www.businessinsider.de/gruenderszene/wir-machen-jungen-menschen-mehr-angst-vor-dem-gruenden-als-noetig",
@@ -257,6 +268,8 @@
     "https://www.deutsche-startups.de/2026/08/10/vincifi-moss-fintech-unicorn-sonosolar-ki",
     "https://www.deutsche-startups.de/2026/08/11/hardware-entwicklung-ist-brutal-ehrlich",
     "https://www.deutsche-startups.de/2026/08/11/unicorn-pliant-planet-a-ventures-tobias-seikel-ananda-impact-ventures",
+    "https://www.deutsche-startups.de/2026/08/12/7-spannende-startups-aus-karlsruhe-die-alle-kennen-sollten",
+    "https://www.deutsche-startups.de/2026/08/12/yoummday-cocoli-logistikbude-loopario-reverion-dhdl",
     "https://www.startbase.com/meinung/gross-groesser-gelogen",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
     "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
@@ -283,6 +296,7 @@
     "https://www.startbase.com/news/conmeet-sammelt-6-millionen-euro-ein",
     "https://www.startbase.com/news/corporate-venturing-scheitert-selten-am-startup",
     "https://www.startbase.com/news/crowdinvesting-plattform-onecrowd-stellt-insolvenzantraege-fuer-drei-gesellschaften",
+    "https://www.startbase.com/news/cytix-sichert-holt-sich-7-millionen-us-dollar-in-series-a",
     "https://www.startbase.com/news/deutsche-private-equity-uebernimmt-mehrheit-an-fogtec",
     "https://www.startbase.com/news/deutsche-sanierungsberatung-sichert-sich-mehr-als-10-millionen-euro-in-series-a-finanzierung",
     "https://www.startbase.com/news/deutschlands-gruenderboom-trotzt-der-krise-warum-die-statistiken-scheinbar-unterschiedliche-geschichten-erzaehlen",
@@ -290,6 +304,7 @@
     "https://www.startbase.com/news/dronus-sammelt-15-millionen-us-dollar-fuer-autonome-drohneninfrastruktur-ein",
     "https://www.startbase.com/news/energyminer-holt-sich-21-millionen-euro-fuer-die-kommerzialisierung-seiner-flusskraftwerke",
     "https://www.startbase.com/news/eth-spin-off-zuriq-sammelt-224-millionen-euro-fuer-skalierbare-quantencomputer-ein",
+    "https://www.startbase.com/news/exobiosphere-erhaelt-eine-million-euro-staatliche-foerderung-fuer-space-biotech-plattform",
     "https://www.startbase.com/news/fortino-capital-investiert-in-operations1",
     "https://www.startbase.com/news/fresenius-startet-venture-fonds-mit-mindestens-200-millionen-euro-fuer-gesundheits-startups",
     "https://www.startbase.com/news/happyrobot-wird-unicorn-mit-deutscher-beteiligung-und-holt-sich-150-mio-usd",
@@ -319,6 +334,7 @@
     "https://www.startbase.com/news/nxtgn-startup-factory-waechst-tuebingen-freiburg-und-hohenheim-schliessen-sich-an",
     "https://www.startbase.com/news/ore-energy-sammelt-43-millionen-us-dollar-fuer-langzeitspeicher-der-naechsten-generation-ein",
     "https://www.startbase.com/news/promptwatch-sammelt-6-millionen-euro-ein-und-setzt-auf-die-zukunft-der-ki-suchoptimierung",
+    "https://www.startbase.com/news/qodia-sichert-sich-12-millionen-euro-fuer-ki-gestuetzte-privatabrechnung",
     "https://www.startbase.com/news/quantumdiamonds-erhaelt-91-millionen-euro-fuer-quantensensorik-in-der-halbleiterindustrie",
     "https://www.startbase.com/news/refined-diagnostics-sammelt-29-millionen-euro-ein-und-bereitet-markteintritt-fuer-ki-gestuetzte-krebsdiagnostik-vor",
     "https://www.startbase.com/news/renk-refinanziert-sich-mit-kreditpaket-ueber-105-milliarden-euro",
@@ -351,6 +367,7 @@
     "klared.com",
     "knowlix.ai",
     "lexgraph.de",
+    "machinespace.ai",
     "mevio.io",
     "mkind.ai",
     "nemedus.de",
@@ -3267,7 +3284,143 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-11T17:04:46.837572+00:00"
+    },
+    {
+      "name": "Ich arbeite 120 Stunden pro Woche an meiner App: Die meiste Zeit fließt in diese Mini-Aufgaben",
+      "website": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/ich-arbeite-120-stunden-pro-woche-und-treffe-keine-freunde/",
+      "key": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/ich-arbeite-120-stunden-pro-woche-und-treffe-keine-freunde",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-12T17:04:02.304628+00:00"
+    },
+    {
+      "name": "So brachte mir ein viraler Linkedin-Post über 1000 Anmeldungen auf meiner Dating-App",
+      "website": "https://www.businessinsider.de/gruenderszene/wie-ein-linkedin-post-mir-1000-app-anmeldungen-brachte/",
+      "key": "https://www.businessinsider.de/gruenderszene/wie-ein-linkedin-post-mir-1000-app-anmeldungen-brachte",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-12T17:04:02.304655+00:00"
+    },
+    {
+      "name": "Will Google diesen 1,5-Milliarden-Dollar-Deal?",
+      "website": "https://www.businessinsider.de/gruenderszene/business/will-google-diesen-15-milliarden-dollar-deal/",
+      "key": "https://www.businessinsider.de/gruenderszene/business/will-google-diesen-15-milliarden-dollar-deal",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-12T17:04:02.304663+00:00"
+    },
+    {
+      "name": "Mit KI bewerben? Dieses Wort fällt sofort auf",
+      "website": "https://www.businessinsider.de/gruenderszene/news/mit-ki-bewerben-dieses-wort-faellt-sofort-auf/",
+      "key": "https://www.businessinsider.de/gruenderszene/news/mit-ki-bewerben-dieses-wort-faellt-sofort-auf",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-12T17:04:02.304669+00:00"
+    },
+    {
+      "name": "Ganz schön Meta: Ich habe Zuckerbergs 6500-Wörter-KI-Manifest gelesen",
+      "website": "https://www.businessinsider.de/gruenderszene/ganz-schoen-meta-ich-habe-zuckerbergs-6500-woerter-ki-manifest-gelesen/",
+      "key": "https://www.businessinsider.de/gruenderszene/ganz-schoen-meta-ich-habe-zuckerbergs-6500-woerter-ki-manifest-gelesen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-12T17:04:02.304675+00:00"
+    },
+    {
+      "name": "Cherry Ventures",
+      "website": "https://www.businessinsider.de/gruenderszene/karriere-startup/nur-einer-von-300-schafft-es-so-laeuft-der-auswahlprozess-fuer-ein-praktikum-bei-cherry-ventures/",
+      "key": "https://www.businessinsider.de/gruenderszene/karriere-startup/nur-einer-von-300-schafft-es-so-laeuft-der-auswahlprozess-fuer-ein-praktikum-bei-cherry-ventures",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-12T17:04:02.304681+00:00"
+    },
+    {
+      "name": "Dr. Vivien Karl",
+      "website": "https://drvivienkarl.com/",
+      "key": "drvivienkarl.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-12T17:04:02.304686+00:00"
+    },
+    {
+      "name": "Alawyer",
+      "website": "http://alawyer.ai/",
+      "key": "alawyer.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-12T17:04:02.304691+00:00"
+    },
+    {
+      "name": "Baudis AI",
+      "website": "http://baudis.ai/",
+      "key": "baudis.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-12T17:04:02.304696+00:00"
+    },
+    {
+      "name": "Helmit",
+      "website": "http://helmit.org/de",
+      "key": "helmit.org",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-12T17:04:02.304701+00:00"
+    },
+    {
+      "name": "CiteLM",
+      "website": "http://citelm.com/",
+      "key": "citelm.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-12T17:04:02.304706+00:00"
+    },
+    {
+      "name": "Machines",
+      "website": "https://machinespace.ai/",
+      "key": "machinespace.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-12T17:04:02.304711+00:00"
+    },
+    {
+      "name": "+++ yoummday +++ Cocoli +++ Logistikbude +++ Loopario +++ Reverion +++ DHDL +++",
+      "website": "https://www.deutsche-startups.de/2026/08/12/yoummday-cocoli-logistikbude-loopario-reverion-dhdl/",
+      "key": "https://www.deutsche-startups.de/2026/08/12/yoummday-cocoli-logistikbude-loopario-reverion-dhdl",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-12T17:04:02.304716+00:00"
+    },
+    {
+      "name": "7 spannende Startups aus Karlsruhe, die alle kennen sollten",
+      "website": "https://www.deutsche-startups.de/2026/08/12/7-spannende-startups-aus-karlsruhe-die-alle-kennen-sollten/",
+      "key": "https://www.deutsche-startups.de/2026/08/12/7-spannende-startups-aus-karlsruhe-die-alle-kennen-sollten",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-12T17:04:02.304721+00:00"
+    },
+    {
+      "name": "Exobiosphere erhält eine Million Euro staatliche Förderung für Space-Biotech-Plattform",
+      "website": "https://www.startbase.com/news/exobiosphere-erhaelt-eine-million-euro-staatliche-foerderung-fuer-space-biotech-plattform/",
+      "key": "https://www.startbase.com/news/exobiosphere-erhaelt-eine-million-euro-staatliche-foerderung-fuer-space-biotech-plattform",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-12T17:04:02.304726+00:00"
+    },
+    {
+      "name": "Cytix sichert holt sich 7 Millionen US-Dollar in Series A",
+      "website": "https://www.startbase.com/news/cytix-sichert-holt-sich-7-millionen-us-dollar-in-series-a/",
+      "key": "https://www.startbase.com/news/cytix-sichert-holt-sich-7-millionen-us-dollar-in-series-a",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-12T17:04:02.304730+00:00"
+    },
+    {
+      "name": "Qodia sichert sich 1,2 Millionen Euro für KI gestützte Privatabrechnung",
+      "website": "https://www.startbase.com/news/qodia-sichert-sich-12-millionen-euro-fuer-ki-gestuetzte-privatabrechnung/",
+      "key": "https://www.startbase.com/news/qodia-sichert-sich-12-millionen-euro-fuer-ki-gestuetzte-privatabrechnung",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-12T17:04:02.304735+00:00"
     }
   ],
-  "last_run": "2026-08-11T17:04:46.837658+00:00"
+  "last_run": "2026-08-12T17:04:02.304800+00:00"
 }
