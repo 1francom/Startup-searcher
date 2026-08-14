@@ -279,6 +279,8 @@
     "https://www.deutsche-startups.de/2026/08/13/7-aufstrebende-startups-die-mehr-menschen-kennen-sollten",
     "https://www.deutsche-startups.de/2026/08/13/cultimate-foods-mika-ki-jobs-iwoca-karlsruhe",
     "https://www.deutsche-startups.de/2026/08/13/ueber-150-vereine-sind-pre-product-bereits-als-partner-an-bord",
+    "https://www.deutsche-startups.de/2026/08/14/der-delaware-flip-und-die-europaeische-ki-souveraenitaet",
+    "https://www.deutsche-startups.de/2026/08/14/navvis-govtech-allianz-cotrainer-startupstowatch-startup-szene-uncovered",
     "https://www.startbase.com/meinung/gross-groesser-gelogen",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
     "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
@@ -3528,7 +3530,23 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-13T17:03:13.458140+00:00"
+    },
+    {
+      "name": "+++ NavVis +++ GovTech Allianz +++ CoTrainer +++ StartupsToWatch +++ Startup-Szene Uncovered +++",
+      "website": "https://www.deutsche-startups.de/2026/08/14/navvis-govtech-allianz-cotrainer-startupstowatch-startup-szene-uncovered/",
+      "key": "https://www.deutsche-startups.de/2026/08/14/navvis-govtech-allianz-cotrainer-startupstowatch-startup-szene-uncovered",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-14T17:01:12.057944+00:00"
+    },
+    {
+      "name": "Der Delaware Flip und die europäische KI-Souveränität",
+      "website": "https://www.deutsche-startups.de/2026/08/14/der-delaware-flip-und-die-europaeische-ki-souveraenitaet/",
+      "key": "https://www.deutsche-startups.de/2026/08/14/der-delaware-flip-und-die-europaeische-ki-souveraenitaet",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-14T17:01:12.057971+00:00"
     }
   ],
-  "last_run": "2026-08-13T17:03:13.458233+00:00"
+  "last_run": "2026-08-14T17:01:12.058060+00:00"
 }
