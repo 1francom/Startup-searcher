@@ -74,6 +74,7 @@
     "https://www.businessinsider.de/gruenderszene/food/von-lieferheld-zur-uber-nahme-die-grosse-delivery-hero-chronik",
     "https://www.businessinsider.de/gruenderszene/ganz-schoen-meta-ich-habe-zuckerbergs-6500-woerter-ki-manifest-gelesen",
     "https://www.businessinsider.de/gruenderszene/geplatzer-deal-mit-der-politik-warum-lilium-die-100-millionen-nie-bekam",
+    "https://www.businessinsider.de/gruenderszene/google-top-entwickler-jeff-dean-geht-sein-startup-koennte-milliarden-holen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/21-jaehriger-will-das-idealo-fuer-secondhand-bauen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/angriff-auf-google-maps-dieses-startup-will-fake-bewertungen-ueberfluessig-machen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/app-in-den-app-store-bringen-schritt-fuer-schritt",
@@ -377,6 +378,7 @@
     "https://www.startbase.com/news/xtend-fusioniert-mit-jfb-15-milliarden-dollar-deal-bringt-israelischen-drohnenpionier-an-die-nasdaq",
     "https://www.startbase.com/news/zalando-steigt-bei-robotik-startup-sereact-ein-finanzierungsrunde-waechst-auf-116-millionen-us-dollar",
     "https://www.startbase.com/portraits/10-jahre-q-summit-was-passiert-wenn-studierende-ihre-eigene-startup-konferenz-gruenden",
+    "https://www.startbase.com/portraits/from-classroom-to-cap-table-howinnovis-vc-is-shaping-munichs-nextgeneration-of-venture-capital",
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
     "https://www.startbase.com/reports/deutschland-wird-aelter-anteil-junger-menschen-bleibt-auf-historischem-tiefstand",
@@ -3600,7 +3602,23 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-15T16:33:04.571243+00:00"
+    },
+    {
+      "name": "und könnte eine Milliarde für sein neues Startup einsammeln",
+      "website": "https://www.businessinsider.de/gruenderszene/google-top-entwickler-jeff-dean-geht-sein-startup-koennte-milliarden-holen/",
+      "key": "https://www.businessinsider.de/gruenderszene/google-top-entwickler-jeff-dean-geht-sein-startup-koennte-milliarden-holen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-16T16:33:50.047098+00:00"
+    },
+    {
+      "name": "From Classroom to Cap Table: HowInnovis VC Is Shaping Munich’s NextGeneration of Venture Capital",
+      "website": "https://www.startbase.com/portraits/from-classroom-to-cap-table-howinnovis-vc-is-shaping-munichs-nextgeneration-of-venture-capital/",
+      "key": "https://www.startbase.com/portraits/from-classroom-to-cap-table-howinnovis-vc-is-shaping-munichs-nextgeneration-of-venture-capital",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-16T16:33:50.047128+00:00"
     }
   ],
-  "last_run": "2026-08-15T16:33:04.571336+00:00"
+  "last_run": "2026-08-16T16:33:50.047227+00:00"
 }
