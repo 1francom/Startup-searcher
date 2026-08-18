@@ -11,6 +11,7 @@
     "auxilius.ai",
     "baudis.ai",
     "birdwave.de",
+    "blocktracts.de",
     "bodywision.com",
     "cense.com",
     "ciro.immo",
@@ -25,6 +26,7 @@
     "familystories.love",
     "generative-robotics.de",
     "gosophia.ai",
+    "gravisrobotics.com",
     "hallomerlin.de",
     "helmit.org",
     "hofsync.de",
@@ -40,6 +42,7 @@
     "https://www.businessinsider.de/gruenderszene/berliner-unicorn-deutsches-fintech-moss-knackt-die-milliarden-bewertung",
     "https://www.businessinsider.de/gruenderszene/brauchen-gruender-dank-ki-ueberhaupt-noch-investoren",
     "https://www.businessinsider.de/gruenderszene/bundesregierung-investiert-erstmals-direkt-in-ruestungs-startups",
+    "https://www.businessinsider.de/gruenderszene/business/bester-ki-deal-des-jahres-20-millionen-werden-zu-15-milliarden",
     "https://www.businessinsider.de/gruenderszene/business/die-verlassenen-lilium-bueros-was-vom-flugtaxi-traum-uebrig-ist",
     "https://www.businessinsider.de/gruenderszene/business/scheiter-bilanz-was-brachte-das-flugtaxi-startup-lilium-zu-fall",
     "https://www.businessinsider.de/gruenderszene/business/will-google-diesen-15-milliarden-dollar-deal",
@@ -299,7 +302,10 @@
     "https://www.deutsche-startups.de/2026/08/17/allein-dann-lieber-nicht-wie-das-muenchner-startup-clubgefuehle-die-groesste-huerde-beim-reisen-abschafft",
     "https://www.deutsche-startups.de/2026/08/17/gegen-eingefahrene-denkmuster-anzutreten-verlangt-geduld",
     "https://www.deutsche-startups.de/2026/08/17/invertix-fonio-ai-pets-deli-vafo-group-delaware-flip",
+    "https://www.deutsche-startups.de/2026/08/18/beyondcare-labs-everyone-energy-furo-juit-ewigbyte",
+    "https://www.deutsche-startups.de/2026/08/18/die-groesste-herausforderung-ist-der-status-quo-in-vielen-unternehmen",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
+    "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor",
     "https://www.startbase.com/meinung/gross-groesser-gelogen",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
     "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
@@ -340,6 +346,7 @@
     "https://www.startbase.com/news/flinket-und-upvest-bringen-digitale-fondsgebundene-versicherungen-nach-europa",
     "https://www.startbase.com/news/fortino-capital-investiert-in-operations1",
     "https://www.startbase.com/news/fresenius-startet-venture-fonds-mit-mindestens-200-millionen-euro-fuer-gesundheits-startups",
+    "https://www.startbase.com/news/gravis-robotics-sammelt-200-millionen-us-dollar-ein-und-will-baumaschinen-autonom-machen",
     "https://www.startbase.com/news/happyrobot-wird-unicorn-mit-deutscher-beteiligung-und-holt-sich-150-mio-usd",
     "https://www.startbase.com/news/helsing-sichert-sich-18-milliarden-us-dollar-series-e",
     "https://www.startbase.com/news/highest-und-futury-starten-zweite-phase-ihres-company-builders-mit-450-000-euro-privatem-kapital",
@@ -353,6 +360,7 @@
     "https://www.startbase.com/news/lilly-kauft-ataibeckley-fuer-bis-zu-38-milliarden-us-dollar-und-setzt-auf-neue-therapien-gegen-therapieresistente-depressionen",
     "https://www.startbase.com/news/lily-verlaesst-den-stealth-modus-und-sichert-sich-finanzierung-von-maetch-vc",
     "https://www.startbase.com/news/lissi-zieht-35-millionen-euro-an-land",
+    "https://www.startbase.com/news/litilit-erhaelt-8-millionen-euro-fuer-hochleistungs-femtosekundenlaser",
     "https://www.startbase.com/news/lovable-sammelt-400-millionen-us-dollar-ein-und-erreicht-bewertung-von-133-milliarden-dollar",
     "https://www.startbase.com/news/luffy-ai-sammelt-81-millionen-pfund-ein-mig-capital-investiert-in-ki-fuer-die-industrielle-echtzeitsteuerung",
     "https://www.startbase.com/news/maia-erhaelt-4-millionen-euro-fuer-ki-plattform-zur-erschliessung-technischen-unternehmenswissens",
@@ -367,6 +375,7 @@
     "https://www.startbase.com/news/nous-sammelt-23-millionen-euro-seed-ein",
     "https://www.startbase.com/news/nxtgn-startup-factory-waechst-tuebingen-freiburg-und-hohenheim-schliessen-sich-an",
     "https://www.startbase.com/news/ore-energy-sammelt-43-millionen-us-dollar-fuer-langzeitspeicher-der-naechsten-generation-ein",
+    "https://www.startbase.com/news/polarise-sichert-sich-fremdkapitalfinanzierung-in-hoher-zweistelliger-millionenhoehe-fuer-europaeische-ai-cloud",
     "https://www.startbase.com/news/promptwatch-sammelt-6-millionen-euro-ein-und-setzt-auf-die-zukunft-der-ki-suchoptimierung",
     "https://www.startbase.com/news/qodia-sichert-sich-12-millionen-euro-fuer-ki-gestuetzte-privatabrechnung",
     "https://www.startbase.com/news/quantumdiamonds-erhaelt-91-millionen-euro-fuer-quantensensorik-in-der-halbleiterindustrie",
@@ -382,6 +391,7 @@
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-32-26",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-33-26",
     "https://www.startbase.com/news/supraleiter-startup-subra-sichert-sich-50-mio-euro-und-bayern-kapital-ist-dabei",
+    "https://www.startbase.com/news/swegan-holt-sich-weitere-14-millionen-us-dollar",
     "https://www.startbase.com/news/unicorn-moss-berliner-fintech-knackt-milliardenbewertung-nach-series-c",
     "https://www.startbase.com/news/valuemize-erhaelt-siebenstellige-pre-seed-finanzierung",
     "https://www.startbase.com/news/vayora-verlaesst-den-stealth-modus",
@@ -406,6 +416,7 @@
     "knowlix.ai",
     "lexgraph.de",
     "machinespace.ai",
+    "matchimize.de",
     "mevio.io",
     "mkind.ai",
     "nemedus.de",
@@ -421,7 +432,9 @@
     "patchley.com",
     "praedia.ai",
     "re-entry.ai",
+    "rescora.de",
     "resource-intelligence.com",
+    "rheonet.com",
     "riemann-robotics.com",
     "rogonneur.com",
     "seppy.de",
@@ -440,6 +453,7 @@
     "voltexchange.de",
     "whybrilliant.com",
     "yovo.de",
+    "zabr.ai",
     "zuriq.com"
   ],
   "startups": [
@@ -3780,7 +3794,119 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-17T16:36:37.978321+00:00"
+    },
+    {
+      "name": "Bester KI-Deal des Jahres? 20 Millionen werden zu 1,5 Milliarden",
+      "website": "https://www.businessinsider.de/gruenderszene/business/bester-ki-deal-des-jahres-20-millionen-werden-zu-15-milliarden/",
+      "key": "https://www.businessinsider.de/gruenderszene/business/bester-ki-deal-des-jahres-20-millionen-werden-zu-15-milliarden",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-18T16:39:21.390980+00:00"
+    },
+    {
+      "name": "Gravis Robotics",
+      "website": "https://gravisrobotics.com/",
+      "key": "gravisrobotics.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-18T16:39:21.391006+00:00"
+    },
+    {
+      "name": "Matchimize",
+      "website": "http://matchimize.de/",
+      "key": "matchimize.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-18T16:39:21.391014+00:00"
+    },
+    {
+      "name": "Rescora",
+      "website": "http://rescora.de/",
+      "key": "rescora.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-18T16:39:21.391020+00:00"
+    },
+    {
+      "name": "RheoNet",
+      "website": "http://rheonet.com/",
+      "key": "rheonet.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-18T16:39:21.391026+00:00"
+    },
+    {
+      "name": "ZABR",
+      "website": "http://zabr.ai/",
+      "key": "zabr.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-18T16:39:21.391031+00:00"
+    },
+    {
+      "name": "Blocktracts",
+      "website": "http://blocktracts.de/",
+      "key": "blocktracts.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-18T16:39:21.391036+00:00"
+    },
+    {
+      "name": "+++ beyondCare Labs +++ everyone energy +++  Furo +++ Juit +++ ewigbyte +++",
+      "website": "https://www.deutsche-startups.de/2026/08/18/beyondcare-labs-everyone-energy-furo-juit-ewigbyte/",
+      "key": "https://www.deutsche-startups.de/2026/08/18/beyondcare-labs-everyone-energy-furo-juit-ewigbyte",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-18T16:39:21.391041+00:00"
+    },
+    {
+      "name": "„Die größte Herausforderung ist der Status Quo in vielen Unternehmen“",
+      "website": "https://www.deutsche-startups.de/2026/08/18/die-groesste-herausforderung-ist-der-status-quo-in-vielen-unternehmen/",
+      "key": "https://www.deutsche-startups.de/2026/08/18/die-groesste-herausforderung-ist-der-status-quo-in-vielen-unternehmen",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-18T16:39:21.391046+00:00"
+    },
+    {
+      "name": "Polarise sichert sich Fremdkapitalfinanzierung in hoher zweistelliger Millionenhöhe für europäische AI Cloud",
+      "website": "https://www.startbase.com/news/polarise-sichert-sich-fremdkapitalfinanzierung-in-hoher-zweistelliger-millionenhoehe-fuer-europaeische-ai-cloud/",
+      "key": "https://www.startbase.com/news/polarise-sichert-sich-fremdkapitalfinanzierung-in-hoher-zweistelliger-millionenhoehe-fuer-europaeische-ai-cloud",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-18T16:39:21.391052+00:00"
+    },
+    {
+      "name": "SweGaN holt sich weitere 14 Millionen US Dollar",
+      "website": "https://www.startbase.com/news/swegan-holt-sich-weitere-14-millionen-us-dollar/",
+      "key": "https://www.startbase.com/news/swegan-holt-sich-weitere-14-millionen-us-dollar",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-18T16:39:21.391057+00:00"
+    },
+    {
+      "name": "LITILIT erhält 8 Millionen Euro für Hochleistungs Femtosekundenlaser",
+      "website": "https://www.startbase.com/news/litilit-erhaelt-8-millionen-euro-fuer-hochleistungs-femtosekundenlaser/",
+      "key": "https://www.startbase.com/news/litilit-erhaelt-8-millionen-euro-fuer-hochleistungs-femtosekundenlaser",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-18T16:39:21.391062+00:00"
+    },
+    {
+      "name": "Gravis Robotics sammelt 200 Millionen US Dollar ein und will Baumaschinen autonom machen",
+      "website": "https://www.startbase.com/news/gravis-robotics-sammelt-200-millionen-us-dollar-ein-und-will-baumaschinen-autonom-machen/",
+      "key": "https://www.startbase.com/news/gravis-robotics-sammelt-200-millionen-us-dollar-ein-und-will-baumaschinen-autonom-machen",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-18T16:39:21.391068+00:00"
+    },
+    {
+      "name": "Ankerkunde schlägt den Ankerinvestor",
+      "website": "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor/",
+      "key": "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-18T16:39:21.391073+00:00"
     }
   ],
-  "last_run": "2026-08-17T16:36:37.978393+00:00"
+  "last_run": "2026-08-18T16:39:21.391157+00:00"
 }
