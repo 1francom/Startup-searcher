@@ -44,6 +44,7 @@
     "https://www.businessinsider.de/gruenderszene/bundesregierung-investiert-erstmals-direkt-in-ruestungs-startups",
     "https://www.businessinsider.de/gruenderszene/business/bester-ki-deal-des-jahres-20-millionen-werden-zu-15-milliarden",
     "https://www.businessinsider.de/gruenderszene/business/die-verlassenen-lilium-bueros-was-vom-flugtaxi-traum-uebrig-ist",
+    "https://www.businessinsider.de/gruenderszene/business/dieses-app-will-menschen-fuers-anschweigen-bezahlen-lassen",
     "https://www.businessinsider.de/gruenderszene/business/scheiter-bilanz-was-brachte-das-flugtaxi-startup-lilium-zu-fall",
     "https://www.businessinsider.de/gruenderszene/business/will-google-diesen-15-milliarden-dollar-deal",
     "https://www.businessinsider.de/gruenderszene/business/will-google-dieses-startup-fuer-15-milliarden-dollar-kaufen",
@@ -84,6 +85,7 @@
     "https://www.businessinsider.de/gruenderszene/geplatzer-deal-mit-der-politik-warum-lilium-die-100-millionen-nie-bekam",
     "https://www.businessinsider.de/gruenderszene/google-top-entwickler-jeff-dean-geht-sein-startup-koennte-milliarden-holen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/21-jaehriger-will-das-idealo-fuer-secondhand-bauen",
+    "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/23-jaehriger-konnte-nicht-programmieren-heute-baut-er-apps-mit-ki",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/angriff-auf-google-maps-dieses-startup-will-fake-bewertungen-ueberfluessig-machen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/app-in-den-app-store-bringen-schritt-fuer-schritt",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/baut-er-das-deutsche-polymarket",
@@ -304,6 +306,8 @@
     "https://www.deutsche-startups.de/2026/08/17/invertix-fonio-ai-pets-deli-vafo-group-delaware-flip",
     "https://www.deutsche-startups.de/2026/08/18/beyondcare-labs-everyone-energy-furo-juit-ewigbyte",
     "https://www.deutsche-startups.de/2026/08/18/die-groesste-herausforderung-ist-der-status-quo-in-vielen-unternehmen",
+    "https://www.deutsche-startups.de/2026/08/19/attuned-julian-teicke-tourlane-pivot-compounder-admitcheck",
+    "https://www.deutsche-startups.de/2026/08/19/was-bleibt-von-new-work-im-ai-zeitalter",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor",
     "https://www.startbase.com/meinung/gross-groesser-gelogen",
@@ -330,6 +334,7 @@
     "https://www.startbase.com/news/circular-materials-erhaelt-118-millionen-euro-fuer-den-ausbau-seiner-rohstoff-recyclingtechnologie",
     "https://www.startbase.com/news/cleversolutions-gruendet-autonomous-und-sichert-sich-finanzierung-fuer-den-betrieb-autonomer-fahrzeugflotten",
     "https://www.startbase.com/news/compagnie-des-alpes-uebernimmt-339-prozent-an-padelcity",
+    "https://www.startbase.com/news/computomics-sammelt-63-millionen-euro-fuer-ki-gestuetzte-pflanzenzuechtung-ein",
     "https://www.startbase.com/news/conmeet-sammelt-6-millionen-euro-ein",
     "https://www.startbase.com/news/corporate-venturing-scheitert-selten-am-startup",
     "https://www.startbase.com/news/crowdinvesting-plattform-onecrowd-stellt-insolvenzantraege-fuer-drei-gesellschaften",
@@ -352,6 +357,7 @@
     "https://www.startbase.com/news/highest-und-futury-starten-zweite-phase-ihres-company-builders-mit-450-000-euro-privatem-kapital",
     "https://www.startbase.com/news/hoehle-der-loewen/staffel-die-hoehle-der-loewen-zum-jubilaeum-waechst-das-rudel-auf-acht-investoren",
     "https://www.startbase.com/news/horizon3-wird-zum-cybersecurity-unicorn-250-millionen-us-dollar-bei-ueber-2-milliarden-bewertung",
+    "https://www.startbase.com/news/hotel-investments-ag-steigt-bei-ki-hausverwaltung-novumstate-ein",
     "https://www.startbase.com/news/humanoid-sammelt-152-millionen-us-dollar-ein-und-erreicht-unicorn-bewertung",
     "https://www.startbase.com/news/index-ventures-sammelt-35-milliarden-us-dollar-fuer-neue-seed-venture-und-growth-fonds-ein",
     "https://www.startbase.com/news/invecorum-sammelt-sechsstellige-business-angel-runde-in-rekordzeit-ein",
@@ -374,6 +380,7 @@
     "https://www.startbase.com/news/nia-health-kooperiert-mit-abbvie-deutschland-bei-ki-gestuetzter-neurodermitis-versorgung",
     "https://www.startbase.com/news/nous-sammelt-23-millionen-euro-seed-ein",
     "https://www.startbase.com/news/nxtgn-startup-factory-waechst-tuebingen-freiburg-und-hohenheim-schliessen-sich-an",
+    "https://www.startbase.com/news/oceanloop-zieht-bis-zu-385-millionen-euro-an-land",
     "https://www.startbase.com/news/ore-energy-sammelt-43-millionen-us-dollar-fuer-langzeitspeicher-der-naechsten-generation-ein",
     "https://www.startbase.com/news/polarise-sichert-sich-fremdkapitalfinanzierung-in-hoher-zweistelliger-millionenhoehe-fuer-europaeische-ai-cloud",
     "https://www.startbase.com/news/promptwatch-sammelt-6-millionen-euro-ein-und-setzt-auf-die-zukunft-der-ki-suchoptimierung",
@@ -414,11 +421,13 @@
     "klao.eu",
     "klared.com",
     "knowlix.ai",
+    "lernly.at",
     "lexgraph.de",
     "machinespace.ai",
     "matchimize.de",
     "mevio.io",
     "mkind.ai",
+    "n9r.ai",
     "nemedus.de",
     "nerdsip.com",
     "nestermind.com",
@@ -426,6 +435,7 @@
     "noa.health",
     "nomerra.com",
     "noranotes.ai",
+    "oceanloop.com",
     "oracomputing.com",
     "outcomet.app",
     "padelcity.de",
@@ -434,11 +444,13 @@
     "re-entry.ai",
     "rescora.de",
     "resource-intelligence.com",
+    "respio.de",
     "rheonet.com",
     "riemann-robotics.com",
     "rogonneur.com",
     "seppy.de",
     "sherpahq.ai",
+    "silvernova.ai",
     "soulofconcrete.com",
     "stabley.io",
     "sudzero.de",
@@ -446,6 +458,7 @@
     "tax-graph.com",
     "telli.com",
     "titanspear.agency",
+    "tower.dev",
     "trytripbot.com",
     "usemirel.com",
     "vambiant.com",
@@ -3906,7 +3919,111 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-18T16:39:21.391073+00:00"
+    },
+    {
+      "name": "heute baut er Apps mit KI",
+      "website": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/23-jaehriger-konnte-nicht-programmieren-heute-baut-er-apps-mit-ki/",
+      "key": "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/23-jaehriger-konnte-nicht-programmieren-heute-baut-er-apps-mit-ki",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-19T16:39:05.333961+00:00"
+    },
+    {
+      "name": "Diese App will Menschen fürs Anschweigen bezahlen lassen",
+      "website": "https://www.businessinsider.de/gruenderszene/business/dieses-app-will-menschen-fuers-anschweigen-bezahlen-lassen/",
+      "key": "https://www.businessinsider.de/gruenderszene/business/dieses-app-will-menschen-fuers-anschweigen-bezahlen-lassen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-19T16:39:05.333984+00:00"
+    },
+    {
+      "name": "Oceanloop",
+      "website": "https://oceanloop.com/",
+      "key": "oceanloop.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-19T16:39:05.333994+00:00"
+    },
+    {
+      "name": "N9 Robotics",
+      "website": "http://n9r.ai/",
+      "key": "n9r.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-19T16:39:05.334000+00:00"
+    },
+    {
+      "name": "respio",
+      "website": "http://respio.de/",
+      "key": "respio.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-19T16:39:05.334006+00:00"
+    },
+    {
+      "name": "Silvernova",
+      "website": "http://silvernova.ai/",
+      "key": "silvernova.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-19T16:39:05.334012+00:00"
+    },
+    {
+      "name": "Tower",
+      "website": "http://tower.dev/",
+      "key": "tower.dev",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-19T16:39:05.334017+00:00"
+    },
+    {
+      "name": "Lernly",
+      "website": "http://lernly.at/",
+      "key": "lernly.at",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-19T16:39:05.334022+00:00"
+    },
+    {
+      "name": "+++ Attuned +++ Julian Teicke +++ Tourlane +++ Pivot +++ Compounder +++ AdmitCheck +++",
+      "website": "https://www.deutsche-startups.de/2026/08/19/attuned-julian-teicke-tourlane-pivot-compounder-admitcheck/",
+      "key": "https://www.deutsche-startups.de/2026/08/19/attuned-julian-teicke-tourlane-pivot-compounder-admitcheck",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-19T16:39:05.334027+00:00"
+    },
+    {
+      "name": "Was bleibt von New Work im AI-Zeitalter?",
+      "website": "https://www.deutsche-startups.de/2026/08/19/was-bleibt-von-new-work-im-ai-zeitalter/",
+      "key": "https://www.deutsche-startups.de/2026/08/19/was-bleibt-von-new-work-im-ai-zeitalter",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-19T16:39:05.334033+00:00"
+    },
+    {
+      "name": "KI Hausverwaltung Novumstate ein",
+      "website": "https://www.startbase.com/news/hotel-investments-ag-steigt-bei-ki-hausverwaltung-novumstate-ein/",
+      "key": "https://www.startbase.com/news/hotel-investments-ag-steigt-bei-ki-hausverwaltung-novumstate-ein",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-19T16:39:05.334038+00:00"
+    },
+    {
+      "name": "Oceanloop zieht bis zu 38,5 Millionen Euro an Land",
+      "website": "https://www.startbase.com/news/oceanloop-zieht-bis-zu-385-millionen-euro-an-land/",
+      "key": "https://www.startbase.com/news/oceanloop-zieht-bis-zu-385-millionen-euro-an-land",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-19T16:39:05.334043+00:00"
+    },
+    {
+      "name": "Computomics sammelt 6,3 Millionen Euro für KI gestützte Pflanzenzüchtung ein",
+      "website": "https://www.startbase.com/news/computomics-sammelt-63-millionen-euro-fuer-ki-gestuetzte-pflanzenzuechtung-ein/",
+      "key": "https://www.startbase.com/news/computomics-sammelt-63-millionen-euro-fuer-ki-gestuetzte-pflanzenzuechtung-ein",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-19T16:39:05.334048+00:00"
     }
   ],
-  "last_run": "2026-08-18T16:39:21.391157+00:00"
+  "last_run": "2026-08-19T16:39:05.334123+00:00"
 }
