@@ -368,6 +368,7 @@
     "https://www.startbase.com/news/flip-sichert-sich-25-millionen-us-dollar-fuer-ki-plattform",
     "https://www.startbase.com/news/fortino-capital-investiert-in-operations1",
     "https://www.startbase.com/news/fresenius-startet-venture-fonds-mit-mindestens-200-millionen-euro-fuer-gesundheits-startups",
+    "https://www.startbase.com/news/gemeinsam-europas-naechste-gruendergeneration-staerken",
     "https://www.startbase.com/news/gravis-robotics-sammelt-200-millionen-us-dollar-ein-und-will-baumaschinen-autonom-machen",
     "https://www.startbase.com/news/guideless-erhaelt-eine-million-euro-fuer-ki-gestuetzte-softwaretrainings",
     "https://www.startbase.com/news/happyrobot-wird-unicorn-mit-deutscher-beteiligung-und-holt-sich-150-mio-usd",
@@ -4221,7 +4222,15 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-22T16:33:05.163526+00:00"
+    },
+    {
+      "name": "Gemeinsam Europas nächste GründerGeneration stärken",
+      "website": "https://www.startbase.com/news/gemeinsam-europas-naechste-gruendergeneration-staerken/",
+      "key": "https://www.startbase.com/news/gemeinsam-europas-naechste-gruendergeneration-staerken",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-23T16:34:05.656313+00:00"
     }
   ],
-  "last_run": "2026-08-22T16:33:05.163612+00:00"
+  "last_run": "2026-08-23T16:34:05.656432+00:00"
 }
