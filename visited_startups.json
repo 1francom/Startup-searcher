@@ -6,6 +6,7 @@
     "amber.de",
     "ampelo.de",
     "ampway.de",
+    "anotherearth.ai",
     "atlea.com",
     "augustus.com",
     "auxilius.ai",
@@ -16,8 +17,10 @@
     "cense.com",
     "ciro.immo",
     "citelm.com",
+    "comena.ai",
     "datasphere-analytics.com",
     "datatroniq.com",
+    "datin.io",
     "de.navvis.com",
     "deltavision.space",
     "detesia.com",
@@ -76,6 +79,7 @@
     "https://www.businessinsider.de/gruenderszene/enpal-baut-erneut-stellen-ab-warum-jetzt-ein-kompletter-standort-geschlossen-wird",
     "https://www.businessinsider.de/gruenderszene/enpal-schliesst-standort-in-hamburg-rund-85-mitarbeiter-entlassen",
     "https://www.businessinsider.de/gruenderszene/entlassungswelle-bei-glow25-erst-mitarbeiterzahl-verdoppelt-jetzt-durch-ki-ersetzt",
+    "https://www.businessinsider.de/gruenderszene/es-heisst-pa-del-nicht-paddel-so-war-das-gruenderszene-x-tio-tio-turnier",
     "https://www.businessinsider.de/gruenderszene/europas-wertvollstes-ruestungs-startup-die-unglaubliche-helsing-story",
     "https://www.businessinsider.de/gruenderszene/ex-openai-managerin-kann-das-tempo-im-silicon-valley-nicht-mehr-mitgehen",
     "https://www.businessinsider.de/gruenderszene/ex-openai-managerin-zieht-reissleine-kann-das-tempo-nicht-mehr-mitgehen",
@@ -84,6 +88,7 @@
     "https://www.businessinsider.de/gruenderszene/firmen-verstehen-ki-laengst-doch-ihnen-fehlt-etwas-ueberraschend-banales",
     "https://www.businessinsider.de/gruenderszene/fleiss-beats-everything-die-hiring-regeln-eines-unicorn-gruenders",
     "https://www.businessinsider.de/gruenderszene/flink-gruender-ich-war-arrogant-genug-zu-glauben-dass-ich-es-besser-kann",
+    "https://www.businessinsider.de/gruenderszene/flink-ich-war-arrogant-genug-zu-glauben-dass-ich-es-besser-kann",
     "https://www.businessinsider.de/gruenderszene/food/von-lieferheld-zur-uber-nahme-die-grosse-delivery-hero-chronik",
     "https://www.businessinsider.de/gruenderszene/ganz-schoen-meta-ich-habe-zuckerbergs-6500-woerter-ki-manifest-gelesen",
     "https://www.businessinsider.de/gruenderszene/geplatzer-deal-mit-der-politik-warum-lilium-die-100-millionen-nie-bekam",
@@ -155,6 +160,7 @@
     "https://www.businessinsider.de/gruenderszene/news/social-media-galt-als-tot-jetzt-investieren-vcs-wieder-millionen",
     "https://www.businessinsider.de/gruenderszene/news/social-media-galt-bei-vcs-als-tot-jetzt-fliesst-wieder-mehr-geld-in-neue-apps",
     "https://www.businessinsider.de/gruenderszene/news/warum-vcs-99-von-100-startups-ablehnen-und-cold-calls-trotzdem-was-bringen",
+    "https://www.businessinsider.de/gruenderszene/nico-rosberg-das-ist-seine-wichtigste-lektion-fuer-unternehmer",
     "https://www.businessinsider.de/gruenderszene/nico-rosberg-ich-habe-so-viel-verloren-und-versagt-das-haertet-ab",
     "https://www.businessinsider.de/gruenderszene/nico-rosberg-seine-wichtigste-lektion-fuer-unternehmer",
     "https://www.businessinsider.de/gruenderszene/openai-kauft-nextslide-dieses-neue-tool-koennte-jetzt-fuer-chatgpt-kommen",
@@ -321,6 +327,9 @@
     "https://www.deutsche-startups.de/2026/08/20/warum-viele-startups-ihre-energie-falsch-einsetzen",
     "https://www.deutsche-startups.de/2026/08/21/thermondo-gropyus-markus-fuhrmann-glow25-entlassungen-energie",
     "https://www.deutsche-startups.de/2026/08/21/wie-startups-die-messe-saison-meistern",
+    "https://www.deutsche-startups.de/2026/08/22/https-www-deutsche-startups-de-2026-08-15-wochenrueckblick-34-2026",
+    "https://www.deutsche-startups.de/2026/08/24/beatsquares-superangels-valuemize-cloudeatery-messe-pr",
+    "https://www.deutsche-startups.de/2026/08/24/wir-mussten-unser-geschaeftsmodell-mehrfach-veraendern",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
     "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor",
@@ -380,6 +389,7 @@
     "https://www.startbase.com/news/humanoid-sammelt-152-millionen-us-dollar-ein-und-erreicht-unicorn-bewertung",
     "https://www.startbase.com/news/index-ventures-sammelt-35-milliarden-us-dollar-fuer-neue-seed-venture-und-growth-fonds-ein",
     "https://www.startbase.com/news/invecorum-sammelt-sechsstellige-business-angel-runde-in-rekordzeit-ein",
+    "https://www.startbase.com/news/kazimi-holt-sich-22-millionen-euro-fuer-schutz-vor-mobile-bots",
     "https://www.startbase.com/news/kicker-ventures-steigt-bei-cotrainer-ein",
     "https://www.startbase.com/news/konstanzer-medtech-startup-eversion-technologies-erhaelt-23-millionen-euro-seed-ii-finanzierung",
     "https://www.startbase.com/news/lilly-kauft-ataibeckley-fuer-bis-zu-38-milliarden-us-dollar-und-setzt-auf-neue-therapien-gegen-therapieresistente-depressionen",
@@ -399,6 +409,7 @@
     "https://www.startbase.com/news/nextgo-epi-zieht-2-millionen-euro-an-land",
     "https://www.startbase.com/news/nia-health-kooperiert-mit-abbvie-deutschland-bei-ki-gestuetzter-neurodermitis-versorgung",
     "https://www.startbase.com/news/nous-sammelt-23-millionen-euro-seed-ein",
+    "https://www.startbase.com/news/nrw-bank-investiert-in-ag-tech-systems",
     "https://www.startbase.com/news/nxtgn-startup-factory-waechst-tuebingen-freiburg-und-hohenheim-schliessen-sich-an",
     "https://www.startbase.com/news/oceanloop-zieht-bis-zu-385-millionen-euro-an-land",
     "https://www.startbase.com/news/ore-energy-sammelt-43-millionen-us-dollar-fuer-langzeitspeicher-der-naechsten-generation-ein",
@@ -429,6 +440,7 @@
     "https://www.startbase.com/news/volle-anziehungskraft-wie-das-munich-startup-festival-2026-gruendungsinitiativen-eine-buehne-gibt",
     "https://www.startbase.com/news/walnut-planet-sammelt-ueber-173-000-franken-fuer-ausbau-seiner-walnussplantagen-ein",
     "https://www.startbase.com/news/willidrop-startet-offiziell-und-sichert-sich-finanzierung-fuer-ki-in-der-fahrzeuglogistik",
+    "https://www.startbase.com/news/wolt-und-alnatura-starten-neuen-online-biomarkt-in-acht-deutschen-staedten",
     "https://www.startbase.com/news/xtend-fusioniert-mit-jfb-15-milliarden-dollar-deal-bringt-israelischen-drohnenpionier-an-die-nasdaq",
     "https://www.startbase.com/news/zalando-steigt-bei-robotik-startup-sereact-ein-finanzierungsrunde-waechst-auf-116-millionen-us-dollar",
     "https://www.startbase.com/portraits/10-jahre-q-summit-was-passiert-wenn-studierende-ihre-eigene-startup-konferenz-gruenden",
@@ -440,6 +452,8 @@
     "https://www.startbase.com/reports/deutschland-zaehlt-erstmals-mehr-als-3-000-neugruendungen-in-nur-sechs-monaten",
     "jouly.ai",
     "kausable.ai",
+    "kazimi.io",
+    "kipti.app",
     "klao.eu",
     "klared.com",
     "knowlix.ai",
@@ -453,6 +467,7 @@
     "nemedus.de",
     "nerdsip.com",
     "nestermind.com",
+    "neuramancer.de",
     "nextgoepi.com",
     "noa.health",
     "nomerra.com",
@@ -4230,7 +4245,127 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-23T16:34:05.656313+00:00"
+    },
+    {
+      "name": "nicht „Paddel“: Erstes Gründerszene x TIO TIO Padel-Turnier in Berlin",
+      "website": "https://www.businessinsider.de/gruenderszene/es-heisst-pa-del-nicht-paddel-so-war-das-gruenderszene-x-tio-tio-turnier/",
+      "key": "https://www.businessinsider.de/gruenderszene/es-heisst-pa-del-nicht-paddel-so-war-das-gruenderszene-x-tio-tio-turnier",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-24T16:47:33.247227+00:00"
+    },
+    {
+      "name": "Nico Rosbergs wichtigste Lektion für Unternehmer",
+      "website": "https://www.businessinsider.de/gruenderszene/nico-rosberg-das-ist-seine-wichtigste-lektion-fuer-unternehmer/",
+      "key": "https://www.businessinsider.de/gruenderszene/nico-rosberg-das-ist-seine-wichtigste-lektion-fuer-unternehmer",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-24T16:47:33.247248+00:00"
+    },
+    {
+      "name": "„Ich war arrogant genug zu glauben, dass ich es besser kann“: So baute Oliver Merkel Flink zum Milliarden-Startup",
+      "website": "https://www.businessinsider.de/gruenderszene/flink-ich-war-arrogant-genug-zu-glauben-dass-ich-es-besser-kann/",
+      "key": "https://www.businessinsider.de/gruenderszene/flink-ich-war-arrogant-genug-zu-glauben-dass-ich-es-besser-kann",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-24T16:47:33.247255+00:00"
+    },
+    {
+      "name": "Kazimi",
+      "website": "https://kazimi.io/",
+      "key": "kazimi.io",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-24T16:47:33.247262+00:00"
+    },
+    {
+      "name": "Another Earth",
+      "website": "http://anotherearth.ai/",
+      "key": "anotherearth.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-24T16:47:33.247268+00:00"
+    },
+    {
+      "name": "datin",
+      "website": "http://datin.io/",
+      "key": "datin.io",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-24T16:47:33.247273+00:00"
+    },
+    {
+      "name": "Kipti",
+      "website": "http://kipti.app/",
+      "key": "kipti.app",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-24T16:47:33.247279+00:00"
+    },
+    {
+      "name": "Neuramancer",
+      "website": "http://neuramancer.de/",
+      "key": "neuramancer.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-24T16:47:33.247284+00:00"
+    },
+    {
+      "name": "Comena",
+      "website": "http://comena.ai/",
+      "key": "comena.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-24T16:47:33.247289+00:00"
+    },
+    {
+      "name": "+++ BeatSquares +++ Superangels +++ valuemize +++ CloudEatery +++ Messe-PR +++",
+      "website": "https://www.deutsche-startups.de/2026/08/24/beatsquares-superangels-valuemize-cloudeatery-messe-pr/",
+      "key": "https://www.deutsche-startups.de/2026/08/24/beatsquares-superangels-valuemize-cloudeatery-messe-pr",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-24T16:47:33.247294+00:00"
+    },
+    {
+      "name": "„Wir mussten unser Geschäftsmodell mehrfach verändern“",
+      "website": "https://www.deutsche-startups.de/2026/08/24/wir-mussten-unser-geschaeftsmodell-mehrfach-veraendern/",
+      "key": "https://www.deutsche-startups.de/2026/08/24/wir-mussten-unser-geschaeftsmodell-mehrfach-veraendern",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-24T16:47:33.247299+00:00"
+    },
+    {
+      "name": "+++ Gravis Robotics +++ Oceanloop +++ Flip +++ omni:us +++ Layla +++ Dash0 +++ Sonnen +++ Mynaric +++",
+      "website": "https://www.deutsche-startups.de/2026/08/22/https-www-deutsche-startups-de-2026-08-15-wochenrueckblick-34-2026/",
+      "key": "https://www.deutsche-startups.de/2026/08/22/https-www-deutsche-startups-de-2026-08-15-wochenrueckblick-34-2026",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-24T16:47:33.247304+00:00"
+    },
+    {
+      "name": "Wolt und Alnatura starten neuen Online Biomarkt in acht deutschen Städten",
+      "website": "https://www.startbase.com/news/wolt-und-alnatura-starten-neuen-online-biomarkt-in-acht-deutschen-staedten/",
+      "key": "https://www.startbase.com/news/wolt-und-alnatura-starten-neuen-online-biomarkt-in-acht-deutschen-staedten",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-24T16:47:33.247310+00:00"
+    },
+    {
+      "name": "NRW.BANK investiert in ag-tech.systems",
+      "website": "https://www.startbase.com/news/nrw-bank-investiert-in-ag-tech-systems/",
+      "key": "https://www.startbase.com/news/nrw-bank-investiert-in-ag-tech-systems",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-24T16:47:33.247315+00:00"
+    },
+    {
+      "name": "Kazimi holt sich 2,2 Millionen Euro für Schutz vor Mobile Bots",
+      "website": "https://www.startbase.com/news/kazimi-holt-sich-22-millionen-euro-fuer-schutz-vor-mobile-bots/",
+      "key": "https://www.startbase.com/news/kazimi-holt-sich-22-millionen-euro-fuer-schutz-vor-mobile-bots",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-24T16:47:33.247320+00:00"
     }
   ],
-  "last_run": "2026-08-23T16:34:05.656432+00:00"
+  "last_run": "2026-08-24T16:47:33.247401+00:00"
 }
