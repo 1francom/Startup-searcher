@@ -4,6 +4,7 @@
     "alawyer.ai",
     "alqem.ai",
     "amber.de",
+    "ambumetric.de",
     "ampelo.de",
     "ampway.de",
     "anotherearth.ai",
@@ -25,8 +26,10 @@
     "deltavision.space",
     "detesia.com",
     "drvivienkarl.com",
+    "elterncrew.de",
     "evems.de",
     "familystories.love",
+    "fyrcecare.com",
     "generative-robotics.de",
     "getflip.com",
     "gosophia.ai",
@@ -39,7 +42,9 @@
     "https://remoteOK.com/remote-jobs/remote-data-analyst-healthcare-city-of-hope-1134759",
     "https://remoteOK.com/remote-jobs/remote-data-scientist-new-flyer-1134357",
     "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663",
+    "https://www.businessinsider.de/gruenderszene/10-000-views-100-nutzer-wie-diese-gruender-den-wachstumsschalter-finden-wollen",
     "https://www.businessinsider.de/gruenderszene/17-arbeitsplaetze-geschaffen-trotzdem-kein-dauerhaftes-bleiberecht-fuer-gruender",
+    "https://www.businessinsider.de/gruenderszene/2070-offene-jobs-bei-diesen-unicorns-lohnt-sich-die-bewerbung",
     "https://www.businessinsider.de/gruenderszene/22-jaehrige-wollte-ki-app-fuer-bluttests-bauen-dann-kam-das-erste-problem",
     "https://www.businessinsider.de/gruenderszene/amazon-gruender-jeff-bezos-investiert-in-diese-fuenf-ki-startups",
     "https://www.businessinsider.de/gruenderszene/aws-panne-und-ploetzlich-muesst-ihr-239-milliarden-dollar-bezahlen",
@@ -89,6 +94,7 @@
     "https://www.businessinsider.de/gruenderszene/fleiss-beats-everything-die-hiring-regeln-eines-unicorn-gruenders",
     "https://www.businessinsider.de/gruenderszene/flink-gruender-ich-war-arrogant-genug-zu-glauben-dass-ich-es-besser-kann",
     "https://www.businessinsider.de/gruenderszene/flink-ich-war-arrogant-genug-zu-glauben-dass-ich-es-besser-kann",
+    "https://www.businessinsider.de/gruenderszene/flink-so-baute-er-flink-zum-milliarden-startup-kann-er-den-erfolg-wiederholen",
     "https://www.businessinsider.de/gruenderszene/food/von-lieferheld-zur-uber-nahme-die-grosse-delivery-hero-chronik",
     "https://www.businessinsider.de/gruenderszene/ganz-schoen-meta-ich-habe-zuckerbergs-6500-woerter-ki-manifest-gelesen",
     "https://www.businessinsider.de/gruenderszene/geplatzer-deal-mit-der-politik-warum-lilium-die-100-millionen-nie-bekam",
@@ -330,6 +336,8 @@
     "https://www.deutsche-startups.de/2026/08/22/https-www-deutsche-startups-de-2026-08-15-wochenrueckblick-34-2026",
     "https://www.deutsche-startups.de/2026/08/24/beatsquares-superangels-valuemize-cloudeatery-messe-pr",
     "https://www.deutsche-startups.de/2026/08/24/wir-mussten-unser-geschaeftsmodell-mehrfach-veraendern",
+    "https://www.deutsche-startups.de/2026/08/25/hustle-culture-dailydeal-yfood-sanity-group-fuchs-eule-pivot",
+    "https://www.deutsche-startups.de/2026/08/25/scheitern-ist-die-essenz-von-erfolg",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
     "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor",
@@ -341,6 +349,7 @@
     "https://www.startbase.com/news/500-000-euro-fuer-be2byte",
     "https://www.startbase.com/news/5u-ai-erhaelt-32-millionen-us-dollar-pre-seed",
     "https://www.startbase.com/news/8875-mio-pfund-fuer-naked-energy",
+    "https://www.startbase.com/news/aeio-und-tftak-erhalten-194-millionen-euro",
     "https://www.startbase.com/news/all-about-accuracy-sammelt-siebenstellige-pre-seed-runde-ein",
     "https://www.startbase.com/news/amber-erhaelt-sieben-millionen-euro",
     "https://www.startbase.com/news/ardian-uebernimmt-mehrheit-an-healthtech-plattform-pflegia",
@@ -432,12 +441,14 @@
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-34-26",
     "https://www.startbase.com/news/supraleiter-startup-subra-sichert-sich-50-mio-euro-und-bayern-kapital-ist-dabei",
     "https://www.startbase.com/news/swegan-holt-sich-weitere-14-millionen-us-dollar",
+    "https://www.startbase.com/news/toysreloved-sammelt-425-000-euro-fuer-den-kreislauf-gebrauchter-spielzeuge-ein",
     "https://www.startbase.com/news/unicorn-moss-berliner-fintech-knackt-milliardenbewertung-nach-series-c",
     "https://www.startbase.com/news/valuemize-erhaelt-siebenstellige-pre-seed-finanzierung",
     "https://www.startbase.com/news/vayora-verlaesst-den-stealth-modus",
     "https://www.startbase.com/news/vertical-aerospace-sichert-sich-rund-100-millionen-us-dollar-fuer-zertifizierung-und-markteinfuehrung-von-valo",
     "https://www.startbase.com/news/volle-anziehungskraft-der-gruendungsmagnetstartet-gastbeitraege-und-das-munich-startupfestival-steht-vor-der-tuer",
     "https://www.startbase.com/news/volle-anziehungskraft-wie-das-munich-startup-festival-2026-gruendungsinitiativen-eine-buehne-gibt",
+    "https://www.startbase.com/news/volve-holt-sich-3-millionen-us-dollar-fuer-ki-plattform-im-baugewerbe",
     "https://www.startbase.com/news/walnut-planet-sammelt-ueber-173-000-franken-fuer-ausbau-seiner-walnussplantagen-ein",
     "https://www.startbase.com/news/willidrop-startet-offiziell-und-sichert-sich-finanzierung-fuer-ki-in-der-fahrzeuglogistik",
     "https://www.startbase.com/news/wolt-und-alnatura-starten-neuen-online-biomarkt-in-acht-deutschen-staedten",
@@ -447,6 +458,7 @@
     "https://www.startbase.com/portraits/from-classroom-to-cap-table-howinnovis-vc-is-shaping-munichs-nextgeneration-of-venture-capital",
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
+    "https://www.startbase.com/reports/deutsche-wirtschaft-waechst-im-zweiten-quartal-um-03-prozent",
     "https://www.startbase.com/reports/deutschland-gruendet-wieder-mehr-waehrend-die-industrielle-basis-weiter-schrumpft",
     "https://www.startbase.com/reports/deutschland-wird-aelter-anteil-junger-menschen-bleibt-auf-historischem-tiefstand",
     "https://www.startbase.com/reports/deutschland-zaehlt-erstmals-mehr-als-3-000-neugruendungen-in-nur-sechs-monaten",
@@ -464,6 +476,7 @@
     "mevio.io",
     "mkind.ai",
     "n9r.ai",
+    "naion.tech",
     "nemedus.de",
     "nerdsip.com",
     "nestermind.com",
@@ -490,6 +503,7 @@
     "sherpahq.ai",
     "silvernova.ai",
     "soulofconcrete.com",
+    "spree-monitoring.de",
     "stabley.io",
     "sudzero.de",
     "tawo.group",
@@ -4365,7 +4379,119 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-24T16:47:33.247320+00:00"
+    },
+    {
+      "name": "10.000 Views, 100 Nutzer: Wie diese Gründer den Wachstumsschalter finden wollen",
+      "website": "https://www.businessinsider.de/gruenderszene/10-000-views-100-nutzer-wie-diese-gruender-den-wachstumsschalter-finden-wollen/",
+      "key": "https://www.businessinsider.de/gruenderszene/10-000-views-100-nutzer-wie-diese-gruender-den-wachstumsschalter-finden-wollen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-25T16:46:37.288691+00:00"
+    },
+    {
+      "name": "„Ich war arrogant genug zu glauben, dass ich es besser kann“: So baute Oliver Merkel Flink zum Milliarden-Startup",
+      "website": "https://www.businessinsider.de/gruenderszene/flink-so-baute-er-flink-zum-milliarden-startup-kann-er-den-erfolg-wiederholen/",
+      "key": "https://www.businessinsider.de/gruenderszene/flink-so-baute-er-flink-zum-milliarden-startup-kann-er-den-erfolg-wiederholen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-25T16:46:37.288719+00:00"
+    },
+    {
+      "name": "2070 offene Jobs: Bei diesen Unicorns lohnt sich die Bewerbung",
+      "website": "https://www.businessinsider.de/gruenderszene/2070-offene-jobs-bei-diesen-unicorns-lohnt-sich-die-bewerbung/",
+      "key": "https://www.businessinsider.de/gruenderszene/2070-offene-jobs-bei-diesen-unicorns-lohnt-sich-die-bewerbung",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-25T16:46:37.288727+00:00"
+    },
+    {
+      "name": "Fyrce Care",
+      "website": "http://fyrcecare.com/",
+      "key": "fyrcecare.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-25T16:46:37.288735+00:00"
+    },
+    {
+      "name": "AmbuMetric",
+      "website": "https://www.ambumetric.de/",
+      "key": "ambumetric.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-25T16:46:37.288741+00:00"
+    },
+    {
+      "name": "ElternCrew",
+      "website": "https://www.elterncrew.de/",
+      "key": "elterncrew.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-25T16:46:37.288747+00:00"
+    },
+    {
+      "name": "Spree Monitoring",
+      "website": "http://spree-monitoring.de/",
+      "key": "spree-monitoring.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-25T16:46:37.288752+00:00"
+    },
+    {
+      "name": "naion.tech",
+      "website": "https://naion.tech/",
+      "key": "naion.tech",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-08-25T16:46:37.288758+00:00"
+    },
+    {
+      "name": "+++ Hustle Culture+++ DailyDeal +++ YFood +++ Sanity Group +++ Fuchs & Eule +++ Pivot +++",
+      "website": "https://www.deutsche-startups.de/2026/08/25/hustle-culture-dailydeal-yfood-sanity-group-fuchs-eule-pivot/",
+      "key": "https://www.deutsche-startups.de/2026/08/25/hustle-culture-dailydeal-yfood-sanity-group-fuchs-eule-pivot",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-25T16:46:37.288777+00:00"
+    },
+    {
+      "name": "„Scheitern ist die Essenz von Erfolg“",
+      "website": "https://www.deutsche-startups.de/2026/08/25/scheitern-ist-die-essenz-von-erfolg/",
+      "key": "https://www.deutsche-startups.de/2026/08/25/scheitern-ist-die-essenz-von-erfolg",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-25T16:46:37.288783+00:00"
+    },
+    {
+      "name": "Deutsche Wirtschaft wächst im zweiten Quartal um 0,3 Prozent",
+      "website": "https://www.startbase.com/reports/deutsche-wirtschaft-waechst-im-zweiten-quartal-um-03-prozent/",
+      "key": "https://www.startbase.com/reports/deutsche-wirtschaft-waechst-im-zweiten-quartal-um-03-prozent",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-25T16:46:37.288789+00:00"
+    },
+    {
+      "name": "Volve holt sich 3 Millionen US-Dollar für KI-Plattform im Baugewerbe",
+      "website": "https://www.startbase.com/news/volve-holt-sich-3-millionen-us-dollar-fuer-ki-plattform-im-baugewerbe/",
+      "key": "https://www.startbase.com/news/volve-holt-sich-3-millionen-us-dollar-fuer-ki-plattform-im-baugewerbe",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-25T16:46:37.288795+00:00"
+    },
+    {
+      "name": "ÄIO und TFTAK erhalten 1,94 Millionen Euro",
+      "website": "https://www.startbase.com/news/aeio-und-tftak-erhalten-194-millionen-euro/",
+      "key": "https://www.startbase.com/news/aeio-und-tftak-erhalten-194-millionen-euro",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-25T16:46:37.288801+00:00"
+    },
+    {
+      "name": "ToysReloved sammelt 425.000 Euro für den Kreislauf gebrauchter Spielzeuge ein",
+      "website": "https://www.startbase.com/news/toysreloved-sammelt-425-000-euro-fuer-den-kreislauf-gebrauchter-spielzeuge-ein/",
+      "key": "https://www.startbase.com/news/toysreloved-sammelt-425-000-euro-fuer-den-kreislauf-gebrauchter-spielzeuge-ein",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-25T16:46:37.288806+00:00"
     }
   ],
-  "last_run": "2026-08-24T16:47:33.247401+00:00"
+  "last_run": "2026-08-25T16:46:37.288901+00:00"
 }
