@@ -129,7 +129,9 @@
     "https://www.businessinsider.de/gruenderszene/ich-habe-nur-vier-stunden-pro-nacht-geschlafen-was-vereinbarkeit-bedeutet",
     "https://www.businessinsider.de/gruenderszene/ich-habe-zuckerbergs-6500-woerter-ki-manifest-gelesen",
     "https://www.businessinsider.de/gruenderszene/ich-nutze-ki-statt-praktikanten-und-bin-damit-produktiver",
+    "https://www.businessinsider.de/gruenderszene/ich-verkaufte-mein-ki-startup-jetzt-baue-ich-etwas-voellig-neues",
     "https://www.businessinsider.de/gruenderszene/in-diesen-drei-staedten-rechnet-niemand-mit-milliardenfirmen",
+    "https://www.businessinsider.de/gruenderszene/interne-chats-geleakt-glow25-gruender-streiten-mit-mitarbeitern-um-betriebsrat",
     "https://www.businessinsider.de/gruenderszene/jared-leto-plante-75-millionen-dollar-fonds-vor-den-juengsten-vorwuerfen",
     "https://www.businessinsider.de/gruenderszene/jemand-richtete-eine-schusswaffe-auf-mich-queere-gruender-ueber-hass",
     "https://www.businessinsider.de/gruenderszene/kann-das-tempo-nicht-mehr-mitgehen-ex-openai-managerin-zieht-reissleine",
@@ -191,6 +193,7 @@
     "https://www.businessinsider.de/gruenderszene/soll-chinas-ki-ausgebremst-werden",
     "https://www.businessinsider.de/gruenderszene/sponsored-post/erstmals-messbar-so-entscheiden-business-angels-wirklich-companisto",
     "https://www.businessinsider.de/gruenderszene/sponsored-post/wie-sich-maerkte-veraendern-und-marken-relevant-bleiben-gizeh",
+    "https://www.businessinsider.de/gruenderszene/staatsanwaltschaft-ermittelt-gegen-ex-dhdl-star-georg-kofler",
     "https://www.businessinsider.de/gruenderszene/startup-verspricht-bewerbern-interview-wenn-sie-sich-das-firmenlogo-taetowieren",
     "https://www.businessinsider.de/gruenderszene/statt-neuer-investoren-holt-sich-dieses-startup-lieber-schulden-ins-haus",
     "https://www.businessinsider.de/gruenderszene/telekom-in-diese-7-namhaften-ki-startups-investiert-der-mobilfunkanbieter",
@@ -343,6 +346,9 @@
     "https://www.deutsche-startups.de/2026/08/25/scheitern-ist-die-essenz-von-erfolg",
     "https://www.deutsche-startups.de/2026/08/26/exit-und-dann-was-gruenderinnen-nach-dem-grossen-verkauf-wissen-sollten",
     "https://www.deutsche-startups.de/2026/08/26/htgf-finanzguru-beel-syndikate-assistme-health-routine-pivot",
+    "https://www.deutsche-startups.de/2026/08/27/funding-fluch-t1tan-blacklane-hertha-bsc-post-exit-playbook",
+    "https://www.deutsche-startups.de/2026/08/27/mehr-mut-waere-in-der-heutigen-zeit-wichtig",
+    "https://www.deutsche-startups.de/2026/08/27/warum-deutschland-bei-physical-ai-noch-gewinnen-kann",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
     "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor",
@@ -388,6 +394,7 @@
     "https://www.startbase.com/news/eth-spin-off-zuriq-sammelt-224-millionen-euro-fuer-skalierbare-quantencomputer-ein",
     "https://www.startbase.com/news/exobiosphere-erhaelt-eine-million-euro-staatliche-foerderung-fuer-space-biotech-plattform",
     "https://www.startbase.com/news/farizon-bringt-e-lkw-nach-europa-beginnt-jetzt-auch-bei-nutzfahrzeugen-der-angriff-aus-china",
+    "https://www.startbase.com/news/feragen-erhaelt-sechsstelliges-investment-von-raiffeisen-salzburg",
     "https://www.startbase.com/news/flinket-und-upvest-bringen-digitale-fondsgebundene-versicherungen-nach-europa",
     "https://www.startbase.com/news/flip-sichert-sich-25-millionen-us-dollar-fuer-ki-plattform",
     "https://www.startbase.com/news/fortino-capital-investiert-in-operations1",
@@ -434,6 +441,7 @@
     "https://www.startbase.com/news/qodia-sichert-sich-12-millionen-euro-fuer-ki-gestuetzte-privatabrechnung",
     "https://www.startbase.com/news/quantumdiamonds-erhaelt-91-millionen-euro-fuer-quantensensorik-in-der-halbleiterindustrie",
     "https://www.startbase.com/news/refined-diagnostics-sammelt-29-millionen-euro-ein-und-bereitet-markteintritt-fuer-ki-gestuetzte-krebsdiagnostik-vor",
+    "https://www.startbase.com/news/reformer-club-erhaelt-2-millionen-euro-von-vorwerk-ventures",
     "https://www.startbase.com/news/renk-refinanziert-sich-mit-kreditpaket-ueber-105-milliarden-euro",
     "https://www.startbase.com/news/reverse-fashion-erhaelt-siebenstelliges-htgf-investment-fuer-ki-gestuetzte-textilsortierung",
     "https://www.startbase.com/news/revier-therapeutics-startet-mit-6-millionen-euro-seed-finanzierung",
@@ -4599,7 +4607,71 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-26T16:52:42.106943+00:00"
+    },
+    {
+      "name": "Razzia, Millionen-Darlehen, Aktienkäufe: Staatsanwaltschaft ermittelt gegen Ex-DHDL-Star Georg Kofler",
+      "website": "https://www.businessinsider.de/gruenderszene/staatsanwaltschaft-ermittelt-gegen-ex-dhdl-star-georg-kofler/",
+      "key": "https://www.businessinsider.de/gruenderszene/staatsanwaltschaft-ermittelt-gegen-ex-dhdl-star-georg-kofler",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-28T00:49:58.902932+00:00"
+    },
+    {
+      "name": "„Unfassbar enttäuscht“: Glow25-Gründer streiten sich in Whatsapp-Gruppe mit Mitarbeitern um Betriebsrat",
+      "website": "https://www.businessinsider.de/gruenderszene/interne-chats-geleakt-glow25-gruender-streiten-mit-mitarbeitern-um-betriebsrat/",
+      "key": "https://www.businessinsider.de/gruenderszene/interne-chats-geleakt-glow25-gruender-streiten-mit-mitarbeitern-um-betriebsrat",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-28T00:49:58.902960+00:00"
+    },
+    {
+      "name": "Master abgebrochen, Startup verkauft: Jetzt hat dieser Gründer den „Polymarket für Deutschland“ gebaut",
+      "website": "https://www.businessinsider.de/gruenderszene/ich-verkaufte-mein-ki-startup-jetzt-baue-ich-etwas-voellig-neues/",
+      "key": "https://www.businessinsider.de/gruenderszene/ich-verkaufte-mein-ki-startup-jetzt-baue-ich-etwas-voellig-neues",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-28T00:49:58.902970+00:00"
+    },
+    {
+      "name": "„Mehr Mut wäre in der heutigen Zeit wichtig“",
+      "website": "https://www.deutsche-startups.de/2026/08/27/mehr-mut-waere-in-der-heutigen-zeit-wichtig/",
+      "key": "https://www.deutsche-startups.de/2026/08/27/mehr-mut-waere-in-der-heutigen-zeit-wichtig",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-28T00:49:58.902978+00:00"
+    },
+    {
+      "name": "+++ Funding-Fluch +++ T1tan +++ Blacklane +++ Hertha BSC +++ Post-Exit-Playbook +++",
+      "website": "https://www.deutsche-startups.de/2026/08/27/funding-fluch-t1tan-blacklane-hertha-bsc-post-exit-playbook/",
+      "key": "https://www.deutsche-startups.de/2026/08/27/funding-fluch-t1tan-blacklane-hertha-bsc-post-exit-playbook",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-28T00:49:58.902985+00:00"
+    },
+    {
+      "name": "Physical AI noch gewinnen kann",
+      "website": "https://www.deutsche-startups.de/2026/08/27/warum-deutschland-bei-physical-ai-noch-gewinnen-kann/",
+      "key": "https://www.deutsche-startups.de/2026/08/27/warum-deutschland-bei-physical-ai-noch-gewinnen-kann",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-28T00:49:58.902993+00:00"
+    },
+    {
+      "name": "FERAGEN erhält sechsstelliges Investment von Raiffeisen Salzburg",
+      "website": "https://www.startbase.com/news/feragen-erhaelt-sechsstelliges-investment-von-raiffeisen-salzburg/",
+      "key": "https://www.startbase.com/news/feragen-erhaelt-sechsstelliges-investment-von-raiffeisen-salzburg",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-28T00:49:58.902999+00:00"
+    },
+    {
+      "name": "Reformer Club erhält 2 Millionen Euro von Vorwerk Ventures",
+      "website": "https://www.startbase.com/news/reformer-club-erhaelt-2-millionen-euro-von-vorwerk-ventures/",
+      "key": "https://www.startbase.com/news/reformer-club-erhaelt-2-millionen-euro-von-vorwerk-ventures",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-28T00:49:58.903003+00:00"
     }
   ],
-  "last_run": "2026-08-26T16:52:42.107056+00:00"
+  "last_run": "2026-08-28T00:49:58.903098+00:00"
 }
