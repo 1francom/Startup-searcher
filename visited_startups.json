@@ -161,6 +161,7 @@
     "https://www.businessinsider.de/gruenderszene/nach-prozess-christian-wolfs-proteinfabrik-bekommt-nun-betriebsrat",
     "https://www.businessinsider.de/gruenderszene/nach-ueber-20-jahren-berufserfahrung-das-sind-die-3-learnings-eines-unternehmers",
     "https://www.businessinsider.de/gruenderszene/naechster-top-manager-verlaesst-openai-um-ki-startup-zu-gruenden",
+    "https://www.businessinsider.de/gruenderszene/naechstes-jahr-sind-wir-unicorn-peec-ai-gruender-marius-meiners",
     "https://www.businessinsider.de/gruenderszene/netflix-kauft-fuer-fast-600-millionen-ben-afflecks-ki-startup",
     "https://www.businessinsider.de/gruenderszene/neues-unicorn-berliner-fintech-moss-knackt-milliarden-bewertung",
     "https://www.businessinsider.de/gruenderszene/news/8-investoren-2-neuzugaenge-das-ist-das-neue-loewenrudel-in-staffel-20-von-die-hoehle-der-loewen",
@@ -194,6 +195,7 @@
     "https://www.businessinsider.de/gruenderszene/sponsored-post/erstmals-messbar-so-entscheiden-business-angels-wirklich-companisto",
     "https://www.businessinsider.de/gruenderszene/sponsored-post/wie-sich-maerkte-veraendern-und-marken-relevant-bleiben-gizeh",
     "https://www.businessinsider.de/gruenderszene/staatsanwaltschaft-ermittelt-gegen-ex-dhdl-star-georg-kofler",
+    "https://www.businessinsider.de/gruenderszene/startup-leak-ich-bin-wirklich-unfassbar-enttaeuscht-so-kam-es-zum-streit",
     "https://www.businessinsider.de/gruenderszene/startup-verspricht-bewerbern-interview-wenn-sie-sich-das-firmenlogo-taetowieren",
     "https://www.businessinsider.de/gruenderszene/statt-neuer-investoren-holt-sich-dieses-startup-lieber-schulden-ins-haus",
     "https://www.businessinsider.de/gruenderszene/telekom-in-diese-7-namhaften-ki-startups-investiert-der-mobilfunkanbieter",
@@ -349,6 +351,8 @@
     "https://www.deutsche-startups.de/2026/08/27/funding-fluch-t1tan-blacklane-hertha-bsc-post-exit-playbook",
     "https://www.deutsche-startups.de/2026/08/27/mehr-mut-waere-in-der-heutigen-zeit-wichtig",
     "https://www.deutsche-startups.de/2026/08/27/warum-deutschland-bei-physical-ai-noch-gewinnen-kann",
+    "https://www.deutsche-startups.de/2026/08/28/nelly-jonathan-tah-joonys-neoh-homeride-pivot-physical-ai",
+    "https://www.deutsche-startups.de/2026/08/28/out-of-home-wie-startups-die-strasse-als-marketingkanal-neu-entdecken",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
     "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor",
@@ -4671,7 +4675,39 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-08-28T00:49:58.903003+00:00"
+    },
+    {
+      "name": "„Nächstes Jahr sind wir Unicorn“: Peec-AI-Gründer über 100 Millionen Umsatz, schnelles Wachstum und Socken im Büro",
+      "website": "https://www.businessinsider.de/gruenderszene/naechstes-jahr-sind-wir-unicorn-peec-ai-gruender-marius-meiners/",
+      "key": "https://www.businessinsider.de/gruenderszene/naechstes-jahr-sind-wir-unicorn-peec-ai-gruender-marius-meiners",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-29T00:31:20.768239+00:00"
+    },
+    {
+      "name": "„Unfassbar enttäuscht“: Glow25-Gründer streiten sich in Whatsapp-Gruppe mit Mitarbeitern um Betriebsrat",
+      "website": "https://www.businessinsider.de/gruenderszene/startup-leak-ich-bin-wirklich-unfassbar-enttaeuscht-so-kam-es-zum-streit/",
+      "key": "https://www.businessinsider.de/gruenderszene/startup-leak-ich-bin-wirklich-unfassbar-enttaeuscht-so-kam-es-zum-streit",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-08-29T00:31:20.768286+00:00"
+    },
+    {
+      "name": "+++ Nelly +++ Jonathan Tah +++ Joony’s +++ NEOH +++ HomeRide +++ Pivot +++ Physical AI +++",
+      "website": "https://www.deutsche-startups.de/2026/08/28/nelly-jonathan-tah-joonys-neoh-homeride-pivot-physical-ai/",
+      "key": "https://www.deutsche-startups.de/2026/08/28/nelly-jonathan-tah-joonys-neoh-homeride-pivot-physical-ai",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-29T00:31:20.768296+00:00"
+    },
+    {
+      "name": "Out-of-Home: Wie Startups die Straße als Marketingkanal neu entdecken",
+      "website": "https://www.deutsche-startups.de/2026/08/28/out-of-home-wie-startups-die-strasse-als-marketingkanal-neu-entdecken/",
+      "key": "https://www.deutsche-startups.de/2026/08/28/out-of-home-wie-startups-die-strasse-als-marketingkanal-neu-entdecken",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-08-29T00:31:20.768304+00:00"
     }
   ],
-  "last_run": "2026-08-28T00:49:58.903098+00:00"
+  "last_run": "2026-08-29T00:31:20.768420+00:00"
 }
