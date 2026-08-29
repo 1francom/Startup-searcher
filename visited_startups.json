@@ -353,6 +353,7 @@
     "https://www.deutsche-startups.de/2026/08/27/warum-deutschland-bei-physical-ai-noch-gewinnen-kann",
     "https://www.deutsche-startups.de/2026/08/28/nelly-jonathan-tah-joonys-neoh-homeride-pivot-physical-ai",
     "https://www.deutsche-startups.de/2026/08/28/out-of-home-wie-startups-die-strasse-als-marketingkanal-neu-entdecken",
+    "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
     "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor",
@@ -459,6 +460,7 @@
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-32-26",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-33-26",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-34-26",
+    "https://www.startbase.com/news/startupnews-zum-wochenende-kw-35-26",
     "https://www.startbase.com/news/supraleiter-startup-subra-sichert-sich-50-mio-euro-und-bayern-kapital-ist-dabei",
     "https://www.startbase.com/news/swegan-holt-sich-weitere-14-millionen-us-dollar",
     "https://www.startbase.com/news/toysreloved-sammelt-425-000-euro-fuer-den-kreislauf-gebrauchter-spielzeuge-ein",
@@ -4707,7 +4709,23 @@
       "source": "deutsche-startups.de",
       "resolved": false,
       "discovered_at": "2026-08-29T00:31:20.768304+00:00"
+    },
+    {
+      "name": "Ein Investorennetzwerk für die nächste Unternehmensgeneration Brandenburgs",
+      "website": "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs/",
+      "key": "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-29T19:21:29.229968+00:00"
+    },
+    {
+      "name": "Startupnews zum Wochenende KW 35/26",
+      "website": "https://www.startbase.com/news/startupnews-zum-wochenende-kw-35-26/",
+      "key": "https://www.startbase.com/news/startupnews-zum-wochenende-kw-35-26",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-08-29T19:21:29.229997+00:00"
     }
   ],
-  "last_run": "2026-08-29T00:31:20.768420+00:00"
+  "last_run": "2026-08-29T19:21:29.230115+00:00"
 }
