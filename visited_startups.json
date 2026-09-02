@@ -1,5 +1,6 @@
 {
   "domains": [
+    "aeya-app.com",
     "ag-tech.systems",
     "aiceflow.de",
     "alawyer.ai",
@@ -13,10 +14,12 @@
     "augustus.com",
     "auxilius.ai",
     "baudis.ai",
+    "beta.willidrop.com",
     "birdwave.de",
     "blackdocs.de",
     "blocktracts.de",
     "bodywision.com",
+    "careconnect-os.com",
     "cense.com",
     "ciro.immo",
     "citelm.com",
@@ -133,6 +136,7 @@
     "https://www.businessinsider.de/gruenderszene/handwerklich-schwach-reaktionen-auf-reiches-startup-strategie",
     "https://www.businessinsider.de/gruenderszene/hast-du-frueher-andere-verpruegelt-brammibals-gruenderin-im-interview",
     "https://www.businessinsider.de/gruenderszene/health/schlafen-oder-durcharbeiten-drei-startup-gruender-berichten-von-ihren-schlafgewohnheiten",
+    "https://www.businessinsider.de/gruenderszene/hometogo-aktie-um-fast-90-gefallen-warum-der-gruender-aber-optimistisch-ist",
     "https://www.businessinsider.de/gruenderszene/ich-habe-mark-zuckerbergs-ki-essay-gelesen-damit-ihr-es-nicht-muesst",
     "https://www.businessinsider.de/gruenderszene/ich-habe-nur-vier-stunden-pro-nacht-geschlafen-was-vereinbarkeit-bedeutet",
     "https://www.businessinsider.de/gruenderszene/ich-habe-zuckerbergs-6500-woerter-ki-manifest-gelesen",
@@ -369,6 +373,8 @@
     "https://www.deutsche-startups.de/2026/08/31/wir-wollten-unsere-entscheidungen-selbst-treffen",
     "https://www.deutsche-startups.de/2026/09/01/auxxo-thermondo-fenergetis-gruppe-roll-up-berlin-solago",
     "https://www.deutsche-startups.de/2026/09/01/die-initialzuendung-war-ein-schockmoment",
+    "https://www.deutsche-startups.de/2026/09/02/10-neue-unicorns-deutschlands-milliarden-boom",
+    "https://www.deutsche-startups.de/2026/09/02/uplift-ventures-cloover-hpi-ventures-hpvc-rotas-gruppe-klao",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
@@ -435,6 +441,7 @@
     "https://www.startbase.com/news/hotel-investments-ag-steigt-bei-ki-hausverwaltung-novumstate-ein",
     "https://www.startbase.com/news/htgf-startet-fundraising-fuer-fuenften-seedfonds",
     "https://www.startbase.com/news/humanoid-sammelt-152-millionen-us-dollar-ein-und-erreicht-unicorn-bewertung",
+    "https://www.startbase.com/news/hyimpulse-sichert-sich-ueber-50-millionen-euro-fuer-europaeische-raketenstarts",
     "https://www.startbase.com/news/index-ventures-sammelt-35-milliarden-us-dollar-fuer-neue-seed-venture-und-growth-fonds-ein",
     "https://www.startbase.com/news/inleap-photonics-sichert-sich-20-millionen-euro-fuer-laserbasierte-drohnenabwehr",
     "https://www.startbase.com/news/invecorum-sammelt-sechsstellige-business-angel-runde-in-rekordzeit-ein",
@@ -446,6 +453,7 @@
     "https://www.startbase.com/news/lissi-zieht-35-millionen-euro-an-land",
     "https://www.startbase.com/news/litilit-erhaelt-8-millionen-euro-fuer-hochleistungs-femtosekundenlaser",
     "https://www.startbase.com/news/lovable-sammelt-400-millionen-us-dollar-ein-und-erreicht-bewertung-von-133-milliarden-dollar",
+    "https://www.startbase.com/news/love-disruption-2026-bringt-startups-mittelstand-und-deep-tech-nach-marburg",
     "https://www.startbase.com/news/luffy-ai-sammelt-81-millionen-pfund-ein-mig-capital-investiert-in-ki-fuer-die-industrielle-echtzeitsteuerung",
     "https://www.startbase.com/news/maia-erhaelt-4-millionen-euro-fuer-ki-plattform-zur-erschliessung-technischen-unternehmenswissens",
     "https://www.startbase.com/news/mbg-investiert-1-million-euro-in-naturenergie-rotachtal",
@@ -461,6 +469,7 @@
     "https://www.startbase.com/news/nrw-bank-investiert-in-ag-tech-systems",
     "https://www.startbase.com/news/nxtgn-startup-factory-waechst-tuebingen-freiburg-und-hohenheim-schliessen-sich-an",
     "https://www.startbase.com/news/oceanloop-zieht-bis-zu-385-millionen-euro-an-land",
+    "https://www.startbase.com/news/ohb-erhaelt-milliardenauftrag-fuer-europas-satellitennetz-iris%c2%b2",
     "https://www.startbase.com/news/ore-energy-sammelt-43-millionen-us-dollar-fuer-langzeitspeicher-der-naechsten-generation-ein",
     "https://www.startbase.com/news/polarise-sichert-sich-fremdkapitalfinanzierung-in-hoher-zweistelliger-millionenhoehe-fuer-europaeische-ai-cloud",
     "https://www.startbase.com/news/promptwatch-sammelt-6-millionen-euro-ein-und-setzt-auf-die-zukunft-der-ki-suchoptimierung",
@@ -490,6 +499,7 @@
     "https://www.startbase.com/news/valuemize-erhaelt-siebenstellige-pre-seed-finanzierung",
     "https://www.startbase.com/news/vayora-verlaesst-den-stealth-modus",
     "https://www.startbase.com/news/vertical-aerospace-sichert-sich-rund-100-millionen-us-dollar-fuer-zertifizierung-und-markteinfuehrung-von-valo",
+    "https://www.startbase.com/news/visionspace-erhaelt-ueber-300-000-euro-foerderung-fuer-eigenen-satellitencomputer",
     "https://www.startbase.com/news/volle-anziehungskraft-der-gruendungsmagnetstartet-gastbeitraege-und-das-munich-startupfestival-steht-vor-der-tuer",
     "https://www.startbase.com/news/volle-anziehungskraft-wie-das-munich-startup-festival-2026-gruendungsinitiativen-eine-buehne-gibt",
     "https://www.startbase.com/news/volve-holt-sich-3-millionen-us-dollar-fuer-ki-plattform-im-baugewerbe",
@@ -508,6 +518,7 @@
     "https://www.startbase.com/reports/deutschland-gruendet-wieder-mehr-waehrend-die-industrielle-basis-weiter-schrumpft",
     "https://www.startbase.com/reports/deutschland-wird-aelter-anteil-junger-menschen-bleibt-auf-historischem-tiefstand",
     "https://www.startbase.com/reports/deutschland-zaehlt-erstmals-mehr-als-3-000-neugruendungen-in-nur-sechs-monaten",
+    "hyimpulse.de",
     "jouly.ai",
     "kausable.ai",
     "kazimi.io",
@@ -520,6 +531,7 @@
     "machinespace.ai",
     "makemywork.de",
     "matchimize.de",
+    "medi-claim.de",
     "mevio.io",
     "mkind.ai",
     "n9r.ai",
@@ -550,6 +562,7 @@
     "riemann-robotics.com",
     "rogonneur.com",
     "seppy.de",
+    "serwas-heizung.at",
     "sherpahq.ai",
     "sikia.ai",
     "silvernova.ai",
@@ -4977,7 +4990,111 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-09-01T19:20:26.736255+00:00"
+    },
+    {
+      "name": "warum der Gründer trotzdem an seine Strategie glaubt",
+      "website": "https://www.businessinsider.de/gruenderszene/hometogo-aktie-um-fast-90-gefallen-warum-der-gruender-aber-optimistisch-ist/",
+      "key": "https://www.businessinsider.de/gruenderszene/hometogo-aktie-um-fast-90-gefallen-warum-der-gruender-aber-optimistisch-ist",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-02T19:20:41.914594+00:00"
+    },
+    {
+      "name": "HyImpulse",
+      "website": "https://www.hyimpulse.de/",
+      "key": "hyimpulse.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-02T19:20:41.914619+00:00"
+    },
+    {
+      "name": "Willidrop",
+      "website": "https://beta.willidrop.com/",
+      "key": "beta.willidrop.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-02T19:20:41.914626+00:00"
+    },
+    {
+      "name": "MediClaim",
+      "website": "http://www.medi-claim.de/",
+      "key": "medi-claim.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-02T19:20:41.914631+00:00"
+    },
+    {
+      "name": "Aeya",
+      "website": "http://aeya-app.com/",
+      "key": "aeya-app.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-02T19:20:41.914636+00:00"
+    },
+    {
+      "name": "CareConnect",
+      "website": "http://careconnect-os.com/",
+      "key": "careconnect-os.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-02T19:20:41.914641+00:00"
+    },
+    {
+      "name": "Serwas",
+      "website": "http://serwas-heizung.at/",
+      "key": "serwas-heizung.at",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-02T19:20:41.914645+00:00"
+    },
+    {
+      "name": "+++ Uplift Ventures +++ Jungheinrich +++ Cloover +++ HPI Ventures +++ HPVC +++ Rotas Gruppe +++",
+      "website": "https://www.deutsche-startups.de/2026/09/02/uplift-ventures-cloover-hpi-ventures-hpvc-rotas-gruppe-klao/",
+      "key": "https://www.deutsche-startups.de/2026/09/02/uplift-ventures-cloover-hpi-ventures-hpvc-rotas-gruppe-klao",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-02T19:20:41.914650+00:00"
+    },
+    {
+      "name": "10 neue Unicorns: Deutschlands Milliarden-Boom",
+      "website": "https://www.deutsche-startups.de/2026/09/02/10-neue-unicorns-deutschlands-milliarden-boom/",
+      "key": "https://www.deutsche-startups.de/2026/09/02/10-neue-unicorns-deutschlands-milliarden-boom",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-02T19:20:41.914655+00:00"
+    },
+    {
+      "name": "OHB erhält Milliardenauftrag für Europas Satellitennetz IRIS²",
+      "website": "https://www.startbase.com/news/ohb-erhaelt-milliardenauftrag-fuer-europas-satellitennetz-iris%c2%b2/",
+      "key": "https://www.startbase.com/news/ohb-erhaelt-milliardenauftrag-fuer-europas-satellitennetz-iris%c2%b2",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-02T19:20:41.914660+00:00"
+    },
+    {
+      "name": "HyImpulse sichert sich über 50 Millionen Euro für europäische Raketenstarts",
+      "website": "https://www.startbase.com/news/hyimpulse-sichert-sich-ueber-50-millionen-euro-fuer-europaeische-raketenstarts/",
+      "key": "https://www.startbase.com/news/hyimpulse-sichert-sich-ueber-50-millionen-euro-fuer-europaeische-raketenstarts",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-02T19:20:41.914664+00:00"
+    },
+    {
+      "name": "VisionSpace erhält über 300.000 Euro Förderung für eigenen Satellitencomputer",
+      "website": "https://www.startbase.com/news/visionspace-erhaelt-ueber-300-000-euro-foerderung-fuer-eigenen-satellitencomputer/",
+      "key": "https://www.startbase.com/news/visionspace-erhaelt-ueber-300-000-euro-foerderung-fuer-eigenen-satellitencomputer",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-02T19:20:41.914669+00:00"
+    },
+    {
+      "name": "LOVE DISRUPTION 2026 bringt Startups, Mittelstand und Deep Tech nach Marburg",
+      "website": "https://www.startbase.com/news/love-disruption-2026-bringt-startups-mittelstand-und-deep-tech-nach-marburg/",
+      "key": "https://www.startbase.com/news/love-disruption-2026-bringt-startups-mittelstand-und-deep-tech-nach-marburg",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-02T19:20:41.914674+00:00"
     }
   ],
-  "last_run": "2026-09-01T19:20:26.736346+00:00"
+  "last_run": "2026-09-02T19:20:41.914784+00:00"
 }
