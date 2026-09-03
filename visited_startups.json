@@ -58,7 +58,10 @@
     "https://www.businessinsider.de/gruenderszene/17-arbeitsplaetze-geschaffen-trotzdem-kein-dauerhaftes-bleiberecht-fuer-gruender",
     "https://www.businessinsider.de/gruenderszene/2070-offene-jobs-bei-diesen-unicorns-lohnt-sich-die-bewerbung",
     "https://www.businessinsider.de/gruenderszene/22-jaehrige-wollte-ki-app-fuer-bluttests-bauen-dann-kam-das-erste-problem",
+    "https://www.businessinsider.de/gruenderszene/30-000e-fuer-den-notar-deutschland-macht-sich-zur-lachnummer-fuer-investoren",
     "https://www.businessinsider.de/gruenderszene/30-000e-fuer-tag-beim-notar-deutschland-mache-sich-zur-lachnummer",
+    "https://www.businessinsider.de/gruenderszene/40-000-euro-fuer-einen-techno-truck-und-besuch-vom-lka-so-erlebten-die-royal-gs-hosts-rave-the-planet",
+    "https://www.businessinsider.de/gruenderszene/aktien-hometogo-um-fast-90-gefallen-darum-bleibt-der-ceo-optimistisch",
     "https://www.businessinsider.de/gruenderszene/amazon-gruender-jeff-bezos-investiert-in-diese-fuenf-ki-startups",
     "https://www.businessinsider.de/gruenderszene/aws-panne-und-ploetzlich-muesst-ihr-239-milliarden-dollar-bezahlen",
     "https://www.businessinsider.de/gruenderszene/berliner-unicorn-deutsches-fintech-moss-knackt-die-milliarden-bewertung",
@@ -193,6 +196,7 @@
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-gerade-gruender-machen",
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-startup-gruender-gerade-machen",
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-fehlern-die-startup-gruender-gerade-machen",
+    "https://www.businessinsider.de/gruenderszene/peec-ai-naechstes-jahr-sind-wir-unicorn-ceo-ueber-turbo-erfolg",
     "https://www.businessinsider.de/gruenderszene/peec-ai-naechstes-jahr-sind-wir-unicorn-marius-meiners-ueber-turbo-wachstum",
     "https://www.businessinsider.de/gruenderszene/ploetzlich-kosten-in-milliardenhoehe-systemfehler-schockt-unternehmer",
     "https://www.businessinsider.de/gruenderszene/rente-in-startups-investieren-der-neue-plan-der-bundesregierung",
@@ -375,6 +379,8 @@
     "https://www.deutsche-startups.de/2026/09/01/die-initialzuendung-war-ein-schockmoment",
     "https://www.deutsche-startups.de/2026/09/02/10-neue-unicorns-deutschlands-milliarden-boom",
     "https://www.deutsche-startups.de/2026/09/02/uplift-ventures-cloover-hpi-ventures-hpvc-rotas-gruppe-klao",
+    "https://www.deutsche-startups.de/2026/09/03/so-gewinnen-startups-konzernkunden",
+    "https://www.deutsche-startups.de/2026/09/03/tengelmann-ventures-roll-ups-essen-ruhrgebiet-flip-unicorn-boom",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
@@ -392,6 +398,7 @@
     "https://www.startbase.com/news/amber-erhaelt-sieben-millionen-euro",
     "https://www.startbase.com/news/ardian-uebernimmt-mehrheit-an-healthtech-plattform-pflegia",
     "https://www.startbase.com/news/atechx-startet-vierte-kohorte-aroundtown-foerdert-elf-proptech-start-ups-fuer-die-immobilienwirtschaft",
+    "https://www.startbase.com/news/atira-sammelt-15-millionen-dollar-fuer-ki-agenten-im-industriellen-vertrieb-ein",
     "https://www.startbase.com/news/augustus-wird-unicorn-180-millionen-us-dollar-fuer-globale-dollar-infrastruktur",
     "https://www.startbase.com/news/auxxo-schliesst-zweiten-female-catalyst-fund-bei-333-millionen-euro",
     "https://www.startbase.com/news/axel-springer-investiert-in-futez-und-marquee-und-baut-internationales-sport-portfolio-aus",
@@ -466,11 +473,13 @@
     "https://www.startbase.com/news/nextgo-epi-zieht-2-millionen-euro-an-land",
     "https://www.startbase.com/news/nia-health-kooperiert-mit-abbvie-deutschland-bei-ki-gestuetzter-neurodermitis-versorgung",
     "https://www.startbase.com/news/nous-sammelt-23-millionen-euro-seed-ein",
+    "https://www.startbase.com/news/nrw-bank-investiert-erstmals-in-defence-tech-und-beteiligt-sich-an-skylance",
     "https://www.startbase.com/news/nrw-bank-investiert-in-ag-tech-systems",
     "https://www.startbase.com/news/nxtgn-startup-factory-waechst-tuebingen-freiburg-und-hohenheim-schliessen-sich-an",
     "https://www.startbase.com/news/oceanloop-zieht-bis-zu-385-millionen-euro-an-land",
     "https://www.startbase.com/news/ohb-erhaelt-milliardenauftrag-fuer-europas-satellitennetz-iris%c2%b2",
     "https://www.startbase.com/news/ore-energy-sammelt-43-millionen-us-dollar-fuer-langzeitspeicher-der-naechsten-generation-ein",
+    "https://www.startbase.com/news/pharosyn-erhaelt-3-millionen-us-dollar-fuer-pharma-ki",
     "https://www.startbase.com/news/polarise-sichert-sich-fremdkapitalfinanzierung-in-hoher-zweistelliger-millionenhoehe-fuer-europaeische-ai-cloud",
     "https://www.startbase.com/news/promptwatch-sammelt-6-millionen-euro-ein-und-setzt-auf-die-zukunft-der-ki-suchoptimierung",
     "https://www.startbase.com/news/qodia-sichert-sich-12-millionen-euro-fuer-ki-gestuetzte-privatabrechnung",
@@ -481,6 +490,7 @@
     "https://www.startbase.com/news/reverse-fashion-erhaelt-siebenstelliges-htgf-investment-fuer-ki-gestuetzte-textilsortierung",
     "https://www.startbase.com/news/revier-therapeutics-startet-mit-6-millionen-euro-seed-finanzierung",
     "https://www.startbase.com/news/ronald-kriedel-uebernimmt-geschaeftsfuehrung-der-bryck-startup-alliance",
+    "https://www.startbase.com/news/science4beauty-holt-sich-16-millionen-euro",
     "https://www.startbase.com/news/shiprocket-geht-fuer-11-mrd-us-dollar-an-die-boerse-und-bertelsmann-investments-ist-voll-dabei",
     "https://www.startbase.com/news/sodex-innovations-sammelt-4-millionen-euro-ein-und-digitalisiert-baustellen-mit-ki-in-echtzeit",
     "https://www.startbase.com/news/spacetech-deltavision-erhaelt-102-millionen-euro",
@@ -510,6 +520,7 @@
     "https://www.startbase.com/news/xorlab-erhaelt-5-millionen-euro-fuer-europaeische-e-mail-security",
     "https://www.startbase.com/news/xtend-fusioniert-mit-jfb-15-milliarden-dollar-deal-bringt-israelischen-drohnenpionier-an-die-nasdaq",
     "https://www.startbase.com/news/zalando-steigt-bei-robotik-startup-sereact-ein-finanzierungsrunde-waechst-auf-116-millionen-us-dollar",
+    "https://www.startbase.com/news/zeit-ai-sammelt-fuenf-millionen-euro-fuer-ki-datenplattform-ein",
     "https://www.startbase.com/portraits/10-jahre-q-summit-was-passiert-wenn-studierende-ihre-eigene-startup-konferenz-gruenden",
     "https://www.startbase.com/portraits/from-classroom-to-cap-table-howinnovis-vc-is-shaping-munichs-nextgeneration-of-venture-capital",
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
@@ -534,6 +545,7 @@
     "medi-claim.de",
     "mevio.io",
     "mkind.ai",
+    "moingroup.de",
     "n9r.ai",
     "naion.tech",
     "naturnista.de",
@@ -586,6 +598,7 @@
     "xorlab.com",
     "yovo.de",
     "zabr.ai",
+    "zeit-ai.com",
     "zuriq.com"
   ],
   "startups": [
@@ -5094,7 +5107,111 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-09-02T19:20:41.914674+00:00"
+    },
+    {
+      "name": "40.000 Euro für einen Techno-Truck und Besuch vom LKA: So erlebten die Royal GS-Hosts Rave the Planet",
+      "website": "https://www.businessinsider.de/gruenderszene/40-000-euro-fuer-einen-techno-truck-und-besuch-vom-lka-so-erlebten-die-royal-gs-hosts-rave-the-planet/",
+      "key": "https://www.businessinsider.de/gruenderszene/40-000-euro-fuer-einen-techno-truck-und-besuch-vom-lka-so-erlebten-die-royal-gs-hosts-rave-the-planet",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-03T19:14:51.717309+00:00"
+    },
+    {
+      "name": "warum der Gründer trotzdem an seine Strategie glaubt",
+      "website": "https://www.businessinsider.de/gruenderszene/aktien-hometogo-um-fast-90-gefallen-darum-bleibt-der-ceo-optimistisch/",
+      "key": "https://www.businessinsider.de/gruenderszene/aktien-hometogo-um-fast-90-gefallen-darum-bleibt-der-ceo-optimistisch",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-03T19:14:51.717330+00:00"
+    },
+    {
+      "name": "„Nächstes Jahr sind wir Unicorn“: Peec-AI-Gründer über 100 Millionen Umsatz, schnelles Wachstum und Socken im Büro",
+      "website": "https://www.businessinsider.de/gruenderszene/peec-ai-naechstes-jahr-sind-wir-unicorn-ceo-ueber-turbo-erfolg/",
+      "key": "https://www.businessinsider.de/gruenderszene/peec-ai-naechstes-jahr-sind-wir-unicorn-ceo-ueber-turbo-erfolg",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-03T19:14:51.717338+00:00"
+    },
+    {
+      "name": "30.000 Euro für einen Tag beim Notar: Diese Gründer-Story mache Deutschland „zur Lachnummer“",
+      "website": "https://www.businessinsider.de/gruenderszene/30-000e-fuer-den-notar-deutschland-macht-sich-zur-lachnummer-fuer-investoren/",
+      "key": "https://www.businessinsider.de/gruenderszene/30-000e-fuer-den-notar-deutschland-macht-sich-zur-lachnummer-fuer-investoren",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-03T19:14:51.717344+00:00"
+    },
+    {
+      "name": "Zeit AI",
+      "website": "https://www.zeit-ai.com/",
+      "key": "zeit-ai.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-03T19:14:51.717350+00:00"
+    },
+    {
+      "name": "MoIn Group",
+      "website": "https://moingroup.de/",
+      "key": "moingroup.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-03T19:14:51.717355+00:00"
+    },
+    {
+      "name": "+++ Tengelmann Ventures +++ Roll-ups +++ Essen +++ Ruhrgebiet +++ Flip +++ Unicorn-Boom +++",
+      "website": "https://www.deutsche-startups.de/2026/09/03/tengelmann-ventures-roll-ups-essen-ruhrgebiet-flip-unicorn-boom/",
+      "key": "https://www.deutsche-startups.de/2026/09/03/tengelmann-ventures-roll-ups-essen-ruhrgebiet-flip-unicorn-boom",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-03T19:14:51.717362+00:00"
+    },
+    {
+      "name": "So gewinnen Startups Konzerne als Kunden",
+      "website": "https://www.deutsche-startups.de/2026/09/03/so-gewinnen-startups-konzernkunden/",
+      "key": "https://www.deutsche-startups.de/2026/09/03/so-gewinnen-startups-konzernkunden",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-03T19:14:51.717367+00:00"
+    },
+    {
+      "name": "Atira sammelt 15 Millionen Dollar für KI-Agenten im industriellen Vertrieb ein",
+      "website": "https://www.startbase.com/news/atira-sammelt-15-millionen-dollar-fuer-ki-agenten-im-industriellen-vertrieb-ein/",
+      "key": "https://www.startbase.com/news/atira-sammelt-15-millionen-dollar-fuer-ki-agenten-im-industriellen-vertrieb-ein",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-03T19:14:51.717384+00:00"
+    },
+    {
+      "name": "NRW.BANK investiert erstmals in Defence-Tech und beteiligt sich an Skylance",
+      "website": "https://www.startbase.com/news/nrw-bank-investiert-erstmals-in-defence-tech-und-beteiligt-sich-an-skylance/",
+      "key": "https://www.startbase.com/news/nrw-bank-investiert-erstmals-in-defence-tech-und-beteiligt-sich-an-skylance",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-03T19:14:51.717390+00:00"
+    },
+    {
+      "name": "Science4Beauty holt sich 1,6 Millionen Euro",
+      "website": "https://www.startbase.com/news/science4beauty-holt-sich-16-millionen-euro/",
+      "key": "https://www.startbase.com/news/science4beauty-holt-sich-16-millionen-euro",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-03T19:14:51.717395+00:00"
+    },
+    {
+      "name": "Zeit AI sammelt fünf Millionen Euro für KI-Datenplattform ein",
+      "website": "https://www.startbase.com/news/zeit-ai-sammelt-fuenf-millionen-euro-fuer-ki-datenplattform-ein/",
+      "key": "https://www.startbase.com/news/zeit-ai-sammelt-fuenf-millionen-euro-fuer-ki-datenplattform-ein",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-03T19:14:51.717400+00:00"
+    },
+    {
+      "name": "Pharosyn erhält 3 Millionen US-Dollar für Pharma-KI",
+      "website": "https://www.startbase.com/news/pharosyn-erhaelt-3-millionen-us-dollar-fuer-pharma-ki/",
+      "key": "https://www.startbase.com/news/pharosyn-erhaelt-3-millionen-us-dollar-fuer-pharma-ki",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-03T19:14:51.717405+00:00"
     }
   ],
-  "last_run": "2026-09-02T19:20:41.914784+00:00"
+  "last_run": "2026-09-03T19:14:51.717508+00:00"
 }
