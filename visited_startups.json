@@ -10,6 +10,7 @@
     "ampelo.de",
     "ampway.de",
     "anotherearth.ai",
+    "atira.ai",
     "atlea.com",
     "augustus.com",
     "auxilius.ai",
@@ -381,6 +382,8 @@
     "https://www.deutsche-startups.de/2026/09/02/uplift-ventures-cloover-hpi-ventures-hpvc-rotas-gruppe-klao",
     "https://www.deutsche-startups.de/2026/09/03/so-gewinnen-startups-konzernkunden",
     "https://www.deutsche-startups.de/2026/09/03/tengelmann-ventures-roll-ups-essen-ruhrgebiet-flip-unicorn-boom",
+    "https://www.deutsche-startups.de/2026/09/04/4-millionenschwere-investments-die-alle-kennen-sollten",
+    "https://www.deutsche-startups.de/2026/09/04/deutsche-mietkaution-sushi-bikes-andy-weinzierl-young-founders-conference",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
@@ -502,6 +505,7 @@
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-33-26",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-34-26",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-35-26",
+    "https://www.startbase.com/news/startupnews-zum-wochenende-kw-36-26",
     "https://www.startbase.com/news/supraleiter-startup-subra-sichert-sich-50-mio-euro-und-bayern-kapital-ist-dabei",
     "https://www.startbase.com/news/swegan-holt-sich-weitere-14-millionen-us-dollar",
     "https://www.startbase.com/news/toysreloved-sammelt-425-000-euro-fuer-den-kreislauf-gebrauchter-spielzeuge-ein",
@@ -5211,7 +5215,39 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-09-03T19:14:51.717405+00:00"
+    },
+    {
+      "name": "Atira",
+      "website": "http://www.atira.ai/",
+      "key": "atira.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-04T18:56:40.914202+00:00"
+    },
+    {
+      "name": "+++ Deutsche Mietkaution +++ Sushi Bikes +++ Andy Weinzierl +++ Young Founders Conference +++",
+      "website": "https://www.deutsche-startups.de/2026/09/04/deutsche-mietkaution-sushi-bikes-andy-weinzierl-young-founders-conference/",
+      "key": "https://www.deutsche-startups.de/2026/09/04/deutsche-mietkaution-sushi-bikes-andy-weinzierl-young-founders-conference",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-04T18:56:40.914223+00:00"
+    },
+    {
+      "name": "4 millionenschwere Investments, die alle kennen sollten",
+      "website": "https://www.deutsche-startups.de/2026/09/04/4-millionenschwere-investments-die-alle-kennen-sollten/",
+      "key": "https://www.deutsche-startups.de/2026/09/04/4-millionenschwere-investments-die-alle-kennen-sollten",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-04T18:56:40.914231+00:00"
+    },
+    {
+      "name": "Startupnews zum Wochenende KW 36/26",
+      "website": "https://www.startbase.com/news/startupnews-zum-wochenende-kw-36-26/",
+      "key": "https://www.startbase.com/news/startupnews-zum-wochenende-kw-36-26",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-04T18:56:40.914237+00:00"
     }
   ],
-  "last_run": "2026-09-03T19:14:51.717508+00:00"
+  "last_run": "2026-09-04T18:56:40.914336+00:00"
 }
