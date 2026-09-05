@@ -116,6 +116,7 @@
     "https://www.businessinsider.de/gruenderszene/ganz-schoen-meta-ich-habe-zuckerbergs-6500-woerter-ki-manifest-gelesen",
     "https://www.businessinsider.de/gruenderszene/geplatzer-deal-mit-der-politik-warum-lilium-die-100-millionen-nie-bekam",
     "https://www.businessinsider.de/gruenderszene/google-top-entwickler-jeff-dean-geht-sein-startup-koennte-milliarden-holen",
+    "https://www.businessinsider.de/gruenderszene/gruender-bauen-mit-codex-und-vercel-ihre-startups-so-nutzen-sie-die-tools",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/21-jaehriger-will-das-idealo-fuer-secondhand-bauen",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/23-jaehriger-konnte-nicht-programmieren-heute-baut-er-apps-mit-ki",
     "https://www.businessinsider.de/gruenderszene/gruenderszene-sucht-die-super-gruender/fellows/angriff-auf-google-maps-dieses-startup-will-fake-bewertungen-ueberfluessig-machen",
@@ -141,6 +142,7 @@
     "https://www.businessinsider.de/gruenderszene/hast-du-frueher-andere-verpruegelt-brammibals-gruenderin-im-interview",
     "https://www.businessinsider.de/gruenderszene/health/schlafen-oder-durcharbeiten-drei-startup-gruender-berichten-von-ihren-schlafgewohnheiten",
     "https://www.businessinsider.de/gruenderszene/hometogo-aktie-um-fast-90-gefallen-warum-der-gruender-aber-optimistisch-ist",
+    "https://www.businessinsider.de/gruenderszene/hometogo-aktie-unter-1-euro-warum-der-ceo-trotzdem-das-potenzial-sieht",
     "https://www.businessinsider.de/gruenderszene/ich-habe-mark-zuckerbergs-ki-essay-gelesen-damit-ihr-es-nicht-muesst",
     "https://www.businessinsider.de/gruenderszene/ich-habe-nur-vier-stunden-pro-nacht-geschlafen-was-vereinbarkeit-bedeutet",
     "https://www.businessinsider.de/gruenderszene/ich-habe-zuckerbergs-6500-woerter-ki-manifest-gelesen",
@@ -155,6 +157,7 @@
     "https://www.businessinsider.de/gruenderszene/ki-schreibt-fast-den-gesamten-code-doch-der-boom-hat-seinen-preis",
     "https://www.businessinsider.de/gruenderszene/ki-startup-ist-jetzt-ein-unicorn-150-konzerne-nutzen-es-bereits",
     "https://www.businessinsider.de/gruenderszene/ki-startups-diese-7-haben-einen-ueberraschenden-investor",
+    "https://www.businessinsider.de/gruenderszene/ki-startups-warum-millionen-arr-ploetzlich-weg-sein-kann",
     "https://www.businessinsider.de/gruenderszene/ki-vor-diesem-34-jaehrigen-chinesen-zittert-das-silicon-valley",
     "https://www.businessinsider.de/gruenderszene/ki-warum-ein-34-jaehriger-chinese-das-silicon-valley-erzittern-laesst",
     "https://www.businessinsider.de/gruenderszene/kimi-k3-dieses-neue-ki-modell-aus-china-versetzt-das-silicon-valley-in-panik",
@@ -197,6 +200,7 @@
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-gerade-gruender-machen",
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-dem-fehler-den-startup-gruender-gerade-machen",
     "https://www.businessinsider.de/gruenderszene/openai-manager-warnt-vor-fehlern-die-startup-gruender-gerade-machen",
+    "https://www.businessinsider.de/gruenderszene/peec-ai-ceo-naechstes-jahr-sind-wir-unicorn-so-gelang-der-turbo-erfolg",
     "https://www.businessinsider.de/gruenderszene/peec-ai-naechstes-jahr-sind-wir-unicorn-ceo-ueber-turbo-erfolg",
     "https://www.businessinsider.de/gruenderszene/peec-ai-naechstes-jahr-sind-wir-unicorn-marius-meiners-ueber-turbo-wachstum",
     "https://www.businessinsider.de/gruenderszene/ploetzlich-kosten-in-milliardenhoehe-systemfehler-schockt-unternehmer",
@@ -384,8 +388,10 @@
     "https://www.deutsche-startups.de/2026/09/03/tengelmann-ventures-roll-ups-essen-ruhrgebiet-flip-unicorn-boom",
     "https://www.deutsche-startups.de/2026/09/04/4-millionenschwere-investments-die-alle-kennen-sollten",
     "https://www.deutsche-startups.de/2026/09/04/deutsche-mietkaution-sushi-bikes-andy-weinzierl-young-founders-conference",
+    "https://www.deutsche-startups.de/2026/09/05/wochenrueckblick-36-2026",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
+    "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
     "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor",
     "https://www.startbase.com/meinung/gross-groesser-gelogen",
@@ -5247,7 +5253,55 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-09-04T18:56:40.914237+00:00"
+    },
+    {
+      "name": "doch eine neue Studie zeigt, wie schnell sie wieder weg sein können",
+      "website": "https://www.businessinsider.de/gruenderszene/ki-startups-warum-millionen-arr-ploetzlich-weg-sein-kann/",
+      "key": "https://www.businessinsider.de/gruenderszene/ki-startups-warum-millionen-arr-ploetzlich-weg-sein-kann",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-05T18:06:09.636607+00:00"
+    },
+    {
+      "name": "so nutzen sie die Tools im Alltag",
+      "website": "https://www.businessinsider.de/gruenderszene/gruender-bauen-mit-codex-und-vercel-ihre-startups-so-nutzen-sie-die-tools/",
+      "key": "https://www.businessinsider.de/gruenderszene/gruender-bauen-mit-codex-und-vercel-ihre-startups-so-nutzen-sie-die-tools",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-05T18:06:09.636634+00:00"
+    },
+    {
+      "name": "warum der Gründer trotzdem an seine Strategie glaubt",
+      "website": "https://www.businessinsider.de/gruenderszene/hometogo-aktie-unter-1-euro-warum-der-ceo-trotzdem-das-potenzial-sieht/",
+      "key": "https://www.businessinsider.de/gruenderszene/hometogo-aktie-unter-1-euro-warum-der-ceo-trotzdem-das-potenzial-sieht",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-05T18:06:09.636643+00:00"
+    },
+    {
+      "name": "„Nächstes Jahr sind wir Unicorn“: Peec-AI-Gründer über 100 Millionen Umsatz, schnelles Wachstum und Socken im Büro",
+      "website": "https://www.businessinsider.de/gruenderszene/peec-ai-ceo-naechstes-jahr-sind-wir-unicorn-so-gelang-der-turbo-erfolg/",
+      "key": "https://www.businessinsider.de/gruenderszene/peec-ai-ceo-naechstes-jahr-sind-wir-unicorn-so-gelang-der-turbo-erfolg",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-05T18:06:09.636649+00:00"
+    },
+    {
+      "name": "+++ Cloover +++ HyImpulse +++ INLEAP Photonics +++ Atira +++ Zeit AI +++ Empion +++ klima&so +++ Margelo +++",
+      "website": "https://www.deutsche-startups.de/2026/09/05/wochenrueckblick-36-2026/",
+      "key": "https://www.deutsche-startups.de/2026/09/05/wochenrueckblick-36-2026",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-05T18:06:09.636654+00:00"
+    },
+    {
+      "name": "Ulrich Scheppan, Vorstandsvorsitzender Investitionsbank des Landes Brandenburg (ILB) zur aktuellen Lage der Start-up-Szene in Brandenburg",
+      "website": "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg/",
+      "key": "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-05T18:06:09.636660+00:00"
     }
   ],
-  "last_run": "2026-09-04T18:56:40.914336+00:00"
+  "last_run": "2026-09-05T18:06:09.636786+00:00"
 }
