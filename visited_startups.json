@@ -1,5 +1,6 @@
 {
   "domains": [
+    "aesthos.de",
     "aeya-app.com",
     "ag-tech.systems",
     "aiceflow.de",
@@ -37,7 +38,9 @@
     "easypisy.de",
     "elterncrew.de",
     "evems.de",
+    "exosphere.bio",
     "familystories.love",
+    "firedrone.com",
     "fryte.eu",
     "fyrcecare.com",
     "generative-robotics.de",
@@ -390,6 +393,9 @@
     "https://www.deutsche-startups.de/2026/09/04/4-millionenschwere-investments-die-alle-kennen-sollten",
     "https://www.deutsche-startups.de/2026/09/04/deutsche-mietkaution-sushi-bikes-andy-weinzierl-young-founders-conference",
     "https://www.deutsche-startups.de/2026/09/05/wochenrueckblick-36-2026",
+    "https://www.deutsche-startups.de/2026/09/07/der-erste-kontakt-entstand-ueber-gemeinsame-freunde",
+    "https://www.deutsche-startups.de/2026/09/07/isar-aerospace-lumina-kaleme-summersaver-dhdl-iqt",
+    "https://www.deutsche-startups.de/2026/09/07/sauberdropz-koralls-piesel-piepser-naturally-naughty-ding-dong-ping-pong-treten-vor-die-loewen",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
@@ -462,6 +468,7 @@
     "https://www.startbase.com/news/index-ventures-sammelt-35-milliarden-us-dollar-fuer-neue-seed-venture-und-growth-fonds-ein",
     "https://www.startbase.com/news/inleap-photonics-sichert-sich-20-millionen-euro-fuer-laserbasierte-drohnenabwehr",
     "https://www.startbase.com/news/invecorum-sammelt-sechsstellige-business-angel-runde-in-rekordzeit-ein",
+    "https://www.startbase.com/news/isar-aerospace-erreicht-beim-zweiten-flug-den-orbit-und-setzt-satelliten-aus",
     "https://www.startbase.com/news/kazimi-holt-sich-22-millionen-euro-fuer-schutz-vor-mobile-bots",
     "https://www.startbase.com/news/kicker-ventures-steigt-bei-cotrainer-ein",
     "https://www.startbase.com/news/konstanzer-medtech-startup-eversion-technologies-erhaelt-23-millionen-euro-seed-ii-finanzierung",
@@ -477,6 +484,7 @@
     "https://www.startbase.com/news/metr-erhaelt-105-millionen-euro-fuer-energieeffiziente-bestandsgebaeude",
     "https://www.startbase.com/news/multiverse-computing-plant-500-millionen-euro-finanzierungsrunde-fuer-effiziente-ki",
     "https://www.startbase.com/news/munich-re-uebernimmt-cyber-insurtech-at-bay-fuer-575-millionen-us-dollar",
+    "https://www.startbase.com/news/nach-motatos-rueckzug-afreshed-startet-retterbox-in-deutschland-und-oesterreich",
     "https://www.startbase.com/news/navvis-holt-sich-85-mio-us-dollar",
     "https://www.startbase.com/news/neko-health-erhaelt-700-millionen-us-dollar-fuer-den-ausbau-seiner-praeventionsplattform",
     "https://www.startbase.com/news/nestermind-erhaelt-siebenstellige-seed-finanzierung-fuer-seine-ki-crm-plattform",
@@ -540,6 +548,7 @@
     "https://www.startbase.com/reports/deutschland-gruendet-wieder-mehr-waehrend-die-industrielle-basis-weiter-schrumpft",
     "https://www.startbase.com/reports/deutschland-wird-aelter-anteil-junger-menschen-bleibt-auf-historischem-tiefstand",
     "https://www.startbase.com/reports/deutschland-zaehlt-erstmals-mehr-als-3-000-neugruendungen-in-nur-sechs-monaten",
+    "https://www.startbase.com/reports/deutschlands-wirtschaft-unter-druck-produktion-und-dienstleistungen-schwaecheln-mittelstand-denkt-ueber-verlagerungen-nach",
     "hyimpulse.de",
     "jouly.ai",
     "kausable.ai",
@@ -577,6 +586,7 @@
     "polygon-one.com",
     "praedia.ai",
     "pure-lyte.com",
+    "raffleboxx.com",
     "re-entry.ai",
     "rescora.de",
     "resource-intelligence.com",
@@ -590,6 +600,7 @@
     "sikia.ai",
     "silvernova.ai",
     "skylanx.ai",
+    "soulhouse.me",
     "soulofconcrete.com",
     "spree-monitoring.de",
     "stabley.io",
@@ -604,6 +615,7 @@
     "usemirel.com",
     "vambiant.com",
     "versipedia.de",
+    "vivi-immo.de",
     "voltexchange.de",
     "whybrilliant.com",
     "xorlab.com",
@@ -5310,7 +5322,103 @@
       "source": "Gründerszene",
       "resolved": false,
       "discovered_at": "2026-09-06T18:12:06.290211+00:00"
+    },
+    {
+      "name": "sauberdropz, Koralls, Piesel Piepser, Naturally Naughty, Ding Dong Ping Pong treten vor die Löwen",
+      "website": "https://www.deutsche-startups.de/2026/09/07/sauberdropz-koralls-piesel-piepser-naturally-naughty-ding-dong-ping-pong-treten-vor-die-loewen/",
+      "key": "https://www.deutsche-startups.de/2026/09/07/sauberdropz-koralls-piesel-piepser-naturally-naughty-ding-dong-ping-pong-treten-vor-die-loewen",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-07T19:49:18.282114+00:00"
+    },
+    {
+      "name": "Soulhouse",
+      "website": "https://soulhouse.me/",
+      "key": "soulhouse.me",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-07T19:49:18.282132+00:00"
+    },
+    {
+      "name": "FireDrone",
+      "website": "http://www.firedrone.com/",
+      "key": "firedrone.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-07T19:49:18.282139+00:00"
+    },
+    {
+      "name": "ViVi",
+      "website": "https://www.vivi-immo.de/",
+      "key": "vivi-immo.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-07T19:49:18.282145+00:00"
+    },
+    {
+      "name": "ExoSphere",
+      "website": "https://exosphere.bio/",
+      "key": "exosphere.bio",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-07T19:49:18.282151+00:00"
+    },
+    {
+      "name": "raffleboxx",
+      "website": "http://raffleboxx.com/",
+      "key": "raffleboxx.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-07T19:49:18.282156+00:00"
+    },
+    {
+      "name": "AesthOS",
+      "website": "http://aesthos.de/",
+      "key": "aesthos.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-07T19:49:18.282161+00:00"
+    },
+    {
+      "name": "+++ Isar Aerospace +++ Lumina +++ Kale&Me +++ Summersaver +++ DHDL +++ IQT +++",
+      "website": "https://www.deutsche-startups.de/2026/09/07/isar-aerospace-lumina-kaleme-summersaver-dhdl-iqt/",
+      "key": "https://www.deutsche-startups.de/2026/09/07/isar-aerospace-lumina-kaleme-summersaver-dhdl-iqt",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-07T19:49:18.282166+00:00"
+    },
+    {
+      "name": "„Der erste Kontakt entstand über gemeinsame Freunde“",
+      "website": "https://www.deutsche-startups.de/2026/09/07/der-erste-kontakt-entstand-ueber-gemeinsame-freunde/",
+      "key": "https://www.deutsche-startups.de/2026/09/07/der-erste-kontakt-entstand-ueber-gemeinsame-freunde",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-07T19:49:18.282172+00:00"
+    },
+    {
+      "name": "Deutschlands Wirtschaft unter Druck: Produktion und Dienstleistungen schwächeln, Mittelstand denkt über Verlagerungen nach",
+      "website": "https://www.startbase.com/reports/deutschlands-wirtschaft-unter-druck-produktion-und-dienstleistungen-schwaecheln-mittelstand-denkt-ueber-verlagerungen-nach/",
+      "key": "https://www.startbase.com/reports/deutschlands-wirtschaft-unter-druck-produktion-und-dienstleistungen-schwaecheln-mittelstand-denkt-ueber-verlagerungen-nach",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-07T19:49:18.282177+00:00"
+    },
+    {
+      "name": "Isar Aerospace erreicht beim zweiten Flug den Orbit und setzt Satelliten aus",
+      "website": "https://www.startbase.com/news/isar-aerospace-erreicht-beim-zweiten-flug-den-orbit-und-setzt-satelliten-aus/",
+      "key": "https://www.startbase.com/news/isar-aerospace-erreicht-beim-zweiten-flug-den-orbit-und-setzt-satelliten-aus",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-07T19:49:18.282181+00:00"
+    },
+    {
+      "name": "Nach Motatos-Rückzug: afreshed startet Retterbox in Deutschland und Österreich",
+      "website": "https://www.startbase.com/news/nach-motatos-rueckzug-afreshed-startet-retterbox-in-deutschland-und-oesterreich/",
+      "key": "https://www.startbase.com/news/nach-motatos-rueckzug-afreshed-startet-retterbox-in-deutschland-und-oesterreich",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-07T19:49:18.282186+00:00"
     }
   ],
-  "last_run": "2026-09-06T18:12:06.290345+00:00"
+  "last_run": "2026-09-07T19:49:18.282299+00:00"
 }
