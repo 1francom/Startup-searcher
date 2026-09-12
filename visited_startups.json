@@ -226,6 +226,7 @@
     "https://www.businessinsider.de/gruenderszene/peec-ai-ceo-naechstes-jahr-sind-wir-unicorn-so-gelang-der-turbo-erfolg",
     "https://www.businessinsider.de/gruenderszene/peec-ai-naechstes-jahr-sind-wir-unicorn-ceo-ueber-turbo-erfolg",
     "https://www.businessinsider.de/gruenderszene/peec-ai-naechstes-jahr-sind-wir-unicorn-marius-meiners-ueber-turbo-wachstum",
+    "https://www.businessinsider.de/gruenderszene/perspektive/ganz-deutschland-lachte-ueber-soeders-weltraumplaene-jetzt-lacht-bayern",
     "https://www.businessinsider.de/gruenderszene/perspektive/soeders-raumfahrt-groessenwahn-ups-er-hatte-recht",
     "https://www.businessinsider.de/gruenderszene/ploetzlich-kosten-in-milliardenhoehe-systemfehler-schockt-unternehmer",
     "https://www.businessinsider.de/gruenderszene/rente-in-startups-investieren-der-neue-plan-der-bundesregierung",
@@ -428,9 +429,11 @@
     "https://www.deutsche-startups.de/2026/09/10/was-gruenderinnen-in-sachen-fuehrung-von-hunden-lernen-koennen",
     "https://www.deutsche-startups.de/2026/09/11/arr-hype-flip-k-beauty-yepoda-deutscher-business-angels-tag-moin-group",
     "https://www.deutsche-startups.de/2026/09/11/europa-foerdert-aber-es-baut-keine-unternehmen",
+    "https://www.deutsche-startups.de/2026/09/12/ochenrueckblick-37-2026",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
+    "https://www.startbase.com/interviews/wie-martina-klement-brandenburg-zum-gewinner-des-technologischen-wandels-machen-will",
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
     "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor",
     "https://www.startbase.com/meinung/gross-groesser-gelogen",
@@ -5913,7 +5916,31 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-09-11T19:06:25.257883+00:00"
+    },
+    {
+      "name": "jetzt lacht Bayern",
+      "website": "https://www.businessinsider.de/gruenderszene/perspektive/ganz-deutschland-lachte-ueber-soeders-weltraumplaene-jetzt-lacht-bayern/",
+      "key": "https://www.businessinsider.de/gruenderszene/perspektive/ganz-deutschland-lachte-ueber-soeders-weltraumplaene-jetzt-lacht-bayern",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-12T18:17:01.730466+00:00"
+    },
+    {
+      "name": "+++ The Exploration Company +++ Limetax +++ Soulhouse +++ Ground A +++ Hyrox  +++ Tappz +++",
+      "website": "https://www.deutsche-startups.de/2026/09/12/ochenrueckblick-37-2026/",
+      "key": "https://www.deutsche-startups.de/2026/09/12/ochenrueckblick-37-2026",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-12T18:17:01.730488+00:00"
+    },
+    {
+      "name": "Wie Martina Klement Brandenburg zum Gewinner des technologischen Wandels machen will",
+      "website": "https://www.startbase.com/interviews/wie-martina-klement-brandenburg-zum-gewinner-des-technologischen-wandels-machen-will/",
+      "key": "https://www.startbase.com/interviews/wie-martina-klement-brandenburg-zum-gewinner-des-technologischen-wandels-machen-will",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-12T18:17:01.730496+00:00"
     }
   ],
-  "last_run": "2026-09-11T19:06:25.258030+00:00"
+  "last_run": "2026-09-12T18:17:01.730598+00:00"
 }
