@@ -26,6 +26,7 @@
     "blackdocs.de",
     "blocktracts.de",
     "bodywision.com",
+    "brutkasten.com",
     "caery.care",
     "careconnect-os.com",
     "celsiotech.de",
@@ -109,10 +110,12 @@
     "https://www.businessinsider.de/gruenderszene/deutschlands-mega-unicorn-quantum-systems-sammelt-12-milliarden-ein",
     "https://www.businessinsider.de/gruenderszene/dhdl-gruender-von-piesel-piepser-geben-jetzt-unternehmen-an-sohn-ab",
     "https://www.businessinsider.de/gruenderszene/dhdl-gruender-von-piesel-piepser-geben-unternehmen-an-sohn-ab",
+    "https://www.businessinsider.de/gruenderszene/dhdl-loewen-kaempfen-um-thermobecher-mit-james-bond-mechanik",
     "https://www.businessinsider.de/gruenderszene/dhdl-nach-pitch-erfolg-macht-cupped-gruenderin-einen-rueckzieher",
     "https://www.businessinsider.de/gruenderszene/dhdl-nach-traum-pitch-macht-die-bh-gruenderin-einen-rueckzieher-vom-deal",
     "https://www.businessinsider.de/gruenderszene/dhdl-piesel-piepser-ehepaar-ueberzeugt-2-loewen-am-ende-kommt-alles-anders",
     "https://www.businessinsider.de/gruenderszene/dhdl-piesel-piepser-ehepaar-ueberzeugt-2-loewen-dann-kommt-alles-anders",
+    "https://www.businessinsider.de/gruenderszene/dhdl-traum-pitch-bh-gruenderin-macht-einen-rueckzieher-vom-deal",
     "https://www.businessinsider.de/gruenderszene/dhdl-williams-und-herb-wollten-hier-investieren-daraus-wurde-bislang-nichts",
     "https://www.businessinsider.de/gruenderszene/dhdl-williams-und-herb-wollten-investieren-daraus-wurde-bislang-nichts",
     "https://www.businessinsider.de/gruenderszene/die-linke-koennte-berlin-regieren-gruender-macht-den-mund-auf",
@@ -190,6 +193,7 @@
     "https://www.businessinsider.de/gruenderszene/jemand-richtete-eine-schusswaffe-auf-mich-queere-gruender-ueber-hass",
     "https://www.businessinsider.de/gruenderszene/kann-das-tempo-nicht-mehr-mitgehen-ex-openai-managerin-zieht-reissleine",
     "https://www.businessinsider.de/gruenderszene/karriere-startup/nur-einer-von-300-schafft-es-so-laeuft-der-auswahlprozess-fuer-ein-praktikum-bei-cherry-ventures",
+    "https://www.businessinsider.de/gruenderszene/ki-aleph-alpha-und-cohere-besiegeln-ihren-deal-jetzt-wird-es-ernst",
     "https://www.businessinsider.de/gruenderszene/ki-schreibt-fast-den-gesamten-code-doch-der-boom-hat-seinen-preis",
     "https://www.businessinsider.de/gruenderszene/ki-startup-ist-jetzt-ein-unicorn-150-konzerne-nutzen-es-bereits",
     "https://www.businessinsider.de/gruenderszene/ki-startups-diese-7-haben-einen-ueberraschenden-investor",
@@ -202,6 +206,7 @@
     "https://www.businessinsider.de/gruenderszene/liliums-ende-hinter-den-kulissen-der-letzten-wochen-vom-flugtaxi-startup",
     "https://www.businessinsider.de/gruenderszene/liliums-teuerster-fehler-warum-wachstum-zum-problem-wurde",
     "https://www.businessinsider.de/gruenderszene/loewen-kaempfen-um-thermobecher-mit-james-bond-mechanik-am-ende-macht-andreas-herb-den-deal",
+    "https://www.businessinsider.de/gruenderszene/lovable-n8n-und-co-4-hr-trends-erfolgreicher-startups",
     "https://www.businessinsider.de/gruenderszene/maschmeyer-verraet-seine-besten-tipps-fuer-den-perfekten-pitch",
     "https://www.businessinsider.de/gruenderszene/maschmeyer-verraet-tricks-diese-2-minuten-entscheiden-ueber-euren-startup-pitch",
     "https://www.businessinsider.de/gruenderszene/maschmeyer-verraet-tricks-so-bringt-ihr-menschen-dazu-euch-zuzuhoeren",
@@ -210,6 +215,7 @@
     "https://www.businessinsider.de/gruenderszene/media/dhdl-alle-loewen-wollten-ihre-haarspange-jetzt-steht-sie-bei-dm-im-regal",
     "https://www.businessinsider.de/gruenderszene/media/johann-lafer-bei-dhdl-wunderdressing-schmeckt-bewertung-nicht",
     "https://www.businessinsider.de/gruenderszene/media/johann-lafer-bei-dhdl-wunderdressing-schmeckt-den-loewen-die-bewertung-nicht",
+    "https://www.businessinsider.de/gruenderszene/media/johann-lafer-bei-dhdl-wunderdressing-schmeckt-die-bewertung-nicht",
     "https://www.businessinsider.de/gruenderszene/meine-3-wichtigsten-sales-tipps-nach-tausenden-cold-calls",
     "https://www.businessinsider.de/gruenderszene/milliarden-business-in-der-karl-marx-stadt",
     "https://www.businessinsider.de/gruenderszene/milliarden-startup-dash0-kauft-berliner-tech-firma-das-steckt-dahinter",
@@ -465,6 +471,9 @@
     "https://www.deutsche-startups.de/2026/09/15/ivyclip-muss-es-immer-eine-beteiligung-sein",
     "https://www.deutsche-startups.de/2026/09/16/ki-frisst-nicht-nur-aufgaben-sondern-marktstrukturen",
     "https://www.deutsche-startups.de/2026/09/16/startupland-cherry-ventures-vorwerk-ventures-gtr-ai-safety-fund-ground-a",
+    "https://www.deutsche-startups.de/2026/09/17/internationalisierung-in-5-schritten-erfolgreich-ins-ausland",
+    "https://www.deutsche-startups.de/2026/09/17/was-viele-consumer-startups-ueber-den-handel-falsch-einschaetzen",
+    "https://www.deutsche-startups.de/2026/09/17/zombie-startups-limetax-roll-up-aufinity-bezahl-de-bitpanda",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
@@ -591,6 +600,7 @@
     "https://www.startbase.com/news/pharosyn-erhaelt-3-millionen-us-dollar-fuer-pharma-ki",
     "https://www.startbase.com/news/polarise-sichert-sich-fremdkapitalfinanzierung-in-hoher-zweistelliger-millionenhoehe-fuer-europaeische-ai-cloud",
     "https://www.startbase.com/news/promptwatch-sammelt-6-millionen-euro-ein-und-setzt-auf-die-zukunft-der-ki-suchoptimierung",
+    "https://www.startbase.com/news/psg-equity-schliesst-dritten-europafonds-bei-44-milliarden-euro",
     "https://www.startbase.com/news/qodia-sichert-sich-12-millionen-euro-fuer-ki-gestuetzte-privatabrechnung",
     "https://www.startbase.com/news/quantumdiamonds-erhaelt-91-millionen-euro-fuer-quantensensorik-in-der-halbleiterindustrie",
     "https://www.startbase.com/news/refined-diagnostics-sammelt-29-millionen-euro-ein-und-bereitet-markteintritt-fuer-ki-gestuetzte-krebsdiagnostik-vor",
@@ -603,6 +613,7 @@
     "https://www.startbase.com/news/sci2sci-sammelt-12-millionen-euro-fuer-vertrauenswuerdige-ki-in-der-biopharma-branche-ein",
     "https://www.startbase.com/news/science4beauty-holt-sich-16-millionen-euro",
     "https://www.startbase.com/news/shiprocket-geht-fuer-11-mrd-us-dollar-an-die-boerse-und-bertelsmann-investments-ist-voll-dabei",
+    "https://www.startbase.com/news/signteq-erhaelt-siebenstellige-finanzierung",
     "https://www.startbase.com/news/sodex-innovations-sammelt-4-millionen-euro-ein-und-digitalisiert-baustellen-mit-ki-in-echtzeit",
     "https://www.startbase.com/news/spacetech-deltavision-erhaelt-102-millionen-euro",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-28-26",
@@ -617,6 +628,7 @@
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-37-26",
     "https://www.startbase.com/news/supraleiter-startup-subra-sichert-sich-50-mio-euro-und-bayern-kapital-ist-dabei",
     "https://www.startbase.com/news/swegan-holt-sich-weitere-14-millionen-us-dollar",
+    "https://www.startbase.com/news/syte-erhaelt-neun-millionen-euro-fuer-ki-gestuetzte-immobilienanalyse",
     "https://www.startbase.com/news/tellia-erhaelt-5-millionen-us-dollar-fuer-voice-ai-in-der-landwirtschaft",
     "https://www.startbase.com/news/toysreloved-sammelt-425-000-euro-fuer-den-kreislauf-gebrauchter-spielzeuge-ein",
     "https://www.startbase.com/news/unicorn-moss-berliner-fintech-knackt-milliardenbewertung-nach-series-c",
@@ -6480,7 +6492,103 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-09-16T19:30:25.764744+00:00"
+    },
+    {
+      "name": "erfolgreichen Startups gerade durch",
+      "website": "https://www.businessinsider.de/gruenderszene/lovable-n8n-und-co-4-hr-trends-erfolgreicher-startups/",
+      "key": "https://www.businessinsider.de/gruenderszene/lovable-n8n-und-co-4-hr-trends-erfolgreicher-startups",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-17T19:40:37.643179+00:00"
+    },
+    {
+      "name": "Neue Führung, neues Headquarter: Aleph Alpha und Cohere unterzeichnen KI-Deal",
+      "website": "https://www.businessinsider.de/gruenderszene/ki-aleph-alpha-und-cohere-besiegeln-ihren-deal-jetzt-wird-es-ernst/",
+      "key": "https://www.businessinsider.de/gruenderszene/ki-aleph-alpha-und-cohere-besiegeln-ihren-deal-jetzt-wird-es-ernst",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-17T19:40:37.643201+00:00"
+    },
+    {
+      "name": "am Ende macht Andreas Herb den Deal",
+      "website": "https://www.businessinsider.de/gruenderszene/dhdl-loewen-kaempfen-um-thermobecher-mit-james-bond-mechanik/",
+      "key": "https://www.businessinsider.de/gruenderszene/dhdl-loewen-kaempfen-um-thermobecher-mit-james-bond-mechanik",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-17T19:40:37.643207+00:00"
+    },
+    {
+      "name": "DHDL: Wunderdressing schmeckt, Bewertung nicht",
+      "website": "https://www.businessinsider.de/gruenderszene/media/johann-lafer-bei-dhdl-wunderdressing-schmeckt-die-bewertung-nicht/",
+      "key": "https://www.businessinsider.de/gruenderszene/media/johann-lafer-bei-dhdl-wunderdressing-schmeckt-die-bewertung-nicht",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-17T19:40:37.643212+00:00"
+    },
+    {
+      "name": "DHDL macht BH-Gründerin Rückzieher vom Deal",
+      "website": "https://www.businessinsider.de/gruenderszene/dhdl-traum-pitch-bh-gruenderin-macht-einen-rueckzieher-vom-deal/",
+      "key": "https://www.businessinsider.de/gruenderszene/dhdl-traum-pitch-bh-gruenderin-macht-einen-rueckzieher-vom-deal",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-17T19:40:37.643217+00:00"
+    },
+    {
+      "name": "Ferm Labs erhält 3 Millionen",
+      "website": "https://brutkasten.com/artikel/millioneninvestment-peter-steinberger-runtastic-co-founder-u-a-steigen-bei-signteq-aus-wien-ein",
+      "key": "brutkasten.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-17T19:40:37.643221+00:00"
+    },
+    {
+      "name": "Internationalisierung: In 5 Schritten erfolgreich ins Ausland",
+      "website": "https://www.deutsche-startups.de/2026/09/17/internationalisierung-in-5-schritten-erfolgreich-ins-ausland/",
+      "key": "https://www.deutsche-startups.de/2026/09/17/internationalisierung-in-5-schritten-erfolgreich-ins-ausland",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-17T19:40:37.643226+00:00"
+    },
+    {
+      "name": "+++ Zombie-Startups +++ Limetax +++ Roll-up +++ Aufinity +++ bezahl.de +++ Bitpanda +++",
+      "website": "https://www.deutsche-startups.de/2026/09/17/zombie-startups-limetax-roll-up-aufinity-bezahl-de-bitpanda/",
+      "key": "https://www.deutsche-startups.de/2026/09/17/zombie-startups-limetax-roll-up-aufinity-bezahl-de-bitpanda",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-17T19:40:37.643231+00:00"
+    },
+    {
+      "name": "Was viele Consumer-Startups über den Handel falsch einschätzen",
+      "website": "https://www.deutsche-startups.de/2026/09/17/was-viele-consumer-startups-ueber-den-handel-falsch-einschaetzen/",
+      "key": "https://www.deutsche-startups.de/2026/09/17/was-viele-consumer-startups-ueber-den-handel-falsch-einschaetzen",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-17T19:40:37.643235+00:00"
+    },
+    {
+      "name": "syte erhält neun Millionen Euro für KI-gestützte Immobilienanalyse",
+      "website": "https://www.startbase.com/news/syte-erhaelt-neun-millionen-euro-fuer-ki-gestuetzte-immobilienanalyse/",
+      "key": "https://www.startbase.com/news/syte-erhaelt-neun-millionen-euro-fuer-ki-gestuetzte-immobilienanalyse",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-17T19:40:37.643239+00:00"
+    },
+    {
+      "name": "4,4 Milliarden Euro",
+      "website": "https://www.startbase.com/news/psg-equity-schliesst-dritten-europafonds-bei-44-milliarden-euro/",
+      "key": "https://www.startbase.com/news/psg-equity-schliesst-dritten-europafonds-bei-44-milliarden-euro",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-17T19:40:37.643243+00:00"
+    },
+    {
+      "name": "signteq erhält siebenstellige Finanzierung",
+      "website": "https://www.startbase.com/news/signteq-erhaelt-siebenstellige-finanzierung/",
+      "key": "https://www.startbase.com/news/signteq-erhaelt-siebenstellige-finanzierung",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-17T19:40:37.643247+00:00"
     }
   ],
-  "last_run": "2026-09-16T19:30:25.764861+00:00"
+  "last_run": "2026-09-17T19:40:37.643374+00:00"
 }
