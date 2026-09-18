@@ -474,6 +474,8 @@
     "https://www.deutsche-startups.de/2026/09/17/internationalisierung-in-5-schritten-erfolgreich-ins-ausland",
     "https://www.deutsche-startups.de/2026/09/17/was-viele-consumer-startups-ueber-den-handel-falsch-einschaetzen",
     "https://www.deutsche-startups.de/2026/09/17/zombie-startups-limetax-roll-up-aufinity-bezahl-de-bitpanda",
+    "https://www.deutsche-startups.de/2026/09/18/langdock-furo-startup-city-hamburg-redalpine-aleph-alpha-cohere",
+    "https://www.deutsche-startups.de/2026/09/18/ohne-saubere-daten-wird-ki-zum-risiko-fuer-startups",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
@@ -626,6 +628,7 @@
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-35-26",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-36-26",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-37-26",
+    "https://www.startbase.com/news/startupnews-zum-wochenende-kw-38-26",
     "https://www.startbase.com/news/supraleiter-startup-subra-sichert-sich-50-mio-euro-und-bayern-kapital-ist-dabei",
     "https://www.startbase.com/news/swegan-holt-sich-weitere-14-millionen-us-dollar",
     "https://www.startbase.com/news/syte-erhaelt-neun-millionen-euro-fuer-ki-gestuetzte-immobilienanalyse",
@@ -6588,7 +6591,31 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-09-17T19:40:37.643247+00:00"
+    },
+    {
+      "name": "+++ Langdock +++ Furo +++ Startup City Hamburg +++ Redalpine +++ Aleph Alpha +++ Cohere +++",
+      "website": "https://www.deutsche-startups.de/2026/09/18/langdock-furo-startup-city-hamburg-redalpine-aleph-alpha-cohere/",
+      "key": "https://www.deutsche-startups.de/2026/09/18/langdock-furo-startup-city-hamburg-redalpine-aleph-alpha-cohere",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-18T18:59:05.899828+00:00"
+    },
+    {
+      "name": "Ohne saubere Daten wird KI zum Risiko",
+      "website": "https://www.deutsche-startups.de/2026/09/18/ohne-saubere-daten-wird-ki-zum-risiko-fuer-startups/",
+      "key": "https://www.deutsche-startups.de/2026/09/18/ohne-saubere-daten-wird-ki-zum-risiko-fuer-startups",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-18T18:59:05.899855+00:00"
+    },
+    {
+      "name": "Startupnews zum Wochenende KW 38/26",
+      "website": "https://www.startbase.com/news/startupnews-zum-wochenende-kw-38-26/",
+      "key": "https://www.startbase.com/news/startupnews-zum-wochenende-kw-38-26",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-18T18:59:05.899866+00:00"
     }
   ],
-  "last_run": "2026-09-17T19:40:37.643374+00:00"
+  "last_run": "2026-09-18T18:59:05.900024+00:00"
 }
