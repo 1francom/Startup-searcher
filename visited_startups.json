@@ -83,6 +83,7 @@
     "https://www.businessinsider.de/gruenderszene/amazon-gruender-jeff-bezos-investiert-in-diese-fuenf-ki-startups",
     "https://www.businessinsider.de/gruenderszene/aws-panne-und-ploetzlich-muesst-ihr-239-milliarden-dollar-bezahlen",
     "https://www.businessinsider.de/gruenderszene/berliner-unicorn-deutsches-fintech-moss-knackt-die-milliarden-bewertung",
+    "https://www.businessinsider.de/gruenderszene/berlins-gruender-fuerchten-die-linke-aber-trauen-sich-nicht-es-zu-sagen",
     "https://www.businessinsider.de/gruenderszene/brauchen-gruender-dank-ki-ueberhaupt-noch-investoren",
     "https://www.businessinsider.de/gruenderszene/bundesregierung-investiert-erstmals-direkt-in-ruestungs-startups",
     "https://www.businessinsider.de/gruenderszene/business/bester-ki-deal-des-jahres-20-millionen-werden-zu-15-milliarden",
@@ -212,10 +213,12 @@
     "https://www.businessinsider.de/gruenderszene/maschmeyer-verraet-tricks-so-bringt-ihr-menschen-dazu-euch-zuzuhoeren",
     "https://www.businessinsider.de/gruenderszene/master-abgebrochen-startup-verkauft-jetzt-baue-ich-etwas-ganz-anderes-auf",
     "https://www.businessinsider.de/gruenderszene/media/alle-dhdl-loewen-wollten-ihre-haarspange-jetzt-steht-sie-bei-dm",
+    "https://www.businessinsider.de/gruenderszene/media/alle-wollten-diese-haarspange-jetzt-steht-sie-bei-dm-im-regal",
     "https://www.businessinsider.de/gruenderszene/media/dhdl-alle-loewen-wollten-ihre-haarspange-jetzt-steht-sie-bei-dm-im-regal",
     "https://www.businessinsider.de/gruenderszene/media/johann-lafer-bei-dhdl-wunderdressing-schmeckt-bewertung-nicht",
     "https://www.businessinsider.de/gruenderszene/media/johann-lafer-bei-dhdl-wunderdressing-schmeckt-den-loewen-die-bewertung-nicht",
     "https://www.businessinsider.de/gruenderszene/media/johann-lafer-bei-dhdl-wunderdressing-schmeckt-die-bewertung-nicht",
+    "https://www.businessinsider.de/gruenderszene/media/johann-lafer-wunderdressing-ist-eine-geschmacksexplosion-im-glas",
     "https://www.businessinsider.de/gruenderszene/meine-3-wichtigsten-sales-tipps-nach-tausenden-cold-calls",
     "https://www.businessinsider.de/gruenderszene/milliarden-business-in-der-karl-marx-stadt",
     "https://www.businessinsider.de/gruenderszene/milliarden-startup-dash0-kauft-berliner-tech-firma-das-steckt-dahinter",
@@ -256,6 +259,7 @@
     "https://www.businessinsider.de/gruenderszene/peec-ai-ceo-naechstes-jahr-sind-wir-unicorn-so-gelang-der-turbo-erfolg",
     "https://www.businessinsider.de/gruenderszene/peec-ai-naechstes-jahr-sind-wir-unicorn-ceo-ueber-turbo-erfolg",
     "https://www.businessinsider.de/gruenderszene/peec-ai-naechstes-jahr-sind-wir-unicorn-marius-meiners-ueber-turbo-wachstum",
+    "https://www.businessinsider.de/gruenderszene/perspektive/deutschland-lachte-ueber-soeders-weltraumplaene-jetzt-dreht-sich-der-spiess",
     "https://www.businessinsider.de/gruenderszene/perspektive/ganz-deutschland-lachte-ueber-soeders-weltraumplaene-jetzt-dreht-sich-der-spiess",
     "https://www.businessinsider.de/gruenderszene/perspektive/ganz-deutschland-lachte-ueber-soeders-weltraumplaene-jetzt-lacht-bayern",
     "https://www.businessinsider.de/gruenderszene/perspektive/soeders-raumfahrt-groessenwahn-ups-er-hatte-recht",
@@ -654,6 +658,7 @@
     "https://www.startbase.com/portraits/10-jahre-q-summit-was-passiert-wenn-studierende-ihre-eigene-startup-konferenz-gruenden",
     "https://www.startbase.com/portraits/from-classroom-to-cap-table-howinnovis-vc-is-shaping-munichs-nextgeneration-of-venture-capital",
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
+    "https://www.startbase.com/portraits/nicht-nur-studieren-machen-warumgestalten-studierende-ueberhauptgruendungsinitiativen",
     "https://www.startbase.com/portraits/politik-trifft-studentische-gruendungsinitiativen-wie-staerkt-bayern-die-naechste-gruendergeneration",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
     "https://www.startbase.com/portraits/von-einer-halben-stunde-mittagspause-zur-dritten-eigenen-produktionskueche",
@@ -6615,7 +6620,47 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-09-18T18:59:05.899866+00:00"
+    },
+    {
+      "name": "jetzt lacht Bayern",
+      "website": "https://www.businessinsider.de/gruenderszene/perspektive/deutschland-lachte-ueber-soeders-weltraumplaene-jetzt-dreht-sich-der-spiess/",
+      "key": "https://www.businessinsider.de/gruenderszene/perspektive/deutschland-lachte-ueber-soeders-weltraumplaene-jetzt-dreht-sich-der-spiess",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-20T18:40:03.126935+00:00"
+    },
+    {
+      "name": "DM",
+      "website": "https://www.businessinsider.de/gruenderszene/media/alle-wollten-diese-haarspange-jetzt-steht-sie-bei-dm-im-regal/",
+      "key": "https://www.businessinsider.de/gruenderszene/media/alle-wollten-diese-haarspange-jetzt-steht-sie-bei-dm-im-regal",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-20T18:40:03.126954+00:00"
+    },
+    {
+      "name": "aber trauen sich nicht, es zu sagen",
+      "website": "https://www.businessinsider.de/gruenderszene/berlins-gruender-fuerchten-die-linke-aber-trauen-sich-nicht-es-zu-sagen/",
+      "key": "https://www.businessinsider.de/gruenderszene/berlins-gruender-fuerchten-die-linke-aber-trauen-sich-nicht-es-zu-sagen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-20T18:40:03.126961+00:00"
+    },
+    {
+      "name": "DHDL: Wunderdressing schmeckt, Bewertung nicht",
+      "website": "https://www.businessinsider.de/gruenderszene/media/johann-lafer-wunderdressing-ist-eine-geschmacksexplosion-im-glas/",
+      "key": "https://www.businessinsider.de/gruenderszene/media/johann-lafer-wunderdressing-ist-eine-geschmacksexplosion-im-glas",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-20T18:40:03.126966+00:00"
+    },
+    {
+      "name": "Nicht nur studieren. Machen. Warumgestalten Studierende überhauptGründungsinitiativen?",
+      "website": "https://www.startbase.com/portraits/nicht-nur-studieren-machen-warumgestalten-studierende-ueberhauptgruendungsinitiativen/",
+      "key": "https://www.startbase.com/portraits/nicht-nur-studieren-machen-warumgestalten-studierende-ueberhauptgruendungsinitiativen",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-20T18:40:03.126971+00:00"
     }
   ],
-  "last_run": "2026-09-19T18:32:47.776463+00:00"
+  "last_run": "2026-09-20T18:40:03.127092+00:00"
 }
