@@ -15,6 +15,9 @@
     "ampway.de",
     "anoritech.com",
     "anotherearth.ai",
+    "app.lernedeutsch.online",
+    "aqls.eu",
+    "arcos.eu",
     "assetpatrol.de",
     "atira.ai",
     "atlea.com",
@@ -54,6 +57,7 @@
     "fryte.eu",
     "furoenergy.com",
     "fyrcecare.com",
+    "gastroflex.net",
     "generative-robotics.de",
     "getflip.com",
     "goneon.city",
@@ -480,6 +484,10 @@
     "https://www.deutsche-startups.de/2026/09/17/zombie-startups-limetax-roll-up-aufinity-bezahl-de-bitpanda",
     "https://www.deutsche-startups.de/2026/09/18/langdock-furo-startup-city-hamburg-redalpine-aleph-alpha-cohere",
     "https://www.deutsche-startups.de/2026/09/18/ohne-saubere-daten-wird-ki-zum-risiko-fuer-startups",
+    "https://www.deutsche-startups.de/2026/09/19/nomos-integral-aeon-aware-syte-north-data-gostudent-dogsn-tiger",
+    "https://www.deutsche-startups.de/2026/09/21/dekadome-poppys-eis-penice-compactgreens-monobag-clearbee-treten-vor-die-loewen",
+    "https://www.deutsche-startups.de/2026/09/21/mindocu-healthtech-vornvc-naturtreu-howie-ki-risiko",
+    "https://www.deutsche-startups.de/2026/09/21/wir-haben-unsere-entscheidungen-nie-von-trends-abhaengig-gemacht",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
@@ -553,6 +561,7 @@
     "https://www.startbase.com/news/goe-future-startup-factory-startet-in-goettingen",
     "https://www.startbase.com/news/gravis-robotics-sammelt-200-millionen-us-dollar-ein-und-will-baumaschinen-autonom-machen",
     "https://www.startbase.com/news/ground-a-sammelt-91-millionen-euro-fuer-laserbasierte-drohnenabwehr-ein",
+    "https://www.startbase.com/news/gruenderwasen-2026-bringt-baden-wuerttembergs-startup-szene-ins-festzelt",
     "https://www.startbase.com/news/guideless-erhaelt-eine-million-euro-fuer-ki-gestuetzte-softwaretrainings",
     "https://www.startbase.com/news/happyrobot-wird-unicorn-mit-deutscher-beteiligung-und-holt-sich-150-mio-usd",
     "https://www.startbase.com/news/heartbeat-bio-und-cubase-bio-erhalten-eine-million-euro-fuer-3d-analyse-von-herzerkrankungen",
@@ -565,6 +574,7 @@
     "https://www.startbase.com/news/humanoid-sammelt-152-millionen-us-dollar-ein-und-erreicht-unicorn-bewertung",
     "https://www.startbase.com/news/hyimpulse-sichert-sich-ueber-50-millionen-euro-fuer-europaeische-raketenstarts",
     "https://www.startbase.com/news/index-ventures-sammelt-35-milliarden-us-dollar-fuer-neue-seed-venture-und-growth-fonds-ein",
+    "https://www.startbase.com/news/industrie-mit-rekord-auftragsbestand-doch-autoexporte-und-steigende-kosten-zeigen-die-schwachstellen",
     "https://www.startbase.com/news/inleap-photonics-sichert-sich-20-millionen-euro-fuer-laserbasierte-drohnenabwehr",
     "https://www.startbase.com/news/integral-erhaelt-18-millionen-euro-in-series-a",
     "https://www.startbase.com/news/intrepid-growth-partners-startet-mit-525-millionen-dollar-fonds-fuer-ki-unternehmen",
@@ -678,6 +688,7 @@
     "klao.eu",
     "klared.com",
     "knowlix.ai",
+    "lamarecycling.com",
     "lernly.at",
     "lexgraph.de",
     "limetax.de",
@@ -687,6 +698,7 @@
     "matchimize.de",
     "medi-claim.de",
     "mevio.io",
+    "minimomente.app",
     "mkind.ai",
     "moingroup.de",
     "n9r.ai",
@@ -6660,7 +6672,103 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-09-20T18:40:03.126971+00:00"
+    },
+    {
+      "name": "Dekadome, Poppy`s Eis, Penice, CompactGreens, monobag, clearBee treten vor die Löwen",
+      "website": "https://www.deutsche-startups.de/2026/09/21/dekadome-poppys-eis-penice-compactgreens-monobag-clearbee-treten-vor-die-loewen/",
+      "key": "https://www.deutsche-startups.de/2026/09/21/dekadome-poppys-eis-penice-compactgreens-monobag-clearbee-treten-vor-die-loewen",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-21T20:22:48.352005+00:00"
+    },
+    {
+      "name": "Arcos",
+      "website": "https://arcos.eu/de",
+      "key": "arcos.eu",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-21T20:22:48.352028+00:00"
+    },
+    {
+      "name": "LaMa Recycling",
+      "website": "http://www.lamarecycling.com/",
+      "key": "lamarecycling.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-21T20:22:48.352035+00:00"
+    },
+    {
+      "name": "EVOVO",
+      "website": "https://app.lernedeutsch.online/",
+      "key": "app.lernedeutsch.online",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-21T20:22:48.352041+00:00"
+    },
+    {
+      "name": "Gastroflex",
+      "website": "https://www.gastroflex.net/",
+      "key": "gastroflex.net",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-21T20:22:48.352047+00:00"
+    },
+    {
+      "name": "Minimomente",
+      "website": "https://minimomente.app/",
+      "key": "minimomente.app",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-21T20:22:48.352052+00:00"
+    },
+    {
+      "name": "AQLS",
+      "website": "https://aqls.eu/",
+      "key": "aqls.eu",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-21T20:22:48.352058+00:00"
+    },
+    {
+      "name": "+++ mindocu +++ HealthTech +++ VORNvc +++ Naturtreu +++ Howie +++ KI +++ Risiko +++",
+      "website": "https://www.deutsche-startups.de/2026/09/21/mindocu-healthtech-vornvc-naturtreu-howie-ki-risiko/",
+      "key": "https://www.deutsche-startups.de/2026/09/21/mindocu-healthtech-vornvc-naturtreu-howie-ki-risiko",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-21T20:22:48.352063+00:00"
+    },
+    {
+      "name": "„Wir haben unsere Entscheidungen nie von Trends abhängig gemacht“",
+      "website": "https://www.deutsche-startups.de/2026/09/21/wir-haben-unsere-entscheidungen-nie-von-trends-abhaengig-gemacht/",
+      "key": "https://www.deutsche-startups.de/2026/09/21/wir-haben-unsere-entscheidungen-nie-von-trends-abhaengig-gemacht",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-21T20:22:48.352068+00:00"
+    },
+    {
+      "name": "+++ Nomos +++ Integral +++ Aeon +++ Aware +++ syte +++ North Data +++ GoStudent +++ Dogs’n Tiger +++",
+      "website": "https://www.deutsche-startups.de/2026/09/19/nomos-integral-aeon-aware-syte-north-data-gostudent-dogsn-tiger/",
+      "key": "https://www.deutsche-startups.de/2026/09/19/nomos-integral-aeon-aware-syte-north-data-gostudent-dogsn-tiger",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-21T20:22:48.352073+00:00"
+    },
+    {
+      "name": "Industrie mit Rekord-Auftragsbestand, doch Autoexporte und steigende Kosten zeigen die Schwachstellen",
+      "website": "https://www.startbase.com/news/industrie-mit-rekord-auftragsbestand-doch-autoexporte-und-steigende-kosten-zeigen-die-schwachstellen/",
+      "key": "https://www.startbase.com/news/industrie-mit-rekord-auftragsbestand-doch-autoexporte-und-steigende-kosten-zeigen-die-schwachstellen",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-21T20:22:48.352078+00:00"
+    },
+    {
+      "name": "Gründerwasen 2026 bringt Baden-Württembergs Startup-Szene ins Festzelt",
+      "website": "https://www.startbase.com/news/gruenderwasen-2026-bringt-baden-wuerttembergs-startup-szene-ins-festzelt/",
+      "key": "https://www.startbase.com/news/gruenderwasen-2026-bringt-baden-wuerttembergs-startup-szene-ins-festzelt",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-21T20:22:48.352082+00:00"
     }
   ],
-  "last_run": "2026-09-20T18:40:03.127092+00:00"
+  "last_run": "2026-09-21T20:22:48.352206+00:00"
 }
