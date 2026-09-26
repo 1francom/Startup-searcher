@@ -516,6 +516,7 @@
     "https://www.deutsche-startups.de/2026/09/24/dtcp-defensetech-cherry-ventures-eciif-xange-ma-playbook-noxtua",
     "https://www.deutsche-startups.de/2026/09/25/1komma5-isar-aerospace-bavaria-instruments-choco-orbit-metycle",
     "https://www.deutsche-startups.de/2026/09/25/nicht-jede-gute-idee-ist-ein-gutes-unternehmen",
+    "https://www.deutsche-startups.de/2026/09/26/wochenrueckblick-39-2026",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
@@ -589,6 +590,7 @@
     "https://www.startbase.com/news/fortino-capital-investiert-in-operations1",
     "https://www.startbase.com/news/fresenius-startet-venture-fonds-mit-mindestens-200-millionen-euro-fuer-gesundheits-startups",
     "https://www.startbase.com/news/fryte-mobility-erhaelt-35-millionen-euro-fuer-e-lkw-ladeplattform",
+    "https://www.startbase.com/news/fusion-2026-brandenburg-will-forschung-kapital-und-unternehmertum-endlich-zusammenbringen",
     "https://www.startbase.com/news/fusionality-erhaelt-3-millionen-franken-fuer-fusionstechnologie",
     "https://www.startbase.com/news/gemeinsam-europas-naechste-gruendergeneration-staerken",
     "https://www.startbase.com/news/goe-future-startup-factory-startet-in-goettingen",
@@ -7182,7 +7184,23 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-09-25T19:57:29.650051+00:00"
+    },
+    {
+      "name": "+++ Metycle +++ Noxtua +++ Mika +++ Arcos +++ Eterno +++ Doc Cirrus +++ fobizz +++ talpasolutions +++",
+      "website": "https://www.deutsche-startups.de/2026/09/26/wochenrueckblick-39-2026/",
+      "key": "https://www.deutsche-startups.de/2026/09/26/wochenrueckblick-39-2026",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-26T19:10:03.316533+00:00"
+    },
+    {
+      "name": "FUSION 2026: Brandenburg will Forschung, Kapital und Unternehmertum endlich zusammenbringen",
+      "website": "https://www.startbase.com/news/fusion-2026-brandenburg-will-forschung-kapital-und-unternehmertum-endlich-zusammenbringen/",
+      "key": "https://www.startbase.com/news/fusion-2026-brandenburg-will-forschung-kapital-und-unternehmertum-endlich-zusammenbringen",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-26T19:10:03.316562+00:00"
     }
   ],
-  "last_run": "2026-09-25T19:57:29.650154+00:00"
+  "last_run": "2026-09-26T19:10:03.316777+00:00"
 }
