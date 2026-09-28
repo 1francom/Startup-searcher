@@ -56,6 +56,7 @@
     "exclaimrobotics.com",
     "exosphere.bio",
     "exploration.space",
+    "faceledger.ai",
     "familystories.love",
     "fieldbrain.io",
     "firedrone.com",
@@ -88,6 +89,7 @@
     "https://www.businessinsider.de/gruenderszene/30-000e-fuer-tag-beim-notar-deutschland-mache-sich-zur-lachnummer",
     "https://www.businessinsider.de/gruenderszene/30-000e-fuer-tag-beim-notar-so-machte-sich-deutschland-zur-lachnummer",
     "https://www.businessinsider.de/gruenderszene/40-000-euro-fuer-einen-techno-truck-und-besuch-vom-lka-so-erlebten-die-royal-gs-hosts-rave-the-planet",
+    "https://www.businessinsider.de/gruenderszene/500-000-euro-fuer-blookery-warum-der-dhdl-deal-mit-johannes-kliesch-nach-der-show-platzte",
     "https://www.businessinsider.de/gruenderszene/abends-am-gips-warum-feiern-berliner-vc-investoren-diese-unscheinbare-kreuzung",
     "https://www.businessinsider.de/gruenderszene/aktien-hometogo-um-fast-90-gefallen-darum-bleibt-der-ceo-optimistisch",
     "https://www.businessinsider.de/gruenderszene/amazon-gruender-jeff-bezos-investiert-in-diese-fuenf-ki-startups",
@@ -107,6 +109,7 @@
     "https://www.businessinsider.de/gruenderszene/business/will-google-dieses-startup-fuer-15-milliarden-dollar-kaufen",
     "https://www.businessinsider.de/gruenderszene/caro-daur-investiert-in-dieses-deutsche-getraenke-startup",
     "https://www.businessinsider.de/gruenderszene/cohere-deal-mit-aleph-alpha-neue-fuehrung-neues-headquarter",
+    "https://www.businessinsider.de/gruenderszene/cyber-innovation-hub-so-pitcht-ihr-euer-startup-bei-der-bundeswehr",
     "https://www.businessinsider.de/gruenderszene/das-fordert-berlins-startup-szene-vom-naechsten-buergermeister",
     "https://www.businessinsider.de/gruenderszene/das-gipsdreieck-das-inoffizielle-wohnzimmer-der-berliner-startup-szene",
     "https://www.businessinsider.de/gruenderszene/dating-app-fuer-highperformer-bei-alea-muesst-ihr-euch-mit-linkedin-bewerben",
@@ -127,6 +130,7 @@
     "https://www.businessinsider.de/gruenderszene/dhdl-nach-traum-pitch-macht-die-bh-gruenderin-einen-rueckzieher-vom-deal",
     "https://www.businessinsider.de/gruenderszene/dhdl-piesel-piepser-ehepaar-ueberzeugt-2-loewen-am-ende-kommt-alles-anders",
     "https://www.businessinsider.de/gruenderszene/dhdl-piesel-piepser-ehepaar-ueberzeugt-2-loewen-dann-kommt-alles-anders",
+    "https://www.businessinsider.de/gruenderszene/dhdl-schaumpo-gruender-reagiert-auf-loewen-kritik",
     "https://www.businessinsider.de/gruenderszene/dhdl-sie-kam-mit-eis-jetzt-verkauft-die-gruenderin-fruchtpulver",
     "https://www.businessinsider.de/gruenderszene/dhdl-sie-kam-mit-eis-jetzt-verkauft-die-poppys-gruenderin-fruchtpulver",
     "https://www.businessinsider.de/gruenderszene/dhdl-traum-pitch-bh-gruenderin-macht-einen-rueckzieher-vom-deal",
@@ -208,7 +212,9 @@
     "https://www.businessinsider.de/gruenderszene/jared-leto-plante-75-millionen-dollar-fonds-vor-den-juengsten-vorwuerfen",
     "https://www.businessinsider.de/gruenderszene/jemand-richtete-eine-schusswaffe-auf-mich-queere-gruender-ueber-hass",
     "https://www.businessinsider.de/gruenderszene/kann-das-tempo-nicht-mehr-mitgehen-ex-openai-managerin-zieht-reissleine",
+    "https://www.businessinsider.de/gruenderszene/karriere-startup/diese-hochschulen-bringen-besonders-viele-gruender-hervor",
     "https://www.businessinsider.de/gruenderszene/karriere-startup/google-entliess-mich-und-wollte-mich-spaeter-zurueck-ich-lehnte-ab-um-mein-startup-aufzubauen",
+    "https://www.businessinsider.de/gruenderszene/karriere-startup/ich-verzichtete-auf-eine-sichere-stelle-bei-google-und-gruendete-ein-ki-startup",
     "https://www.businessinsider.de/gruenderszene/karriere-startup/nur-einer-von-300-schafft-es-so-laeuft-der-auswahlprozess-fuer-ein-praktikum-bei-cherry-ventures",
     "https://www.businessinsider.de/gruenderszene/karriere-startup/welche-unis-gruender-hervorbringen-das-sind-die-unternehmerisch-einflussreichsten-hochschulen-der-dach-region",
     "https://www.businessinsider.de/gruenderszene/ki-aleph-alpha-und-cohere-besiegeln-ihren-deal-jetzt-wird-es-ernst",
@@ -239,6 +245,7 @@
     "https://www.businessinsider.de/gruenderszene/media/dhdl-compact-greens-begeistert-die-loewen-doch-der-deal-platzte",
     "https://www.businessinsider.de/gruenderszene/media/dhdl-compact-greens-punktet-bei-den-loewen-doch-am-ende-gibt-es-keinen-deal",
     "https://www.businessinsider.de/gruenderszene/media/dhdl-schluss-mit-penisgeruch-dieser-gruender-sorgt-fuer-einen-skurrilen-pitch",
+    "https://www.businessinsider.de/gruenderszene/media/eines-der-haertesten-battles-bei-dhdl-15-millionen-sauberkugeln-verkauft-und-duemmel-holt-sich-den-deal",
     "https://www.businessinsider.de/gruenderszene/media/johann-lafer-bei-dhdl-wunderdressing-schmeckt-bewertung-nicht",
     "https://www.businessinsider.de/gruenderszene/media/johann-lafer-bei-dhdl-wunderdressing-schmeckt-den-loewen-die-bewertung-nicht",
     "https://www.businessinsider.de/gruenderszene/media/johann-lafer-bei-dhdl-wunderdressing-schmeckt-die-bewertung-nicht",
@@ -312,6 +319,7 @@
     "https://www.businessinsider.de/gruenderszene/startup-verspricht-bewerbern-interview-wenn-sie-sich-das-firmenlogo-taetowieren",
     "https://www.businessinsider.de/gruenderszene/startup-warum-diese-berliner-strassenecke-ploetzlich-zum-treffpunkt-der-gruender-szene-wird",
     "https://www.businessinsider.de/gruenderszene/statt-neuer-investoren-holt-sich-dieses-startup-lieber-schulden-ins-haus",
+    "https://www.businessinsider.de/gruenderszene/studieren-ohne-gebuehren-horowitz-startet-2027-eine-neue-akademie",
     "https://www.businessinsider.de/gruenderszene/telekom-in-diese-7-namhaften-ki-startups-investiert-der-mobilfunkanbieter",
     "https://www.businessinsider.de/gruenderszene/telekom-investiert-in-ki-startup-und-macht-es-zum-unicorn",
     "https://www.businessinsider.de/gruenderszene/thelen-vier-jungs-in-der-garage-so-liefen-die-ersten-jahre-der-flugtaxi-hoffnung-lilium",
@@ -519,6 +527,9 @@
     "https://www.deutsche-startups.de/2026/09/25/1komma5-isar-aerospace-bavaria-instruments-choco-orbit-metycle",
     "https://www.deutsche-startups.de/2026/09/25/nicht-jede-gute-idee-ist-ein-gutes-unternehmen",
     "https://www.deutsche-startups.de/2026/09/26/wochenrueckblick-39-2026",
+    "https://www.deutsche-startups.de/2026/09/28/charly-bryter-delivery-hero-janna-ensthaler-avientus-ginmon",
+    "https://www.deutsche-startups.de/2026/09/28/schaumpo-sauberkugel-loume-artem-oral-care-blookery-treten-vor-die-loewen",
+    "https://www.deutsche-startups.de/2026/09/28/wir-moechten-aus-eigener-kraft-wachsen",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
@@ -579,6 +590,7 @@
     "https://www.startbase.com/news/die-sonne-scheint-nicht-mehr-ueber-sono-motors-solargeschaeft-steht-zum-verkauf-und-naechste-insolvenz",
     "https://www.startbase.com/news/dronus-sammelt-15-millionen-us-dollar-fuer-autonome-drohneninfrastruktur-ein",
     "https://www.startbase.com/news/dtcp-defence-fund-erreicht-first-closing-bei-455-millionen-euro",
+    "https://www.startbase.com/news/eib-stellt-reactive-technologies-19-millionen-euro-fuer-stromnetz-technologie-bereit",
     "https://www.startbase.com/news/ein-jahr-futury-startup-factory",
     "https://www.startbase.com/news/eine-million-euro-fuer-neue-tourismusprojekte-im-laendlichen-raum",
     "https://www.startbase.com/news/energyminer-holt-sich-21-millionen-euro-fuer-die-kommerzialisierung-seiner-flusskraftwerke",
@@ -716,6 +728,7 @@
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
     "https://www.startbase.com/portraits/nicht-nur-studieren-machen-warumgestalten-studierende-ueberhauptgruendungsinitiativen",
     "https://www.startbase.com/portraits/politik-trifft-studentische-gruendungsinitiativen-wie-staerkt-bayern-die-naechste-gruendergeneration",
+    "https://www.startbase.com/portraits/sona8-was-unternehmen-ueber-sich-selbst-nicht-wissen",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
     "https://www.startbase.com/portraits/von-einer-halben-stunde-mittagspause-zur-dritten-eigenen-produktionskueche",
     "https://www.startbase.com/reports/deutsche-wirtschaft-waechst-im-zweiten-quartal-um-03-prozent",
@@ -734,6 +747,7 @@
     "klao.eu",
     "klared.com",
     "knowlix.ai",
+    "labthunder.com",
     "lamarecycling.com",
     "lernly.at",
     "lexgraph.de",
@@ -801,6 +815,7 @@
     "spree-monitoring.de",
     "stabley.io",
     "sudzero.de",
+    "surgalfa.com",
     "tawo.group",
     "tax-graph.com",
     "telli.com",
@@ -812,6 +827,7 @@
     "usemirel.com",
     "vambiant.com",
     "veltoglp.com",
+    "vergabehero.eu",
     "versipedia.de",
     "vivi-immo.de",
     "voltexchange.de",
@@ -7218,7 +7234,135 @@
       "source": "Gründerszene",
       "resolved": false,
       "discovered_at": "2026-09-27T19:42:26.516456+00:00"
+    },
+    {
+      "name": "500.000 Euro für Blookery: Warum der DHDL-Deal mit Johannes Kliesch nach der Show platzte",
+      "website": "https://www.businessinsider.de/gruenderszene/500-000-euro-fuer-blookery-warum-der-dhdl-deal-mit-johannes-kliesch-nach-der-show-platzte/",
+      "key": "https://www.businessinsider.de/gruenderszene/500-000-euro-fuer-blookery-warum-der-dhdl-deal-mit-johannes-kliesch-nach-der-show-platzte",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906678+00:00"
+    },
+    {
+      "name": "und Dümmel holt sich den Deal",
+      "website": "https://www.businessinsider.de/gruenderszene/media/eines-der-haertesten-battles-bei-dhdl-15-millionen-sauberkugeln-verkauft-und-duemmel-holt-sich-den-deal/",
+      "key": "https://www.businessinsider.de/gruenderszene/media/eines-der-haertesten-battles-bei-dhdl-15-millionen-sauberkugeln-verkauft-und-duemmel-holt-sich-den-deal",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906706+00:00"
+    },
+    {
+      "name": "DHDL: So reagiert der „SchaumPo“-Gründer auf die Kritik der Löwen",
+      "website": "https://www.businessinsider.de/gruenderszene/dhdl-schaumpo-gruender-reagiert-auf-loewen-kritik/",
+      "key": "https://www.businessinsider.de/gruenderszene/dhdl-schaumpo-gruender-reagiert-auf-loewen-kritik",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906714+00:00"
+    },
+    {
+      "name": "Startup-Scout der Bundeswehr: Diese Gründer sollten sich gar nicht erst bewerben",
+      "website": "https://www.businessinsider.de/gruenderszene/cyber-innovation-hub-so-pitcht-ihr-euer-startup-bei-der-bundeswehr/",
+      "key": "https://www.businessinsider.de/gruenderszene/cyber-innovation-hub-so-pitcht-ihr-euer-startup-bei-der-bundeswehr",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906721+00:00"
+    },
+    {
+      "name": "und wer sich bewerben kann",
+      "website": "https://www.businessinsider.de/gruenderszene/studieren-ohne-gebuehren-horowitz-startet-2027-eine-neue-akademie/",
+      "key": "https://www.businessinsider.de/gruenderszene/studieren-ohne-gebuehren-horowitz-startet-2027-eine-neue-akademie",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906727+00:00"
+    },
+    {
+      "name": "ich lehnte ab, um mein Startup aufzubauen",
+      "website": "https://www.businessinsider.de/gruenderszene/karriere-startup/ich-verzichtete-auf-eine-sichere-stelle-bei-google-und-gruendete-ein-ki-startup/",
+      "key": "https://www.businessinsider.de/gruenderszene/karriere-startup/ich-verzichtete-auf-eine-sichere-stelle-bei-google-und-gruendete-ein-ki-startup",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906733+00:00"
+    },
+    {
+      "name": "Welche Unis Gründer hervorbringen: Das sind die unternehmerisch einflussreichsten Hochschulen der DACH-Region",
+      "website": "https://www.businessinsider.de/gruenderszene/karriere-startup/diese-hochschulen-bringen-besonders-viele-gruender-hervor/",
+      "key": "https://www.businessinsider.de/gruenderszene/karriere-startup/diese-hochschulen-bringen-besonders-viele-gruender-hervor",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906738+00:00"
+    },
+    {
+      "name": "SchaumPo, Sauberkugel, Loume, artem oral care, blookery treten vor die Löwen",
+      "website": "https://www.deutsche-startups.de/2026/09/28/schaumpo-sauberkugel-loume-artem-oral-care-blookery-treten-vor-die-loewen/",
+      "key": "https://www.deutsche-startups.de/2026/09/28/schaumpo-sauberkugel-loume-artem-oral-care-blookery-treten-vor-die-loewen",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906745+00:00"
+    },
+    {
+      "name": "LabThunder",
+      "website": "http://labthunder.com/",
+      "key": "labthunder.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-28T21:47:50.906750+00:00"
+    },
+    {
+      "name": "FaceLedger",
+      "website": "http://faceledger.ai/",
+      "key": "faceledger.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-28T21:47:50.906756+00:00"
+    },
+    {
+      "name": "SURGALFA",
+      "website": "https://surgalfa.com/",
+      "key": "surgalfa.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-28T21:47:50.906761+00:00"
+    },
+    {
+      "name": "VergabeHero",
+      "website": "http://vergabehero.eu/",
+      "key": "vergabehero.eu",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-09-28T21:47:50.906767+00:00"
+    },
+    {
+      "name": "+++ Charly +++ Bryter +++ Delivery Hero +++ Janna Ensthaler +++ Avientus +++ Ginmon +++",
+      "website": "https://www.deutsche-startups.de/2026/09/28/charly-bryter-delivery-hero-janna-ensthaler-avientus-ginmon/",
+      "key": "https://www.deutsche-startups.de/2026/09/28/charly-bryter-delivery-hero-janna-ensthaler-avientus-ginmon",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906773+00:00"
+    },
+    {
+      "name": "„Wir möchten aus eigener Kraft wachsen“",
+      "website": "https://www.deutsche-startups.de/2026/09/28/wir-moechten-aus-eigener-kraft-wachsen/",
+      "key": "https://www.deutsche-startups.de/2026/09/28/wir-moechten-aus-eigener-kraft-wachsen",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906778+00:00"
+    },
+    {
+      "name": "EIB stellt Reactive Technologies 19 Millionen Euro für Stromnetz-Technologie bereit",
+      "website": "https://www.startbase.com/news/eib-stellt-reactive-technologies-19-millionen-euro-fuer-stromnetz-technologie-bereit/",
+      "key": "https://www.startbase.com/news/eib-stellt-reactive-technologies-19-millionen-euro-fuer-stromnetz-technologie-bereit",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906784+00:00"
+    },
+    {
+      "name": "Sona8: Was Unternehmen über sich selbst nicht wissen",
+      "website": "https://www.startbase.com/portraits/sona8-was-unternehmen-ueber-sich-selbst-nicht-wissen/",
+      "key": "https://www.startbase.com/portraits/sona8-was-unternehmen-ueber-sich-selbst-nicht-wissen",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-09-28T21:47:50.906789+00:00"
     }
   ],
-  "last_run": "2026-09-27T19:42:26.516580+00:00"
+  "last_run": "2026-09-28T21:47:50.906962+00:00"
 }
