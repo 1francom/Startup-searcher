@@ -547,6 +547,10 @@
     "https://www.deutsche-startups.de/2026/09/30/im-ki-zeitalter-entscheidet-die-execution-aber-nicht-so-wie-alle-denken",
     "https://www.deutsche-startups.de/2026/09/30/redstone-emnify-nomos-ground-a-defensetech-kuro-amara",
     "https://www.deutsche-startups.de/2026/09/30/sauberkugel-was-steckt-hinter-dem-bauchgefuehl",
+    "https://www.deutsche-startups.de/2026/10/01/candis-oyster-bay-ben-unterkofler-almedia-integral-deepslate",
+    "https://www.deutsche-startups.de/2026/10/01/die-beste-e-mail-marketing-software-fuer-startups-worauf-es-beim-skalieren-wirklich-ankommt",
+    "https://www.deutsche-startups.de/2026/10/01/support-statt-sales-druck-vertrauen-schlaegt-verkaufstaktik",
+    "https://www.deutsche-startups.de/2026/10/01/von-der-idee-zum-investment-5-tipps-fuer-eure-startup-finanzierung",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
@@ -558,6 +562,7 @@
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
     "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
     "https://www.startbase.com/news/18-govtech-unternehmen-gruenden-allianz-fuer-die-digitale-verwaltung",
+    "https://www.startbase.com/news/21bitcoin-fuehrt-zinsen-auf-euro-guthaben-mit-optionaler-bitcoin-auszahlung-ein",
     "https://www.startbase.com/news/3vc-investiert-in-aderis-und-setzt-auf-ki-native-zukunft-von-erp-und-finance",
     "https://www.startbase.com/news/500-000-euro-fuer-be2byte",
     "https://www.startbase.com/news/5u-ai-erhaelt-32-millionen-us-dollar-pre-seed",
@@ -570,6 +575,7 @@
     "https://www.startbase.com/news/all-about-accuracy-sammelt-siebenstellige-pre-seed-runde-ein",
     "https://www.startbase.com/news/amber-erhaelt-sieben-millionen-euro",
     "https://www.startbase.com/news/amd-uebernimmt-world-labs-fuer-82-milliarden-dollar",
+    "https://www.startbase.com/news/ameria-sammelt-weitere-10-millionen-euro-ein",
     "https://www.startbase.com/news/andreas-w-herb-investiert-500-000-euro-in-irisgo",
     "https://www.startbase.com/news/ardian-uebernimmt-mehrheit-an-healthtech-plattform-pflegia",
     "https://www.startbase.com/news/atechx-startet-vierte-kohorte-aroundtown-foerdert-elf-proptech-start-ups-fuer-die-immobilienwirtschaft",
@@ -603,6 +609,7 @@
     "https://www.startbase.com/news/cotierra-erhaelt-3-millionen-dollar-fuer-dezentrale-pflanzenkohle-systeme",
     "https://www.startbase.com/news/crowdinvesting-plattform-onecrowd-stellt-insolvenzantraege-fuer-drei-gesellschaften",
     "https://www.startbase.com/news/cytix-sichert-holt-sich-7-millionen-us-dollar-in-series-a",
+    "https://www.startbase.com/news/deepslate-erhaelt-77-millionen-euro-fuer-europaeische-sprach-ki",
     "https://www.startbase.com/news/depotcharge-erhaelt-27-millionen-euro-und-baut-mit-dem-bgl-ein-e-lkw-ladenetz-auf",
     "https://www.startbase.com/news/deutsche-private-equity-uebernimmt-mehrheit-an-fogtec",
     "https://www.startbase.com/news/deutsche-sanierungsberatung-sichert-sich-mehr-als-10-millionen-euro-in-series-a-finanzierung",
@@ -659,6 +666,7 @@
     "https://www.startbase.com/news/kicker-ventures-steigt-bei-cotrainer-ein",
     "https://www.startbase.com/news/konstanzer-medtech-startup-eversion-technologies-erhaelt-23-millionen-euro-seed-ii-finanzierung",
     "https://www.startbase.com/news/kontext-erhaelt-35-millionen-euro-fuer-die-kontrolle-von-ki-agenten",
+    "https://www.startbase.com/news/launchub-ventures-erreicht-first-closing-bei-65-millionen-euro",
     "https://www.startbase.com/news/lilly-kauft-ataibeckley-fuer-bis-zu-38-milliarden-us-dollar-und-setzt-auf-neue-therapien-gegen-therapieresistente-depressionen",
     "https://www.startbase.com/news/lily-verlaesst-den-stealth-modus-und-sichert-sich-finanzierung-von-maetch-vc",
     "https://www.startbase.com/news/limetax-erhaelt-36-millionen-euro-fuer-ki-getriebene-steuerkanzleigruppe",
@@ -7632,7 +7640,71 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-09-30T20:43:47.245221+00:00"
+    },
+    {
+      "name": "Von der Idee zum Investment: 5 Tipps für eure Startup-Finanzierung",
+      "website": "https://www.deutsche-startups.de/2026/10/01/von-der-idee-zum-investment-5-tipps-fuer-eure-startup-finanzierung/",
+      "key": "https://www.deutsche-startups.de/2026/10/01/von-der-idee-zum-investment-5-tipps-fuer-eure-startup-finanzierung",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-01T20:57:36.828924+00:00"
+    },
+    {
+      "name": "+++ Candis +++ Oyster Bay +++ Ben Unterkofler +++ Almedia +++ Integral +++ Deepslate +++",
+      "website": "https://www.deutsche-startups.de/2026/10/01/candis-oyster-bay-ben-unterkofler-almedia-integral-deepslate/",
+      "key": "https://www.deutsche-startups.de/2026/10/01/candis-oyster-bay-ben-unterkofler-almedia-integral-deepslate",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-01T20:57:36.828951+00:00"
+    },
+    {
+      "name": "Die beste E-Mail-Marketing-Software für Startups: Worauf es beim Skalieren wirklich ankommt",
+      "website": "https://www.deutsche-startups.de/2026/10/01/die-beste-e-mail-marketing-software-fuer-startups-worauf-es-beim-skalieren-wirklich-ankommt/",
+      "key": "https://www.deutsche-startups.de/2026/10/01/die-beste-e-mail-marketing-software-fuer-startups-worauf-es-beim-skalieren-wirklich-ankommt",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-01T20:57:36.828961+00:00"
+    },
+    {
+      "name": "Support statt Sales-Druck: Vertrauen schlägt Verkaufstaktik",
+      "website": "https://www.deutsche-startups.de/2026/10/01/support-statt-sales-druck-vertrauen-schlaegt-verkaufstaktik/",
+      "key": "https://www.deutsche-startups.de/2026/10/01/support-statt-sales-druck-vertrauen-schlaegt-verkaufstaktik",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-01T20:57:36.828969+00:00"
+    },
+    {
+      "name": "AMERIA sammelt weitere 10 Millionen Euro ein",
+      "website": "https://www.startbase.com/news/ameria-sammelt-weitere-10-millionen-euro-ein/",
+      "key": "https://www.startbase.com/news/ameria-sammelt-weitere-10-millionen-euro-ein",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-01T20:57:36.828977+00:00"
+    },
+    {
+      "name": "21bitcoin führt Zinsen auf Euro-Guthaben mit optionaler Bitcoin-Auszahlung ein",
+      "website": "https://www.startbase.com/news/21bitcoin-fuehrt-zinsen-auf-euro-guthaben-mit-optionaler-bitcoin-auszahlung-ein/",
+      "key": "https://www.startbase.com/news/21bitcoin-fuehrt-zinsen-auf-euro-guthaben-mit-optionaler-bitcoin-auszahlung-ein",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-01T20:57:36.828984+00:00"
+    },
+    {
+      "name": "65 Millionen Euro",
+      "website": "https://www.startbase.com/news/launchub-ventures-erreicht-first-closing-bei-65-millionen-euro/",
+      "key": "https://www.startbase.com/news/launchub-ventures-erreicht-first-closing-bei-65-millionen-euro",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-01T20:57:36.828991+00:00"
+    },
+    {
+      "name": "Deepslate erhält 7,7 Millionen Euro für europäische Sprach-KI",
+      "website": "https://www.startbase.com/news/deepslate-erhaelt-77-millionen-euro-fuer-europaeische-sprach-ki/",
+      "key": "https://www.startbase.com/news/deepslate-erhaelt-77-millionen-euro-fuer-europaeische-sprach-ki",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-01T20:57:36.828999+00:00"
     }
   ],
-  "last_run": "2026-09-30T20:43:47.245400+00:00"
+  "last_run": "2026-10-01T20:57:36.829181+00:00"
 }
