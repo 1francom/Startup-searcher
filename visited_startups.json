@@ -610,6 +610,7 @@
     "https://www.deutsche-startups.de/2026/10/08/warum-forschung-allein-noch-keine-unternehmen-schafft",
     "https://www.deutsche-startups.de/2026/10/09/networking-cherry-ventures-robco-fonio-ai-personio-bitpanda",
     "https://www.deutsche-startups.de/2026/10/09/wie-aus-reibung-im-gruenderteam-resilienz-wird",
+    "https://www.deutsche-startups.de/2026/10/10/wochenrueckblick-41-2026",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/kryptowaehrungen-kaufen-wie-bw-bank-kunden-ueber-bitpandazugang-zu-digitalen-assets-erhalten",
@@ -836,6 +837,7 @@
     "https://www.startbase.com/news/zero-erhaelt-103-millionen-dollar-fuer-crm-alternative-mit-ki-agenten",
     "https://www.startbase.com/news/zymofix-investiert-6-millionen-euro-in-erste-industrielle-produktionsanlage",
     "https://www.startbase.com/portraits/10-jahre-q-summit-was-passiert-wenn-studierende-ihre-eigene-startup-konferenz-gruenden",
+    "https://www.startbase.com/portraits/boomerent-wie-zwei-gruender-mit-ki-den-intransparenten-immobilienmarkt-aufmischen",
     "https://www.startbase.com/portraits/evorimo-automatisiert-den-immobilienverkauf-ohnemakler",
     "https://www.startbase.com/portraits/from-classroom-to-cap-table-howinnovis-vc-is-shaping-munichs-nextgeneration-of-venture-capital",
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
@@ -8442,7 +8444,23 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-10-09T20:44:45.377631+00:00"
+    },
+    {
+      "name": "+++ RobCo +++ Namespace +++ Procuros +++ finmid +++ Personio +++ Circula +++ Lendorse +++",
+      "website": "https://www.deutsche-startups.de/2026/10/10/wochenrueckblick-41-2026/",
+      "key": "https://www.deutsche-startups.de/2026/10/10/wochenrueckblick-41-2026",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-10T19:58:34.356399+00:00"
+    },
+    {
+      "name": "Boomerent: Wie zwei Gründer mit KI den intransparenten Immobilienmarkt aufmischen",
+      "website": "https://www.startbase.com/portraits/boomerent-wie-zwei-gruender-mit-ki-den-intransparenten-immobilienmarkt-aufmischen/",
+      "key": "https://www.startbase.com/portraits/boomerent-wie-zwei-gruender-mit-ki-den-intransparenten-immobilienmarkt-aufmischen",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-10T19:58:34.356427+00:00"
     }
   ],
-  "last_run": "2026-10-09T20:44:45.377751+00:00"
+  "last_run": "2026-10-10T19:58:34.356582+00:00"
 }
