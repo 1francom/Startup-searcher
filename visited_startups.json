@@ -764,6 +764,7 @@
     "https://www.startbase.com/news/nrw-bank-investiert-erstmals-in-defence-tech-und-beteiligt-sich-an-skylance",
     "https://www.startbase.com/news/nrw-bank-investiert-in-ag-tech-systems",
     "https://www.startbase.com/news/nunos-erhaelt-570-000-euro-fuer-duenger-technologie-aus-der-raumfahrt",
+    "https://www.startbase.com/news/nur-der-einzige-im-klassenzimmer-its-your-turn",
     "https://www.startbase.com/news/nxtgn-startup-factory-waechst-tuebingen-freiburg-und-hohenheim-schliessen-sich-an",
     "https://www.startbase.com/news/oceanloop-zieht-bis-zu-385-millionen-euro-an-land",
     "https://www.startbase.com/news/ohb-erhaelt-milliardenauftrag-fuer-europas-satellitennetz-iris%c2%b2",
@@ -8460,7 +8461,15 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-10-10T19:58:34.356427+00:00"
+    },
+    {
+      "name": "Nur der einzige im Klassenzimmer: It’s (y)our turn!",
+      "website": "https://www.startbase.com/news/nur-der-einzige-im-klassenzimmer-its-your-turn/",
+      "key": "https://www.startbase.com/news/nur-der-einzige-im-klassenzimmer-its-your-turn",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-11T20:08:28.409079+00:00"
     }
   ],
-  "last_run": "2026-10-10T19:58:34.356582+00:00"
+  "last_run": "2026-10-11T20:08:28.409292+00:00"
 }
