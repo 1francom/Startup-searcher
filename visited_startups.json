@@ -665,6 +665,7 @@
     "https://www.deutsche-startups.de/2026/10/16/12-aufstrebende-startups-die-gerade-millionen-einsammelt-haben",
     "https://www.deutsche-startups.de/2026/10/16/calibration-deeptech-byond-vc-elevateone-ai-15leafs-rabot-energy",
     "https://www.deutsche-startups.de/2026/10/16/der-exit-beginnt-sieben-jahre-vor-dem-verkauf",
+    "https://www.deutsche-startups.de/2026/10/17/wochenrueckblick-42-2026",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/kryptowaehrungen-kaufen-wie-bw-bank-kunden-ueber-bitpandazugang-zu-digitalen-assets-erhalten",
@@ -919,6 +920,7 @@
     "https://www.startbase.com/portraits/nicht-nur-studieren-machen-warumgestalten-studierende-ueberhauptgruendungsinitiativen",
     "https://www.startbase.com/portraits/politik-trifft-studentische-gruendungsinitiativen-wie-staerkt-bayern-die-naechste-gruendergeneration",
     "https://www.startbase.com/portraits/sona8-was-unternehmen-ueber-sich-selbst-nicht-wissen",
+    "https://www.startbase.com/portraits/sonne-fuer-den-trailer-wie-movolta-die-kuehllogistik-elektrisiert",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
     "https://www.startbase.com/portraits/von-einer-halben-stunde-mittagspause-zur-dritten-eigenen-produktionskueche",
     "https://www.startbase.com/reports/deutsche-wirtschaft-waechst-im-zweiten-quartal-um-03-prozent",
@@ -9216,7 +9218,23 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-10-16T19:29:58.073764+00:00"
+    },
+    {
+      "name": "1KOMMA5° +++ Rabot Energy +++ Turn2x +++ Causa Prima  +++ Gaius Capital +++ Bosch Ventures +++",
+      "website": "https://www.deutsche-startups.de/2026/10/17/wochenrueckblick-42-2026/",
+      "key": "https://www.deutsche-startups.de/2026/10/17/wochenrueckblick-42-2026",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-17T18:20:56.233826+00:00"
+    },
+    {
+      "name": "Sonne für den Trailer: Wie MOVOLTA die Kühllogistik elektrisiert",
+      "website": "https://www.startbase.com/portraits/sonne-fuer-den-trailer-wie-movolta-die-kuehllogistik-elektrisiert/",
+      "key": "https://www.startbase.com/portraits/sonne-fuer-den-trailer-wie-movolta-die-kuehllogistik-elektrisiert",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-17T18:20:56.233849+00:00"
     }
   ],
-  "last_run": "2026-10-16T19:29:58.073932+00:00"
+  "last_run": "2026-10-17T18:20:56.234016+00:00"
 }
