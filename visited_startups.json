@@ -919,6 +919,7 @@
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
     "https://www.startbase.com/portraits/nicht-nur-studieren-machen-warumgestalten-studierende-ueberhauptgruendungsinitiativen",
     "https://www.startbase.com/portraits/politik-trifft-studentische-gruendungsinitiativen-wie-staerkt-bayern-die-naechste-gruendergeneration",
+    "https://www.startbase.com/portraits/public-makers-den-oeffentlichen-sektor-nicht-nur-verstehen-sondern-mitgestalten",
     "https://www.startbase.com/portraits/sona8-was-unternehmen-ueber-sich-selbst-nicht-wissen",
     "https://www.startbase.com/portraits/sonne-fuer-den-trailer-wie-movolta-die-kuehllogistik-elektrisiert",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
@@ -9234,7 +9235,15 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-10-17T18:20:56.233849+00:00"
+    },
+    {
+      "name": "Public Makers: Den öffentlichen Sektor nicht  nur verstehen, sondern mitgestalten",
+      "website": "https://www.startbase.com/portraits/public-makers-den-oeffentlichen-sektor-nicht-nur-verstehen-sondern-mitgestalten/",
+      "key": "https://www.startbase.com/portraits/public-makers-den-oeffentlichen-sektor-nicht-nur-verstehen-sondern-mitgestalten",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-18T18:33:40.173215+00:00"
     }
   ],
-  "last_run": "2026-10-17T18:20:56.234016+00:00"
+  "last_run": "2026-10-18T18:33:40.173408+00:00"
 }
