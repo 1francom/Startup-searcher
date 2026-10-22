@@ -681,6 +681,9 @@
     "https://www.deutsche-startups.de/2026/10/20/es-gibt-hier-keinen-magischen-trick",
     "https://www.deutsche-startups.de/2026/10/21/startup-village-nvidia-rwth-aachen-motion-ventures-n9-robotics-defensetech",
     "https://www.deutsche-startups.de/2026/10/21/was-entrepreneure-vom-profisport-lernen-koennen",
+    "https://www.deutsche-startups.de/2026/10/22/klaus-wegener-sennder-arveum-heartbeat-gruenderinnen-enact",
+    "https://www.deutsche-startups.de/2026/10/22/purpose-ersetzt-keine-fuehrung",
+    "https://www.deutsche-startups.de/2026/10/22/wenn-die-kfz-zulassung-ploetzlich-digital-funktioniert",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/kryptowaehrungen-kaufen-wie-bw-bank-kunden-ueber-bitpandazugang-zu-digitalen-assets-erhalten",
@@ -793,6 +796,7 @@
     "https://www.startbase.com/news/ground-a-sammelt-91-millionen-euro-fuer-laserbasierte-drohnenabwehr-ein",
     "https://www.startbase.com/news/gruenderwasen-2026-bringt-baden-wuerttembergs-startup-szene-ins-festzelt",
     "https://www.startbase.com/news/guideless-erhaelt-eine-million-euro-fuer-ki-gestuetzte-softwaretrainings",
+    "https://www.startbase.com/news/hansetherm-erhaelt-zehn-millionen-euro-seed",
     "https://www.startbase.com/news/happyrobot-wird-unicorn-mit-deutscher-beteiligung-und-holt-sich-150-mio-usd",
     "https://www.startbase.com/news/heartbeat-bio-und-cubase-bio-erhalten-eine-million-euro-fuer-3d-analyse-von-herzerkrankungen",
     "https://www.startbase.com/news/heidi-erhaelt-340-millionen-dollar-fuer-ki-im-gesundheitswesen",
@@ -922,10 +926,12 @@
     "https://www.startbase.com/news/ubitium-erhaelt-14-millionen-dollar-fuer-universellen-ki-prozessor-aus-duesseldorf",
     "https://www.startbase.com/news/unicorn-moss-berliner-fintech-knackt-milliardenbewertung-nach-series-c",
     "https://www.startbase.com/news/unisieve-erhaelt-9-millionen-dollar-fuer-industrielle-membrantechnologie",
+    "https://www.startbase.com/news/unternehmertum-microsoft-nvidia-und-infineon-starten-accelerator-fuer-physical-ai-startups",
     "https://www.startbase.com/news/valuemize-erhaelt-siebenstellige-pre-seed-finanzierung",
     "https://www.startbase.com/news/vayora-verlaesst-den-stealth-modus",
     "https://www.startbase.com/news/vertical-aerospace-sichert-sich-rund-100-millionen-us-dollar-fuer-zertifizierung-und-markteinfuehrung-von-valo",
     "https://www.startbase.com/news/visionspace-erhaelt-ueber-300-000-euro-foerderung-fuer-eigenen-satellitencomputer",
+    "https://www.startbase.com/news/visma-uebernimmt-mehrheit-an-pathway-solutions-hamburger-buchhaltungs-startup-vor-vollstaendiger-uebernahme",
     "https://www.startbase.com/news/volle-anziehungskraft-der-gruendungsmagnetstartet-gastbeitraege-und-das-munich-startupfestival-steht-vor-der-tuer",
     "https://www.startbase.com/news/volle-anziehungskraft-wie-das-munich-startup-festival-2026-gruendungsinitiativen-eine-buehne-gibt",
     "https://www.startbase.com/news/volve-holt-sich-3-millionen-us-dollar-fuer-ki-plattform-im-baugewerbe",
@@ -9603,7 +9609,55 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-10-21T20:02:10.367901+00:00"
+    },
+    {
+      "name": "Wenn die Kfz-Zulassung plötzlich digital funktioniert",
+      "website": "https://www.deutsche-startups.de/2026/10/22/wenn-die-kfz-zulassung-ploetzlich-digital-funktioniert/",
+      "key": "https://www.deutsche-startups.de/2026/10/22/wenn-die-kfz-zulassung-ploetzlich-digital-funktioniert",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-22T19:56:14.474948+00:00"
+    },
+    {
+      "name": "Purpose ersetzt keine Führung",
+      "website": "https://www.deutsche-startups.de/2026/10/22/purpose-ersetzt-keine-fuehrung/",
+      "key": "https://www.deutsche-startups.de/2026/10/22/purpose-ersetzt-keine-fuehrung",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-22T19:56:14.474980+00:00"
+    },
+    {
+      "name": "+++ Klaus Wegener +++ sennder +++ Arveum +++ Heartbeat +++ Gründerinnen +++ Enact +++",
+      "website": "https://www.deutsche-startups.de/2026/10/22/klaus-wegener-sennder-arveum-heartbeat-gruenderinnen-enact/",
+      "key": "https://www.deutsche-startups.de/2026/10/22/klaus-wegener-sennder-arveum-heartbeat-gruenderinnen-enact",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-22T19:56:14.474990+00:00"
+    },
+    {
+      "name": "UnternehmerTUM, Microsoft, NVIDIA und Infineon starten Accelerator für Physical-AI-Startups",
+      "website": "https://www.startbase.com/news/unternehmertum-microsoft-nvidia-und-infineon-starten-accelerator-fuer-physical-ai-startups/",
+      "key": "https://www.startbase.com/news/unternehmertum-microsoft-nvidia-und-infineon-starten-accelerator-fuer-physical-ai-startups",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-22T19:56:14.474999+00:00"
+    },
+    {
+      "name": "hansetherm erhält zehn Millionen Euro Seed",
+      "website": "https://www.startbase.com/news/hansetherm-erhaelt-zehn-millionen-euro-seed/",
+      "key": "https://www.startbase.com/news/hansetherm-erhaelt-zehn-millionen-euro-seed",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-22T19:56:14.475007+00:00"
+    },
+    {
+      "name": "Visma übernimmt Mehrheit an pathway solutions: Hamburger Buchhaltungs-Startup vor vollständiger Übernahme",
+      "website": "https://www.startbase.com/news/visma-uebernimmt-mehrheit-an-pathway-solutions-hamburger-buchhaltungs-startup-vor-vollstaendiger-uebernahme/",
+      "key": "https://www.startbase.com/news/visma-uebernimmt-mehrheit-an-pathway-solutions-hamburger-buchhaltungs-startup-vor-vollstaendiger-uebernahme",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-22T19:56:14.475015+00:00"
     }
   ],
-  "last_run": "2026-10-21T20:02:10.368107+00:00"
+  "last_run": "2026-10-22T19:56:14.475272+00:00"
 }
