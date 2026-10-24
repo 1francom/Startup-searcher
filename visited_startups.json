@@ -968,6 +968,7 @@
     "https://www.startbase.com/portraits/sona8-was-unternehmen-ueber-sich-selbst-nicht-wissen",
     "https://www.startbase.com/portraits/sonne-fuer-den-trailer-wie-movolta-die-kuehllogistik-elektrisiert",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
+    "https://www.startbase.com/portraits/vom-drohnenhobby-zur-digitalen-inspektionsplattform-wie-rk-droneview-energieanlagen-und-immobilien-im-blick-behaelt",
     "https://www.startbase.com/portraits/von-einer-halben-stunde-mittagspause-zur-dritten-eigenen-produktionskueche",
     "https://www.startbase.com/reports/deutsche-wirtschaft-waechst-im-zweiten-quartal-um-03-prozent",
     "https://www.startbase.com/reports/deutschland-gruendet-wieder-mehr-waehrend-die-industrielle-basis-weiter-schrumpft",
@@ -9747,7 +9748,15 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-10-23T19:54:24.430176+00:00"
+    },
+    {
+      "name": "Vom Drohnenhobby zur digitalen Inspektionsplattform: Wie RK Droneview Energieanlagen und Immobilien im Blick behält",
+      "website": "https://www.startbase.com/portraits/vom-drohnenhobby-zur-digitalen-inspektionsplattform-wie-rk-droneview-energieanlagen-und-immobilien-im-blick-behaelt/",
+      "key": "https://www.startbase.com/portraits/vom-drohnenhobby-zur-digitalen-inspektionsplattform-wie-rk-droneview-energieanlagen-und-immobilien-im-blick-behaelt",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-24T18:43:15.171818+00:00"
     }
   ],
-  "last_run": "2026-10-23T19:54:24.430370+00:00"
+  "last_run": "2026-10-24T18:43:15.171970+00:00"
 }
