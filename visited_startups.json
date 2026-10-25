@@ -959,6 +959,7 @@
     "https://www.startbase.com/news/zymofix-investiert-6-millionen-euro-in-erste-industrielle-produktionsanlage",
     "https://www.startbase.com/portraits/10-jahre-q-summit-was-passiert-wenn-studierende-ihre-eigene-startup-konferenz-gruenden",
     "https://www.startbase.com/portraits/boomerent-wie-zwei-gruender-mit-ki-den-intransparenten-immobilienmarkt-aufmischen",
+    "https://www.startbase.com/portraits/connect-learn-grow-wie-femella-die-women-oftomorrow-miteinander-verbindet",
     "https://www.startbase.com/portraits/evorimo-automatisiert-den-immobilienverkauf-ohnemakler",
     "https://www.startbase.com/portraits/from-classroom-to-cap-table-howinnovis-vc-is-shaping-munichs-nextgeneration-of-venture-capital",
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
@@ -9756,7 +9757,15 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-10-24T18:43:15.171818+00:00"
+    },
+    {
+      "name": "Wie femella die Women ofTomorrow miteinander verbindet",
+      "website": "https://www.startbase.com/portraits/connect-learn-grow-wie-femella-die-women-oftomorrow-miteinander-verbindet/",
+      "key": "https://www.startbase.com/portraits/connect-learn-grow-wie-femella-die-women-oftomorrow-miteinander-verbindet",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-25T18:52:05.414315+00:00"
     }
   ],
-  "last_run": "2026-10-24T18:43:15.171970+00:00"
+  "last_run": "2026-10-25T18:52:05.414577+00:00"
 }
