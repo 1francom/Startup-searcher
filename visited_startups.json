@@ -28,6 +28,7 @@
     "auxilius.ai",
     "aveela.com",
     "baudis.ai",
+    "beepeople.com",
     "beta.willidrop.com",
     "bezlad.de",
     "birdwave.de",
@@ -63,6 +64,7 @@
     "exclaimrobotics.com",
     "exosphere.bio",
     "exploration.space",
+    "f13.com",
     "faceledger.ai",
     "familystories.love",
     "farmvizion.com",
@@ -693,6 +695,9 @@
     "https://www.deutsche-startups.de/2026/10/23/masterclasses-almedia-gruenderfonds-ruhr-the-execution-game-defensetech-guardaero",
     "https://www.deutsche-startups.de/2026/10/23/seedstrapping-wie-ki-die-startup-finanzierung-veraendert",
     "https://www.deutsche-startups.de/2026/10/23/wer-entscheidet-ob-frauen-ein-hockurinal-benutzen",
+    "https://www.deutsche-startups.de/2026/10/24/wochenrueckblick-43-2026",
+    "https://www.deutsche-startups.de/2026/10/26/food-drinks-klao-justwatch-sonnen-skylanx-hansetherm",
+    "https://www.deutsche-startups.de/2026/10/26/vom-unternehmensgehirn-zur-ki-plattform",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/kryptowaehrungen-kaufen-wie-bw-bank-kunden-ueber-bitpandazugang-zu-digitalen-assets-erhalten",
@@ -752,6 +757,7 @@
     "https://www.startbase.com/news/ceregate-schliesst-ueberzeichnete-series-c-runde",
     "https://www.startbase.com/news/chargepoly-sichert-sich-23-millionen-euro",
     "https://www.startbase.com/news/christian-lindner-investiert-in-fintech-ginmon",
+    "https://www.startbase.com/news/christian-lindner-investiert-in-frankfurter-cybersecurity-startup-quointelligence",
     "https://www.startbase.com/news/christian-lindner-unter-den-investoren-von-tenpal",
     "https://www.startbase.com/news/circular-materials-erhaelt-118-millionen-euro-fuer-den-ausbau-seiner-rohstoff-recyclingtechnologie",
     "https://www.startbase.com/news/cleversolutions-gruendet-autonomous-und-sichert-sich-finanzierung-fuer-den-betrieb-autonomer-fahrzeugflotten",
@@ -813,6 +819,7 @@
     "https://www.startbase.com/news/helsing-sichert-sich-18-milliarden-us-dollar-series-e",
     "https://www.startbase.com/news/hexafarms-erhaelt-48-millionen-euro-fuer-ki-gestuetztes-greenhouse-monitoring",
     "https://www.startbase.com/news/highest-und-futury-starten-zweite-phase-ihres-company-builders-mit-450-000-euro-privatem-kapital",
+    "https://www.startbase.com/news/hoehle-der-loewen/die-hoehle-der-loewen-am-26-oktober-ki-startup-loest-bieterkampf-aus-gruenderin-kaempft-mit-den-traenen",
     "https://www.startbase.com/news/hoehle-der-loewen/staffel-die-hoehle-der-loewen-zum-jubilaeum-waechst-das-rudel-auf-acht-investoren",
     "https://www.startbase.com/news/horizon3-wird-zum-cybersecurity-unicorn-250-millionen-us-dollar-bei-ueber-2-milliarden-bewertung",
     "https://www.startbase.com/news/hotel-investments-ag-steigt-bei-ki-hausverwaltung-novumstate-ein",
@@ -968,6 +975,7 @@
     "https://www.startbase.com/portraits/public-makers-den-oeffentlichen-sektor-nicht-nur-verstehen-sondern-mitgestalten",
     "https://www.startbase.com/portraits/sona8-was-unternehmen-ueber-sich-selbst-nicht-wissen",
     "https://www.startbase.com/portraits/sonne-fuer-den-trailer-wie-movolta-die-kuehllogistik-elektrisiert",
+    "https://www.startbase.com/portraits/startups-mit-ki-watchlist-oktober-26",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
     "https://www.startbase.com/portraits/vom-drohnenhobby-zur-digitalen-inspektionsplattform-wie-rk-droneview-energieanlagen-und-immobilien-im-blick-behaelt",
     "https://www.startbase.com/portraits/von-einer-halben-stunde-mittagspause-zur-dritten-eigenen-produktionskueche",
@@ -1016,6 +1024,7 @@
     "naion.tech",
     "nanolope.de",
     "naturnista.de",
+    "nauticassure.com",
     "nemedus.de",
     "neospaces.de",
     "nerdsip.com",
@@ -1038,6 +1047,7 @@
     "outcomet.app",
     "padelcity.de",
     "patchley.com",
+    "pflegana.de",
     "playmatchplan.com",
     "polightfilters.com",
     "polygon-one.com",
@@ -1056,6 +1066,7 @@
     "salesxmachina.ai",
     "sapientec.eu",
     "sci2sci.com",
+    "selbstverwalten.com",
     "semanticworks.de",
     "seppy.de",
     "serwas-heizung.at",
@@ -9765,7 +9776,95 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-10-25T18:52:05.414315+00:00"
+    },
+    {
+      "name": "F13",
+      "website": "http://f13.com/",
+      "key": "f13.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-10-26T20:58:33.733218+00:00"
+    },
+    {
+      "name": "Bee",
+      "website": "http://beepeople.com/",
+      "key": "beepeople.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-10-26T20:58:33.733238+00:00"
+    },
+    {
+      "name": "Pflegana",
+      "website": "http://pflegana.de",
+      "key": "pflegana.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-10-26T20:58:33.733247+00:00"
+    },
+    {
+      "name": "selbstverwalten.",
+      "website": "http://selbstverwalten.com/",
+      "key": "selbstverwalten.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-10-26T20:58:33.733253+00:00"
+    },
+    {
+      "name": "NauticAssure",
+      "website": "http://nauticassure.com/",
+      "key": "nauticassure.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-10-26T20:58:33.733260+00:00"
+    },
+    {
+      "name": "Vom „Unternehmensgehirn“ zur KI-Plattform",
+      "website": "https://www.deutsche-startups.de/2026/10/26/vom-unternehmensgehirn-zur-ki-plattform/",
+      "key": "https://www.deutsche-startups.de/2026/10/26/vom-unternehmensgehirn-zur-ki-plattform",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-26T20:58:33.733266+00:00"
+    },
+    {
+      "name": "+++ Food & Drinks +++ KLAO +++ JustWatch +++ Sonnen +++ SkyLANX +++ hansetherm +++",
+      "website": "https://www.deutsche-startups.de/2026/10/26/food-drinks-klao-justwatch-sonnen-skylanx-hansetherm/",
+      "key": "https://www.deutsche-startups.de/2026/10/26/food-drinks-klao-justwatch-sonnen-skylanx-hansetherm",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-26T20:58:33.733271+00:00"
+    },
+    {
+      "name": "+++ Nvidia +++ Agile Robots +++ Avelios Medical +++ Mirelo +++ Reflex Aerospace +++ +++ Enact +++ YGO",
+      "website": "https://www.deutsche-startups.de/2026/10/24/wochenrueckblick-43-2026/",
+      "key": "https://www.deutsche-startups.de/2026/10/24/wochenrueckblick-43-2026",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-10-26T20:58:33.733278+00:00"
+    },
+    {
+      "name": "Die Höhle der Löwen am 26. Oktober: KI-Startup löst Bieterkampf aus, Gründerin kämpft mit den Tränen",
+      "website": "https://www.startbase.com/news/hoehle-der-loewen/die-hoehle-der-loewen-am-26-oktober-ki-startup-loest-bieterkampf-aus-gruenderin-kaempft-mit-den-traenen/",
+      "key": "https://www.startbase.com/news/hoehle-der-loewen/die-hoehle-der-loewen-am-26-oktober-ki-startup-loest-bieterkampf-aus-gruenderin-kaempft-mit-den-traenen",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-26T20:58:33.733284+00:00"
+    },
+    {
+      "name": "Watchlist Oktober 26",
+      "website": "https://www.startbase.com/portraits/startups-mit-ki-watchlist-oktober-26/",
+      "key": "https://www.startbase.com/portraits/startups-mit-ki-watchlist-oktober-26",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-26T20:58:33.733290+00:00"
+    },
+    {
+      "name": "Christian Lindner investiert in Frankfurter Cybersecurity-Startup QuoIntelligence",
+      "website": "https://www.startbase.com/news/christian-lindner-investiert-in-frankfurter-cybersecurity-startup-quointelligence/",
+      "key": "https://www.startbase.com/news/christian-lindner-investiert-in-frankfurter-cybersecurity-startup-quointelligence",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-10-26T20:58:33.733296+00:00"
     }
   ],
-  "last_run": "2026-10-25T18:52:05.414577+00:00"
+  "last_run": "2026-10-26T20:58:33.733525+00:00"
 }
