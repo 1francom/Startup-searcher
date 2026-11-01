@@ -740,6 +740,7 @@
     "https://www.deutsche-startups.de/2026/10/28/wer-investieren-kann-sollte-es-tun",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
+    "https://www.startbase.com/interviews/fehler-machen-gehoert-dazu-daruebersprechen-offenbar-nicht",
     "https://www.startbase.com/interviews/kryptowaehrungen-kaufen-wie-bw-bank-kunden-ueber-bitpandazugang-zu-digitalen-assets-erhalten",
     "https://www.startbase.com/interviews/moegliche-auswirkungen-eines-digitalen-euros-auf-die-internationalisierungsvorhaben-deutscher-entrepreneurs",
     "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
@@ -10422,7 +10423,15 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-10-31T19:51:20.188993+00:00"
+    },
+    {
+      "name": "Fehler machen gehört dazu. Darübersprechen offenbar nicht.",
+      "website": "https://www.startbase.com/interviews/fehler-machen-gehoert-dazu-daruebersprechen-offenbar-nicht/",
+      "key": "https://www.startbase.com/interviews/fehler-machen-gehoert-dazu-daruebersprechen-offenbar-nicht",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-01T20:24:50.750790+00:00"
     }
   ],
-  "last_run": "2026-10-31T19:51:20.189230+00:00"
+  "last_run": "2026-11-01T20:24:50.751013+00:00"
 }
