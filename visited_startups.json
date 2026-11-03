@@ -42,6 +42,7 @@
     "cense.com",
     "ciro.immo",
     "citelm.com",
+    "clara-agent.de",
     "clubgefuehle.de",
     "comena.ai",
     "covelant.com",
@@ -89,6 +90,7 @@
     "helliontech.eu",
     "helmit.org",
     "hey-maria.com",
+    "heymagda.ai",
     "hofsync.de",
     "honig.games",
     "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq",
@@ -171,6 +173,7 @@
     "https://www.businessinsider.de/gruenderszene/dhdl-an-diesen-details-scheitern-die-tv-deals-der-loewen",
     "https://www.businessinsider.de/gruenderszene/dhdl-bio-rasierer-begeistert-genau-solche-ideen-brauchen-wir",
     "https://www.businessinsider.de/gruenderszene/dhdl-darum-platzt-der-deal-fuer-kippo-nach-der-sendung",
+    "https://www.businessinsider.de/gruenderszene/dhdl-das-waren-die-10-besten-deals-der-neuesten-staffel",
     "https://www.businessinsider.de/gruenderszene/dhdl-deal-fuer-kippo-platzt-nach-der-sendung-das-ist-der-grund",
     "https://www.businessinsider.de/gruenderszene/dhdl-deal-geplatzt-peanut-ueberzeugt-ensthaler-dann-kommt-alles-anders",
     "https://www.businessinsider.de/gruenderszene/dhdl-deal-geplatzt-peanut-ueberzeugt-ensthaler-doch-danach-kommt-alles-anders",
@@ -244,6 +247,7 @@
     "https://www.businessinsider.de/gruenderszene/food/von-lieferheld-zur-uber-nahme-die-grosse-delivery-hero-chronik",
     "https://www.businessinsider.de/gruenderszene/frank-thelen-zerlegt-sex-pitch-mit-micaela-schaefer-bei-dhdl",
     "https://www.businessinsider.de/gruenderszene/frechheit-dhdl-loewen-rechnen-mit-bekanntem-gruender-ab",
+    "https://www.businessinsider.de/gruenderszene/fuer-andreessen-horowitz-investieren-so-wird-man-deutscher-scout-beim-top-vc",
     "https://www.businessinsider.de/gruenderszene/ganz-schoen-meta-ich-habe-zuckerbergs-6500-woerter-ki-manifest-gelesen",
     "https://www.businessinsider.de/gruenderszene/geplatzer-deal-mit-der-politik-warum-lilium-die-100-millionen-nie-bekam",
     "https://www.businessinsider.de/gruenderszene/google-top-entwickler-jeff-dean-geht-sein-startup-koennte-milliarden-holen",
@@ -480,6 +484,7 @@
     "https://www.businessinsider.de/gruenderszene/us-startup-zuechtet-mit-gentechnik-superhunde-fuers-militaer",
     "https://www.businessinsider.de/gruenderszene/verrennen-sich-in-ideen-vercel-cto-erklaert-warum-gruender-scheitern",
     "https://www.businessinsider.de/gruenderszene/vibecoding-tech-experte-verraet-seine-drei-wichtigsten-tipps",
+    "https://www.businessinsider.de/gruenderszene/vom-hauptschueler-zum-roboter-koenig-der-ungewoehnliche-aufstieg-von-david-reger",
     "https://www.businessinsider.de/gruenderszene/vom-poker-millionaer-zum-investor-fedor-holz-investiert-in-400-startups",
     "https://www.businessinsider.de/gruenderszene/von-der-seed-zur-series-a-runde-diese-5-faktoren-erhoehen-die-chancen-deutlich",
     "https://www.businessinsider.de/gruenderszene/vor-diesem-34-jaehrigen-chinesen-zittert-das-silicon-valley",
@@ -743,6 +748,17 @@
     "https://www.deutsche-startups.de/2026/10/27/wie-der-irrglaube-der-251-eine-verhandlung-versauen-kann",
     "https://www.deutsche-startups.de/2026/10/28/pitch-it-climatetech-insight-gauss-robotics-skylance-roadsurfer",
     "https://www.deutsche-startups.de/2026/10/28/wer-investieren-kann-sollte-es-tun",
+    "https://www.deutsche-startups.de/2026/10/29/anny-und-ki-uebernimmt-die-buchungen",
+    "https://www.deutsche-startups.de/2026/10/29/holidu-companisto-science-fiction-knight-rider-crate-io-distalmotion",
+    "https://www.deutsche-startups.de/2026/10/29/mitarbeiterbeteiligung-was-startups-steuerlich-beachten-muessen",
+    "https://www.deutsche-startups.de/2026/10/30/die-vier-groessten-huerden-fuer-ki-startups-im-mittelstand",
+    "https://www.deutsche-startups.de/2026/10/30/ein-ki-agent-fuer-die-eigene-immobilie",
+    "https://www.deutsche-startups.de/2026/10/30/halloween-lena-gercke-sumup-snap-fusion-bolzplatzkind-strollme",
+    "https://www.deutsche-startups.de/2026/10/31/distalmotion-strollme-tendos-hansetherm-roadsurfer-gauss-robotics",
+    "https://www.deutsche-startups.de/2026/11/02/das-millionenbusiness-mit-dem-buro-lunch",
+    "https://www.deutsche-startups.de/2026/11/02/taxgraph-cognigy-flow-partners-0to9-traivelling-drafted-ventures",
+    "https://www.deutsche-startups.de/2026/11/03/ein-profitabler-nachtzug-ist-ein-echtes-business",
+    "https://www.deutsche-startups.de/2026/11/03/robin-capital-finn-conrad-hivebuy-logicc-yobsti",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/fehler-machen-gehoert-dazu-daruebersprechen-offenbar-nicht",
@@ -755,6 +771,7 @@
     "https://www.startbase.com/meinung/gross-groesser-gelogen",
     "https://www.startbase.com/news/10-millionen-euro-finanzierungsrunde-fuer-kuro",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
+    "https://www.startbase.com/news/100-millionen-e-gehen-zu-hypersonica",
     "https://www.startbase.com/news/12-mio-euro-fuer-steuerberatungs-ki-startup-skalar",
     "https://www.startbase.com/news/18-govtech-unternehmen-gruenden-allianz-fuer-die-digitale-verwaltung",
     "https://www.startbase.com/news/18-millionen-euro-fuer-ki-gestuetzte-personalvermittlung-gehen-an-placed",
@@ -812,6 +829,7 @@
     "https://www.startbase.com/news/cleversolutions-gruendet-autonomous-und-sichert-sich-finanzierung-fuer-den-betrieb-autonomer-fahrzeugflotten",
     "https://www.startbase.com/news/compagnie-des-alpes-uebernimmt-339-prozent-an-padelcity",
     "https://www.startbase.com/news/computomics-sammelt-63-millionen-euro-fuer-ki-gestuetzte-pflanzenzuechtung-ein",
+    "https://www.startbase.com/news/conlio-erhaelt-64-millionen-euro-fuer-ki-gestuetzte-finanzprozesse-in-der-logistik",
     "https://www.startbase.com/news/conmeet-sammelt-6-millionen-euro-ein",
     "https://www.startbase.com/news/contigo-energie-holding-steigt-bei-bremer-energytech-startup-flexality-ein",
     "https://www.startbase.com/news/coreweave-erweitert-ki-infrastruktur-in-europa",
@@ -835,6 +853,7 @@
     "https://www.startbase.com/news/eine-million-euro-fuer-neue-tourismusprojekte-im-laendlichen-raum",
     "https://www.startbase.com/news/energyminer-holt-sich-21-millionen-euro-fuer-die-kommerzialisierung-seiner-flusskraftwerke",
     "https://www.startbase.com/news/enforceshield-erhaelt-17-millionen-euro-fuer-autonome-ip-rechtsdurchsetzung",
+    "https://www.startbase.com/news/enginsight-erhaelt-zweistelligen-millionenbetrag-von-verdane-fuer-europaeische-expansion",
     "https://www.startbase.com/news/eth-spin-off-zuriq-sammelt-224-millionen-euro-fuer-skalierbare-quantencomputer-ein",
     "https://www.startbase.com/news/everphone-refinanziert-15-millionen-euro-mit-commerzbank-und-kfw",
     "https://www.startbase.com/news/exobiosphere-erhaelt-eine-million-euro-staatliche-foerderung-fuer-space-biotech-plattform",
@@ -868,6 +887,7 @@
     "https://www.startbase.com/news/hello-again-erhaelt-zweistelliges-millioneninvestment-von-emeram-fuer-europa-expansion",
     "https://www.startbase.com/news/helsing-sichert-sich-18-milliarden-us-dollar-series-e",
     "https://www.startbase.com/news/hexafarms-erhaelt-48-millionen-euro-fuer-ki-gestuetztes-greenhouse-monitoring",
+    "https://www.startbase.com/news/hg-und-anthropic-investieren-in-neues-ki-unternehmen-fuer-den-europaeischen-markt",
     "https://www.startbase.com/news/highest-und-futury-starten-zweite-phase-ihres-company-builders-mit-450-000-euro-privatem-kapital",
     "https://www.startbase.com/news/hoehle-der-loewen/die-hoehle-der-loewen-am-26-oktober-ki-startup-loest-bieterkampf-aus-gruenderin-kaempft-mit-den-traenen",
     "https://www.startbase.com/news/hoehle-der-loewen/staffel-die-hoehle-der-loewen-zum-jubilaeum-waechst-das-rudel-auf-acht-investoren",
@@ -998,6 +1018,7 @@
     "https://www.startbase.com/news/toysreloved-sammelt-425-000-euro-fuer-den-kreislauf-gebrauchter-spielzeuge-ein",
     "https://www.startbase.com/news/trade-republic-kuendigt-kostenloses-altersvorsorgedepot-an",
     "https://www.startbase.com/news/trade-republic-oeffnet-plattform-fuer-gmbhs-und-ugs",
+    "https://www.startbase.com/news/tumbleweed-sichert-sich-69-millionen-euro-fuer-forschung-unter-schwerelosigkeit",
     "https://www.startbase.com/news/ubitium-erhaelt-14-millionen-dollar-fuer-universellen-ki-prozessor-aus-duesseldorf",
     "https://www.startbase.com/news/unicorn-moss-berliner-fintech-knackt-milliardenbewertung-nach-series-c",
     "https://www.startbase.com/news/unisieve-erhaelt-9-millionen-dollar-fuer-industrielle-membrantechnologie",
@@ -1062,6 +1083,7 @@
     "klarvus.de",
     "knowlix.ai",
     "kontext.security",
+    "kopplungsystems.com",
     "kuro.technology",
     "labthunder.com",
     "lamarecycling.com",
@@ -1077,8 +1099,10 @@
     "matchimize.de",
     "mathion.ai",
     "medi-claim.de",
+    "meisterpfad.de",
     "melodic.health",
     "mevio.io",
+    "miet-kaution.de",
     "minimomente.app",
     "mkind.ai",
     "moingroup.de",
@@ -1107,6 +1131,7 @@
     "nunq.ai",
     "nyma.app",
     "oceanloop.com",
+    "onescreen.tv",
     "oracomputing.com",
     "outcomet.app",
     "padelcity.de",
@@ -1115,6 +1140,7 @@
     "petplanner.de",
     "pflegana.de",
     "pid1.tech",
+    "pitchapply.de",
     "playmatchplan.com",
     "polightfilters.com",
     "polygon-one.com",
@@ -1152,6 +1178,7 @@
     "soulofconcrete.com",
     "spree-monitoring.de",
     "stabley.io",
+    "stauraumheld.de",
     "sudzero.de",
     "surgalfa.com",
     "talkbeforedate.de",
@@ -1160,6 +1187,7 @@
     "telli.com",
     "titanspear.agency",
     "tower.dev",
+    "tradeanymachine.com",
     "tremi-foods.de",
     "truckfolio.de",
     "trytripbot.com",
@@ -10494,7 +10522,231 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-11-02T23:24:12.218986+00:00"
+    },
+    {
+      "name": "einem Top-VC",
+      "website": "https://www.businessinsider.de/gruenderszene/fuer-andreessen-horowitz-investieren-so-wird-man-deutscher-scout-beim-top-vc/",
+      "key": "https://www.businessinsider.de/gruenderszene/fuer-andreessen-horowitz-investieren-so-wird-man-deutscher-scout-beim-top-vc",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846779+00:00"
+    },
+    {
+      "name": "Das waren die besten DHDL-Deals der neusten Staffel",
+      "website": "https://www.businessinsider.de/gruenderszene/dhdl-das-waren-die-10-besten-deals-der-neuesten-staffel/",
+      "key": "https://www.businessinsider.de/gruenderszene/dhdl-das-waren-die-10-besten-deals-der-neuesten-staffel",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846801+00:00"
+    },
+    {
+      "name": "10 Geschwister, kein Studium: Wie David Reger Deutschlands Roboter-König wurde",
+      "website": "https://www.businessinsider.de/gruenderszene/vom-hauptschueler-zum-roboter-koenig-der-ungewoehnliche-aufstieg-von-david-reger/",
+      "key": "https://www.businessinsider.de/gruenderszene/vom-hauptschueler-zum-roboter-koenig-der-ungewoehnliche-aufstieg-von-david-reger",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846808+00:00"
+    },
+    {
+      "name": "PitchApply",
+      "website": "http://pitchapply.de/",
+      "key": "pitchapply.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-03T21:39:58.846814+00:00"
+    },
+    {
+      "name": "Deutsche Mietkaution",
+      "website": "http://miet-kaution.de/",
+      "key": "miet-kaution.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-03T21:39:58.846820+00:00"
+    },
+    {
+      "name": "onescreen",
+      "website": "http://onescreen.tv/",
+      "key": "onescreen.tv",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-03T21:39:58.846825+00:00"
+    },
+    {
+      "name": "HeyMagda",
+      "website": "http://heymagda.ai/",
+      "key": "heymagda.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-03T21:39:58.846830+00:00"
+    },
+    {
+      "name": "„Ein profitabler Nachtzug ist ein echtes Business“",
+      "website": "https://www.deutsche-startups.de/2026/11/03/ein-profitabler-nachtzug-ist-ein-echtes-business/",
+      "key": "https://www.deutsche-startups.de/2026/11/03/ein-profitabler-nachtzug-ist-ein-echtes-business",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846835+00:00"
+    },
+    {
+      "name": "+++ Robin Capital +++ Finn +++ Conrad +++ Hivebuy +++ Logicc +++ Yobsti +++",
+      "website": "https://www.deutsche-startups.de/2026/11/03/robin-capital-finn-conrad-hivebuy-logicc-yobsti/",
+      "key": "https://www.deutsche-startups.de/2026/11/03/robin-capital-finn-conrad-hivebuy-logicc-yobsti",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846840+00:00"
+    },
+    {
+      "name": "Meisterpfad",
+      "website": "http://meisterpfad.de/",
+      "key": "meisterpfad.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-03T21:39:58.846845+00:00"
+    },
+    {
+      "name": "TradeAnyMachine",
+      "website": "http://www.tradeanymachine.com/",
+      "key": "tradeanymachine.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-03T21:39:58.846850+00:00"
+    },
+    {
+      "name": "Clara",
+      "website": "http://clara-agent.de/",
+      "key": "clara-agent.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-03T21:39:58.846855+00:00"
+    },
+    {
+      "name": "Kopplung Systems",
+      "website": "http://kopplungsystems.com/",
+      "key": "kopplungsystems.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-03T21:39:58.846859+00:00"
+    },
+    {
+      "name": "StauraumHeld",
+      "website": "http://stauraumheld.de/",
+      "key": "stauraumheld.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-03T21:39:58.846865+00:00"
+    },
+    {
+      "name": "Das Millionenbusiness mit dem Büro-Lunch",
+      "website": "https://www.deutsche-startups.de/2026/11/02/das-millionenbusiness-mit-dem-buro-lunch/",
+      "key": "https://www.deutsche-startups.de/2026/11/02/das-millionenbusiness-mit-dem-buro-lunch",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846870+00:00"
+    },
+    {
+      "name": "+++ TaxGraph +++ Cognigy +++ Flow & Partners +++ 0TO9 +++ Traivelling +++ Drafted Ventures +++",
+      "website": "https://www.deutsche-startups.de/2026/11/02/taxgraph-cognigy-flow-partners-0to9-traivelling-drafted-ventures/",
+      "key": "https://www.deutsche-startups.de/2026/11/02/taxgraph-cognigy-flow-partners-0to9-traivelling-drafted-ventures",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846874+00:00"
+    },
+    {
+      "name": "+++ Distalmotion +++ StrollMe +++ Tendos +++ hansetherm +++ Roadsurfer +++ Gauss Robotics +++",
+      "website": "https://www.deutsche-startups.de/2026/10/31/distalmotion-strollme-tendos-hansetherm-roadsurfer-gauss-robotics/",
+      "key": "https://www.deutsche-startups.de/2026/10/31/distalmotion-strollme-tendos-hansetherm-roadsurfer-gauss-robotics",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846879+00:00"
+    },
+    {
+      "name": "Die vier größten Hürden für KI-Startups im Mittelstand",
+      "website": "https://www.deutsche-startups.de/2026/10/30/die-vier-groessten-huerden-fuer-ki-startups-im-mittelstand/",
+      "key": "https://www.deutsche-startups.de/2026/10/30/die-vier-groessten-huerden-fuer-ki-startups-im-mittelstand",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846884+00:00"
+    },
+    {
+      "name": "Ein KI-Agent für die eigene Immobilie",
+      "website": "https://www.deutsche-startups.de/2026/10/30/ein-ki-agent-fuer-die-eigene-immobilie/",
+      "key": "https://www.deutsche-startups.de/2026/10/30/ein-ki-agent-fuer-die-eigene-immobilie",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846889+00:00"
+    },
+    {
+      "name": "+++ Halloween +++ Lena Gercke +++ SumUp +++ Snap Fusion +++ Bolzplatzkind +++ StrollMe +++",
+      "website": "https://www.deutsche-startups.de/2026/10/30/halloween-lena-gercke-sumup-snap-fusion-bolzplatzkind-strollme/",
+      "key": "https://www.deutsche-startups.de/2026/10/30/halloween-lena-gercke-sumup-snap-fusion-bolzplatzkind-strollme",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846894+00:00"
+    },
+    {
+      "name": "und KI übernimmt die Buchungen",
+      "website": "https://www.deutsche-startups.de/2026/10/29/anny-und-ki-uebernimmt-die-buchungen/",
+      "key": "https://www.deutsche-startups.de/2026/10/29/anny-und-ki-uebernimmt-die-buchungen",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846911+00:00"
+    },
+    {
+      "name": "Mitarbeiterbeteiligung: Was Startups steuerlich beachten müssen",
+      "website": "https://www.deutsche-startups.de/2026/10/29/mitarbeiterbeteiligung-was-startups-steuerlich-beachten-muessen/",
+      "key": "https://www.deutsche-startups.de/2026/10/29/mitarbeiterbeteiligung-was-startups-steuerlich-beachten-muessen",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846916+00:00"
+    },
+    {
+      "name": "+++ Holidu +++ Companisto +++ Science Fiction +++ Knight Rider +++ Crate.io +++ Distalmotion +++",
+      "website": "https://www.deutsche-startups.de/2026/10/29/holidu-companisto-science-fiction-knight-rider-crate-io-distalmotion/",
+      "key": "https://www.deutsche-startups.de/2026/10/29/holidu-companisto-science-fiction-knight-rider-crate-io-distalmotion",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846920+00:00"
+    },
+    {
+      "name": "100 Millionen € gehen zu Hypersonica",
+      "website": "https://www.startbase.com/news/100-millionen-e-gehen-zu-hypersonica/",
+      "key": "https://www.startbase.com/news/100-millionen-e-gehen-zu-hypersonica",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846925+00:00"
+    },
+    {
+      "name": "Tumbleweed sichert sich 6,9 Millionen Euro für Forschung unter Schwerelosigkeit",
+      "website": "https://www.startbase.com/news/tumbleweed-sichert-sich-69-millionen-euro-fuer-forschung-unter-schwerelosigkeit/",
+      "key": "https://www.startbase.com/news/tumbleweed-sichert-sich-69-millionen-euro-fuer-forschung-unter-schwerelosigkeit",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846930+00:00"
+    },
+    {
+      "name": "Hg und Anthropic investieren in neues KI-Unternehmen für den europäischen Markt",
+      "website": "https://www.startbase.com/news/hg-und-anthropic-investieren-in-neues-ki-unternehmen-fuer-den-europaeischen-markt/",
+      "key": "https://www.startbase.com/news/hg-und-anthropic-investieren-in-neues-ki-unternehmen-fuer-den-europaeischen-markt",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846935+00:00"
+    },
+    {
+      "name": "Enginsight erhält zweistelligen Millionenbetrag von Verdane für europäische Expansion",
+      "website": "https://www.startbase.com/news/enginsight-erhaelt-zweistelligen-millionenbetrag-von-verdane-fuer-europaeische-expansion/",
+      "key": "https://www.startbase.com/news/enginsight-erhaelt-zweistelligen-millionenbetrag-von-verdane-fuer-europaeische-expansion",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846940+00:00"
+    },
+    {
+      "name": "Conlio erhält 6,4 Millionen Euro für KI-gestützte Finanzprozesse in der Logistik",
+      "website": "https://www.startbase.com/news/conlio-erhaelt-64-millionen-euro-fuer-ki-gestuetzte-finanzprozesse-in-der-logistik/",
+      "key": "https://www.startbase.com/news/conlio-erhaelt-64-millionen-euro-fuer-ki-gestuetzte-finanzprozesse-in-der-logistik",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-03T21:39:58.846944+00:00"
     }
   ],
-  "last_run": "2026-11-02T23:24:12.219198+00:00"
+  "last_run": "2026-11-03T21:39:58.847141+00:00"
 }
