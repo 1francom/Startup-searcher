@@ -786,6 +786,7 @@
     "https://www.startbase.com/interviews/fehler-machen-gehoert-dazu-daruebersprechen-offenbar-nicht",
     "https://www.startbase.com/interviews/kryptowaehrungen-kaufen-wie-bw-bank-kunden-ueber-bitpandazugang-zu-digitalen-assets-erhalten",
     "https://www.startbase.com/interviews/moegliche-auswirkungen-eines-digitalen-euros-auf-die-internationalisierungsvorhaben-deutscher-entrepreneurs",
+    "https://www.startbase.com/interviews/tomorrow-university-warum-eine-hochschule-der-zukunft-nach-wildau-kommt",
     "https://www.startbase.com/interviews/ulrich-scheppan-vorstandsvorsitzender-investitionsbank-des-landes-brandenburg-ilb-zur-aktuellen-lage-der-start-up-szene-in-brandenburg",
     "https://www.startbase.com/interviews/wie-martina-klement-brandenburg-zum-gewinner-des-technologischen-wandels-machen-will",
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
@@ -1081,6 +1082,7 @@
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
     "https://www.startbase.com/portraits/nicht-nur-studieren-machen-warumgestalten-studierende-ueberhauptgruendungsinitiativen",
     "https://www.startbase.com/portraits/politik-trifft-studentische-gruendungsinitiativen-wie-staerkt-bayern-die-naechste-gruendergeneration",
+    "https://www.startbase.com/portraits/praxiops-digitale-sichtbarkeit-fuer-heilberufe-ohne-dauerhafte-abhaengigkeit-von-werbung",
     "https://www.startbase.com/portraits/public-makers-den-oeffentlichen-sektor-nicht-nur-verstehen-sondern-mitgestalten",
     "https://www.startbase.com/portraits/sona8-was-unternehmen-ueber-sich-selbst-nicht-wissen",
     "https://www.startbase.com/portraits/sonne-fuer-den-trailer-wie-movolta-die-kuehllogistik-elektrisiert",
@@ -11034,7 +11036,23 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-11-06T21:25:54.085530+00:00"
+    },
+    {
+      "name": "PraxiOps: Digitale Sichtbarkeit fÃ¼r Heilberufe â€“ ohne dauerhafte AbhÃ¤ngigkeit von Werbung",
+      "website": "https://www.startbase.com/portraits/praxiops-digitale-sichtbarkeit-fuer-heilberufe-ohne-dauerhafte-abhaengigkeit-von-werbung/",
+      "key": "https://www.startbase.com/portraits/praxiops-digitale-sichtbarkeit-fuer-heilberufe-ohne-dauerhafte-abhaengigkeit-von-werbung",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-07T20:06:48.534841+00:00"
+    },
+    {
+      "name": "Tomorrow University: Warum eine Hochschule der Zukunft nach Wildau kommt",
+      "website": "https://www.startbase.com/interviews/tomorrow-university-warum-eine-hochschule-der-zukunft-nach-wildau-kommt/",
+      "key": "https://www.startbase.com/interviews/tomorrow-university-warum-eine-hochschule-der-zukunft-nach-wildau-kommt",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-07T20:06:48.534868+00:00"
     }
   ],
-  "last_run": "2026-11-06T21:25:54.085763+00:00"
+  "last_run": "2026-11-07T20:06:48.535145+00:00"
 }
