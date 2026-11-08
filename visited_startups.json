@@ -871,6 +871,7 @@
     "https://www.startbase.com/news/die-sonne-scheint-nicht-mehr-ueber-sono-motors-solargeschaeft-steht-zum-verkauf-und-naechste-insolvenz",
     "https://www.startbase.com/news/die-startup-landkarte-wird-groesser",
     "https://www.startbase.com/news/dilt-analytics-erhaelt-siebenstellige-finanzierung",
+    "https://www.startbase.com/news/drei-tage-ein-ort-200-gruenderinnen-der-founders-club-frankfurt-startet-the-founder-bootcamp",
     "https://www.startbase.com/news/dronus-sammelt-15-millionen-us-dollar-fuer-autonome-drohneninfrastruktur-ein",
     "https://www.startbase.com/news/dtcp-defence-fund-erreicht-first-closing-bei-455-millionen-euro",
     "https://www.startbase.com/news/eib-stellt-reactive-technologies-19-millionen-euro-fuer-stromnetz-technologie-bereit",
@@ -11052,7 +11053,15 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-11-07T20:06:48.534868+00:00"
+    },
+    {
+      "name": "Drei Tage, ein Ort, 200 Gründer:innen: Der Founders Club Frankfurt startet The Founder Bootcamp",
+      "website": "https://www.startbase.com/news/drei-tage-ein-ort-200-gruenderinnen-der-founders-club-frankfurt-startet-the-founder-bootcamp/",
+      "key": "https://www.startbase.com/news/drei-tage-ein-ort-200-gruenderinnen-der-founders-club-frankfurt-startet-the-founder-bootcamp",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-08T20:21:02.191245+00:00"
     }
   ],
-  "last_run": "2026-11-07T20:06:48.535145+00:00"
+  "last_run": "2026-11-08T20:21:02.191529+00:00"
 }
