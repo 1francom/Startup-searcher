@@ -2,11 +2,13 @@
   "domains": [
     "adnio.de",
     "aeduco.de",
+    "aeos-aerospace.de",
     "aesthos.de",
     "aeya-app.com",
     "ag-tech.systems",
     "aiceflow.de",
     "ailiza.ai",
+    "aioniclabs.ai",
     "aiploya.com",
     "aithon-robotics.ch",
     "alawyer.ai",
@@ -16,6 +18,7 @@
     "ambumetric.de",
     "ampelo.de",
     "ampway.de",
+    "anita.legal",
     "anora.business",
     "anoritech.com",
     "anotherearth.ai",
@@ -102,6 +105,7 @@
     "https://remoteOK.com/remote-jobs/remote-data-scientist-new-flyer-1134357",
     "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663",
     "https://www.businessinsider.de/gruenderszene/10-000-views-100-nutzer-wie-diese-gruender-den-wachstumsschalter-finden-wollen",
+    "https://www.businessinsider.de/gruenderszene/10-geschwister-kein-studium-so-wurde-david-reger-deutschlands-roboter-koenig",
     "https://www.businessinsider.de/gruenderszene/10-geschwister-kein-studium-so-wurde-er-deutschlands-roboter-koenig",
     "https://www.businessinsider.de/gruenderszene/10-geschwister-kein-studium-wie-david-reger-zum-deutschen-roboter-koenig-wurde",
     "https://www.businessinsider.de/gruenderszene/100-millionen-arr-in-sechs-monaten-das-steckt-hinter-dem-robotik-startup-microagi",
@@ -248,6 +252,7 @@
     "https://www.businessinsider.de/gruenderszene/ex-openai-managerin-zieht-reissleine-kann-das-tempo-nicht-mehr-mitgehen",
     "https://www.businessinsider.de/gruenderszene/fast-600-millionen-in-bar-netflix-kauft-ki-startup-von-ben-affleck",
     "https://www.businessinsider.de/gruenderszene/fehler-im-aws-kostentool-laesst-gruender-apokalyptische-schulden-fuerchten",
+    "https://www.businessinsider.de/gruenderszene/finn-gruender-warum-er-4-monate-nach-dem-unicorn-status-gehen-musste",
     "https://www.businessinsider.de/gruenderszene/finn-warum-der-gruender-gehen-musste",
     "https://www.businessinsider.de/gruenderszene/finn-warum-der-gruender-nach-nur-4-monate-gehen-musste",
     "https://www.businessinsider.de/gruenderszene/firmen-verstehen-ki-laengst-doch-ihnen-fehlt-etwas-ueberraschend-banales",
@@ -512,6 +517,7 @@
     "https://www.businessinsider.de/gruenderszene/warum-gruender-keinen-alkohol-mehr-trinken-die-nuechterne-startup-szene",
     "https://www.businessinsider.de/gruenderszene/warum-lilium-die-100-millionen-nie-bekam-und-daran-scheiterte",
     "https://www.businessinsider.de/gruenderszene/warum-selbst-gruender-manchmal-frueher-feierabend-machen-sollten",
+    "https://www.businessinsider.de/gruenderszene/was-unser-gehirn-wirklich-braucht-um-hoechstleistungen-zu-bringen",
     "https://www.businessinsider.de/gruenderszene/wer-nicht-performt-muss-weg-dash0-gruender-ueber-harte-entscheidungen",
     "https://www.businessinsider.de/gruenderszene/wer-sich-das-firmenlogo-taetowiert-bekommt-ein-vorstellungsgespraech",
     "https://www.businessinsider.de/gruenderszene/wer-ueber-buerokratie-schimpft-sucht-sich-nur-eine-ausrede",
@@ -781,6 +787,10 @@
     "https://www.deutsche-startups.de/2026/11/06/14-dicke-millionen-deals-die-alle-gesehen-haben-sollten",
     "https://www.deutsche-startups.de/2026/11/06/70-aller-gruenderinnen-kaempfen-mit-der-work-life-balance",
     "https://www.deutsche-startups.de/2026/11/06/exit-illusion-gostudent-sequoia-capital-langdock-vaeridion-pliant",
+    "https://www.deutsche-startups.de/2026/11/07/hypersonica-workmotion-pliant-finn-creandum-gropyus",
+    "https://www.deutsche-startups.de/2026/11/09/formove-venture-capital-xentral-halbleiter-boom-living-brain",
+    "https://www.deutsche-startups.de/2026/11/09/vom-gruender-zum-ceo-haftungsfallen-im-scale-up-vermeiden",
+    "https://www.deutsche-startups.de/2026/11/09/vom-kuechentisch-zum-longevity-startup",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/fehler-machen-gehoert-dazu-daruebersprechen-offenbar-nicht",
@@ -792,6 +802,7 @@
     "https://www.startbase.com/interviews/wir-brauchen-nicht-mehr-startups-wir-brauchen-bessere-unternehmenskonzepte",
     "https://www.startbase.com/meinung/ankerkunde-schlaegt-den-ankerinvestor",
     "https://www.startbase.com/meinung/gross-groesser-gelogen",
+    "https://www.startbase.com/meinung/warum-venture-clienting-gerade-in-wirtschaftlich-schwierigen-zeiten-zum-wettbewerbsvorteil-wird",
     "https://www.startbase.com/news/10-millionen-euro-finanzierungsrunde-fuer-kuro",
     "https://www.startbase.com/news/10-millionen-euro-fuer-fuchs-eule",
     "https://www.startbase.com/news/100-millionen-e-gehen-zu-hypersonica",
@@ -868,6 +879,7 @@
     "https://www.startbase.com/news/deutsche-sanierungsberatung-sichert-sich-mehr-als-10-millionen-euro-in-series-a-finanzierung",
     "https://www.startbase.com/news/deutscher-apotheker-verlag-investiert-in-tox-help",
     "https://www.startbase.com/news/deutschlands-gruenderboom-trotzt-der-krise-warum-die-statistiken-scheinbar-unterschiedliche-geschichten-erzaehlen",
+    "https://www.startbase.com/news/die-millionenidee-ralf-duemmels-neue-gruendershow-im-ersten-check",
     "https://www.startbase.com/news/die-sonne-scheint-nicht-mehr-ueber-sono-motors-solargeschaeft-steht-zum-verkauf-und-naechste-insolvenz",
     "https://www.startbase.com/news/die-startup-landkarte-wird-groesser",
     "https://www.startbase.com/news/dilt-analytics-erhaelt-siebenstellige-finanzierung",
@@ -953,6 +965,7 @@
     "https://www.startbase.com/news/luffy-ai-sammelt-81-millionen-pfund-ein-mig-capital-investiert-in-ki-fuer-die-industrielle-echtzeitsteuerung",
     "https://www.startbase.com/news/maia-erhaelt-4-millionen-euro-fuer-ki-plattform-zur-erschliessung-technischen-unternehmenswissens",
     "https://www.startbase.com/news/marble-erhaelt-375-millionen-dollar",
+    "https://www.startbase.com/news/marble-imaging-erhaelt-6-millionen-euro-fuer-europaeische-satellitenkonstellation",
     "https://www.startbase.com/news/mbg-investiert-1-million-euro-in-naturenergie-rotachtal",
     "https://www.startbase.com/news/metr-erhaelt-105-millionen-euro-fuer-energieeffiziente-bestandsgebaeude",
     "https://www.startbase.com/news/mika-erhaelt-6-millionen-euro-fuer-ki-native-buchhaltung",
@@ -981,6 +994,7 @@
     "https://www.startbase.com/news/oceanloop-zieht-bis-zu-385-millionen-euro-an-land",
     "https://www.startbase.com/news/ohb-erhaelt-milliardenauftrag-fuer-europas-satellitennetz-iris%c2%b2",
     "https://www.startbase.com/news/olsaro-sammelt-5-millionen-euro-fuer-klimaresistentes-getreide-ein",
+    "https://www.startbase.com/news/onodrim-industries-erhaelt-300-millionen-dollar-und-steigt-zum-unicorn-auf",
     "https://www.startbase.com/news/open-cosmos-sammelt-300-millionen-euro-fuer-europas-satelliteninfrastruktur-ein",
     "https://www.startbase.com/news/ore-energy-sammelt-43-millionen-us-dollar-fuer-langzeitspeicher-der-naechsten-generation-ein",
     "https://www.startbase.com/news/pakajo-holt-sich-12-millionen-euro",
@@ -1120,6 +1134,7 @@
     "kuro.technology",
     "labthunder.com",
     "lamarecycling.com",
+    "leadflow-immobilien.de",
     "lebensstimmen.com",
     "lernly.at",
     "lexgraph.de",
@@ -1206,6 +1221,7 @@
     "skylance.tech",
     "skylanx.ai",
     "skyxwash.de",
+    "solistiq.com",
     "sonntagenergy.com",
     "sorala.de",
     "soulhouse.me",
@@ -11061,7 +11077,135 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-11-08T20:21:02.191245+00:00"
+    },
+    {
+      "name": "Was unser Gehirn wirklich braucht, um Höchstleistungen zu bringen",
+      "website": "https://www.businessinsider.de/gruenderszene/was-unser-gehirn-wirklich-braucht-um-hoechstleistungen-zu-bringen/",
+      "key": "https://www.businessinsider.de/gruenderszene/was-unser-gehirn-wirklich-braucht-um-hoechstleistungen-zu-bringen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-11-10T00:06:02.873071+00:00"
+    },
+    {
+      "name": "10 Geschwister, kein Studium: Wie David Reger Deutschlands Roboter-König wurde",
+      "website": "https://www.businessinsider.de/gruenderszene/10-geschwister-kein-studium-so-wurde-david-reger-deutschlands-roboter-koenig/",
+      "key": "https://www.businessinsider.de/gruenderszene/10-geschwister-kein-studium-so-wurde-david-reger-deutschlands-roboter-koenig",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-11-10T00:06:02.873093+00:00"
+    },
+    {
+      "name": "„Keine Entscheidung gegen Max“: Warum der Finn-Gründer nur vier Monate nach dem Unicorn-Status als CEO gehen musste",
+      "website": "https://www.businessinsider.de/gruenderszene/finn-gruender-warum-er-4-monate-nach-dem-unicorn-status-gehen-musste/",
+      "key": "https://www.businessinsider.de/gruenderszene/finn-gruender-warum-er-4-monate-nach-dem-unicorn-status-gehen-musste",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-11-10T00:06:02.873101+00:00"
+    },
+    {
+      "name": "Anita Legal",
+      "website": "https://www.anita.legal/",
+      "key": "anita.legal",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-10T00:06:02.873107+00:00"
+    },
+    {
+      "name": "SOLISTIQ",
+      "website": "http://solistiq.com/",
+      "key": "solistiq.com",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-10T00:06:02.873113+00:00"
+    },
+    {
+      "name": "LeadFlow",
+      "website": "http://leadflow-immobilien.de/",
+      "key": "leadflow-immobilien.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-10T00:06:02.873118+00:00"
+    },
+    {
+      "name": "Aionic Labs",
+      "website": "http://aioniclabs.ai/",
+      "key": "aioniclabs.ai",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-10T00:06:02.873122+00:00"
+    },
+    {
+      "name": "AEOS",
+      "website": "http://aeos-aerospace.de/",
+      "key": "aeos-aerospace.de",
+      "source": "deutsche-startups.de",
+      "resolved": true,
+      "discovered_at": "2026-11-10T00:06:02.873127+00:00"
+    },
+    {
+      "name": "Vom Küchentisch zum Longevity-Startup",
+      "website": "https://www.deutsche-startups.de/2026/11/09/vom-kuechentisch-zum-longevity-startup/",
+      "key": "https://www.deutsche-startups.de/2026/11/09/vom-kuechentisch-zum-longevity-startup",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-10T00:06:02.873132+00:00"
+    },
+    {
+      "name": "Vom Gründer zum CEO: Haftungsfallen im Scale-up vermeiden",
+      "website": "https://www.deutsche-startups.de/2026/11/09/vom-gruender-zum-ceo-haftungsfallen-im-scale-up-vermeiden/",
+      "key": "https://www.deutsche-startups.de/2026/11/09/vom-gruender-zum-ceo-haftungsfallen-im-scale-up-vermeiden",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-10T00:06:02.873137+00:00"
+    },
+    {
+      "name": "+++ Formove +++ Venture Capital +++ Xentral +++ Halbleiter-Boom +++ living brain +++",
+      "website": "https://www.deutsche-startups.de/2026/11/09/formove-venture-capital-xentral-halbleiter-boom-living-brain/",
+      "key": "https://www.deutsche-startups.de/2026/11/09/formove-venture-capital-xentral-halbleiter-boom-living-brain",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-10T00:06:02.873143+00:00"
+    },
+    {
+      "name": "+++ Hypersonica +++ WorkMotion +++ Pliant +++ FINN +++ Creandum +++ Gropyus +++",
+      "website": "https://www.deutsche-startups.de/2026/11/07/hypersonica-workmotion-pliant-finn-creandum-gropyus/",
+      "key": "https://www.deutsche-startups.de/2026/11/07/hypersonica-workmotion-pliant-finn-creandum-gropyus",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-10T00:06:02.873149+00:00"
+    },
+    {
+      "name": "Marble Imaging erhält 6 Millionen Euro für europäische Satellitenkonstellation",
+      "website": "https://www.startbase.com/news/marble-imaging-erhaelt-6-millionen-euro-fuer-europaeische-satellitenkonstellation/",
+      "key": "https://www.startbase.com/news/marble-imaging-erhaelt-6-millionen-euro-fuer-europaeische-satellitenkonstellation",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-10T00:06:02.873154+00:00"
+    },
+    {
+      "name": "Onodrim Industries erhält 300 Millionen Dollar und steigt zum Unicorn auf",
+      "website": "https://www.startbase.com/news/onodrim-industries-erhaelt-300-millionen-dollar-und-steigt-zum-unicorn-auf/",
+      "key": "https://www.startbase.com/news/onodrim-industries-erhaelt-300-millionen-dollar-und-steigt-zum-unicorn-auf",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-10T00:06:02.873159+00:00"
+    },
+    {
+      "name": "Die Millionenidee: Ralf Dümmels neue Gründershow im ersten Check",
+      "website": "https://www.startbase.com/news/die-millionenidee-ralf-duemmels-neue-gruendershow-im-ersten-check/",
+      "key": "https://www.startbase.com/news/die-millionenidee-ralf-duemmels-neue-gruendershow-im-ersten-check",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-10T00:06:02.873164+00:00"
+    },
+    {
+      "name": "Warum Venture Clienting gerade in wirtschaftlich schwierigen Zeiten zum Wettbewerbsvorteil wird",
+      "website": "https://www.startbase.com/meinung/warum-venture-clienting-gerade-in-wirtschaftlich-schwierigen-zeiten-zum-wettbewerbsvorteil-wird/",
+      "key": "https://www.startbase.com/meinung/warum-venture-clienting-gerade-in-wirtschaftlich-schwierigen-zeiten-zum-wettbewerbsvorteil-wird",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-10T00:06:02.873169+00:00"
     }
   ],
-  "last_run": "2026-11-08T20:21:02.191529+00:00"
+  "last_run": "2026-11-10T00:06:02.873385+00:00"
 }
