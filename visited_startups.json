@@ -803,6 +803,9 @@
     "https://www.deutsche-startups.de/2026/11/11/alstin-capital-recycling-redalpine-lea-ventures-sparetech",
     "https://www.deutsche-startups.de/2026/11/11/deutschland-hat-kein-startup-problem",
     "https://www.deutsche-startups.de/2026/11/11/von-about-you-bis-finn-so-investiert-sevenventures",
+    "https://www.deutsche-startups.de/2026/11/12/eu-inc-und-gruenden-soll-endlich-einfacher-werden",
+    "https://www.deutsche-startups.de/2026/11/12/homie-und-ki-kennt-das-ganze-sortiment",
+    "https://www.deutsche-startups.de/2026/11/12/seedspeed-ventures-fintech-noctua-science-ventures-hypersonica-sennder",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/fehler-machen-gehoert-dazu-daruebersprechen-offenbar-nicht",
@@ -885,12 +888,15 @@
     "https://www.startbase.com/news/corporate-venturing-scheitert-selten-am-startup",
     "https://www.startbase.com/news/cotierra-erhaelt-3-millionen-dollar-fuer-dezentrale-pflanzenkohle-systeme",
     "https://www.startbase.com/news/crowdinvesting-plattform-onecrowd-stellt-insolvenzantraege-fuer-drei-gesellschaften",
+    "https://www.startbase.com/news/cylib-erhaelt-erste-bankfinanzierung-fuer-industriellen-ausbau",
     "https://www.startbase.com/news/cytix-sichert-holt-sich-7-millionen-us-dollar-in-series-a",
+    "https://www.startbase.com/news/deepinvoice-erhaelt-700-000-euro-fuer-ki-gestuetzte-medizinische-abrechnung",
     "https://www.startbase.com/news/deepslate-erhaelt-77-millionen-euro-fuer-europaeische-sprach-ki",
     "https://www.startbase.com/news/depotcharge-erhaelt-27-millionen-euro-und-baut-mit-dem-bgl-ein-e-lkw-ladenetz-auf",
     "https://www.startbase.com/news/deutsche-private-equity-uebernimmt-mehrheit-an-fogtec",
     "https://www.startbase.com/news/deutsche-sanierungsberatung-sichert-sich-mehr-als-10-millionen-euro-in-series-a-finanzierung",
     "https://www.startbase.com/news/deutscher-apotheker-verlag-investiert-in-tox-help",
+    "https://www.startbase.com/news/deutscher-business-angels-tag-2026",
     "https://www.startbase.com/news/deutschlands-gruenderboom-trotzt-der-krise-warum-die-statistiken-scheinbar-unterschiedliche-geschichten-erzaehlen",
     "https://www.startbase.com/news/die-millionenidee-ralf-duemmels-neue-gruendershow-im-ersten-check",
     "https://www.startbase.com/news/die-sonne-scheint-nicht-mehr-ueber-sono-motors-solargeschaeft-steht-zum-verkauf-und-naechste-insolvenz",
@@ -1042,6 +1048,7 @@
     "https://www.startbase.com/news/ronald-kriedel-uebernimmt-geschaeftsfuehrung-der-bryck-startup-alliance",
     "https://www.startbase.com/news/sci2sci-sammelt-12-millionen-euro-fuer-vertrauenswuerdige-ki-in-der-biopharma-branche-ein",
     "https://www.startbase.com/news/science4beauty-holt-sich-16-millionen-euro",
+    "https://www.startbase.com/news/se3-holt-sich-30-millionen-dollar",
     "https://www.startbase.com/news/sennder-will-mit-228-millionen-euro-weiter-wachsen",
     "https://www.startbase.com/news/seragy-sichert-sich-12-millionen-euro-fuer-neue-biomarker-technologie-gegen-parkinson-und-alzheimer",
     "https://www.startbase.com/news/shiprocket-geht-fuer-11-mrd-us-dollar-an-die-boerse-und-bertelsmann-investments-ist-voll-dabei",
@@ -11403,7 +11410,63 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-11-11T22:35:30.174519+00:00"
+    },
+    {
+      "name": "und KI kennt das ganze Sortiment",
+      "website": "https://www.deutsche-startups.de/2026/11/12/homie-und-ki-kennt-das-ganze-sortiment/",
+      "key": "https://www.deutsche-startups.de/2026/11/12/homie-und-ki-kennt-das-ganze-sortiment",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-12T22:10:29.095925+00:00"
+    },
+    {
+      "name": "und Gründen soll endlich einfacher werden",
+      "website": "https://www.deutsche-startups.de/2026/11/12/eu-inc-und-gruenden-soll-endlich-einfacher-werden/",
+      "key": "https://www.deutsche-startups.de/2026/11/12/eu-inc-und-gruenden-soll-endlich-einfacher-werden",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-12T22:10:29.095949+00:00"
+    },
+    {
+      "name": "+++ seed+speed Ventures +++ FinTech +++ Noctua Science Ventures +++ Hypersonica +++ sennder +++",
+      "website": "https://www.deutsche-startups.de/2026/11/12/seedspeed-ventures-fintech-noctua-science-ventures-hypersonica-sennder/",
+      "key": "https://www.deutsche-startups.de/2026/11/12/seedspeed-ventures-fintech-noctua-science-ventures-hypersonica-sennder",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-12T22:10:29.095955+00:00"
+    },
+    {
+      "name": "cylib erhält erste Bankfinanzierung für industriellen Ausbau",
+      "website": "https://www.startbase.com/news/cylib-erhaelt-erste-bankfinanzierung-fuer-industriellen-ausbau/",
+      "key": "https://www.startbase.com/news/cylib-erhaelt-erste-bankfinanzierung-fuer-industriellen-ausbau",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-12T22:10:29.095959+00:00"
+    },
+    {
+      "name": "deepinvoice erhält 700.000 Euro für KI-gestützte medizinische Abrechnung",
+      "website": "https://www.startbase.com/news/deepinvoice-erhaelt-700-000-euro-fuer-ki-gestuetzte-medizinische-abrechnung/",
+      "key": "https://www.startbase.com/news/deepinvoice-erhaelt-700-000-euro-fuer-ki-gestuetzte-medizinische-abrechnung",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-12T22:10:29.095963+00:00"
+    },
+    {
+      "name": "SE3 holt sich 30 Millionen Dollar",
+      "website": "https://www.startbase.com/news/se3-holt-sich-30-millionen-dollar/",
+      "key": "https://www.startbase.com/news/se3-holt-sich-30-millionen-dollar",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-12T22:10:29.095966+00:00"
+    },
+    {
+      "name": "Deutscher Business Angels Tag 2026",
+      "website": "https://www.startbase.com/news/deutscher-business-angels-tag-2026/",
+      "key": "https://www.startbase.com/news/deutscher-business-angels-tag-2026",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-12T22:10:29.095970+00:00"
     }
   ],
-  "last_run": "2026-11-11T22:35:30.174691+00:00"
+  "last_run": "2026-11-12T22:10:29.096188+00:00"
 }
