@@ -352,6 +352,7 @@
     "https://www.businessinsider.de/gruenderszene/koralls-bei-dhdl-judith-williams-und-andreas-herb-wollten-gemeinsam-investieren-daraus-wurde-bislang-nichts",
     "https://www.businessinsider.de/gruenderszene/lena-gercke-investiert-in-dhdl-startup-gruender-peilen-millionenumsatz-an",
     "https://www.businessinsider.de/gruenderszene/lena-gercke-steigt-bei-hoehle-der-loewen-startup-ein",
+    "https://www.businessinsider.de/gruenderszene/liefer-apps-brauchen-ihre-supernutzer-wie-neue-daten-der-us-bundesbehoerden-zeigen",
     "https://www.businessinsider.de/gruenderszene/liliums-ende-hinter-den-kulissen-der-letzten-wochen-vom-flugtaxi-startup",
     "https://www.businessinsider.de/gruenderszene/liliums-teuerster-fehler-warum-wachstum-zum-problem-wurde",
     "https://www.businessinsider.de/gruenderszene/linkedin-ranking-2026-diese-20-startups-praegen-deutschlands-zukunft",
@@ -813,6 +814,7 @@
     "https://www.deutsche-startups.de/2026/11/13/die-agentur-falle-wenn-ki-das-saas-geschaeft-veraendert",
     "https://www.deutsche-startups.de/2026/11/13/gruendernamen-testen-fuenf-checks-bevor-marke-domain-und-social-media-handles-feststehen",
     "https://www.deutsche-startups.de/2026/11/13/jawbuddy-und-der-kampf-gegen-das-zaehneknirschen",
+    "https://www.deutsche-startups.de/2026/11/14/agile-robots-sennder-se3-labs-ratepay-redalpine-xentral",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/fehler-machen-gehoert-dazu-daruebersprechen-offenbar-nicht",
@@ -1138,6 +1140,7 @@
     "https://www.startbase.com/portraits/sona8-was-unternehmen-ueber-sich-selbst-nicht-wissen",
     "https://www.startbase.com/portraits/sonne-fuer-den-trailer-wie-movolta-die-kuehllogistik-elektrisiert",
     "https://www.startbase.com/portraits/startups-mit-ki-watchlist-oktober-26",
+    "https://www.startbase.com/portraits/toysreloved-wie-zwei-gruender-mit-ki-den-secondhand-markt-fuer-spielzeug-neu-erfinden",
     "https://www.startbase.com/portraits/vom-anziehungspunkt-zum-ankerpunkt-derunternehmertum-incubator-im-muenchnergruendungsnetzwerk",
     "https://www.startbase.com/portraits/vom-drohnenhobby-zur-digitalen-inspektionsplattform-wie-rk-droneview-energieanlagen-und-immobilien-im-blick-behaelt",
     "https://www.startbase.com/portraits/von-einer-halben-stunde-mittagspause-zur-dritten-eigenen-produktionskueche",
@@ -11538,7 +11541,31 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-11-13T21:53:29.863734+00:00"
+    },
+    {
+      "name": "Liefer-Apps brauchen ihre Supernutzer, wie neue Daten der US-Bundesbehörden zeigen",
+      "website": "https://www.businessinsider.de/gruenderszene/liefer-apps-brauchen-ihre-supernutzer-wie-neue-daten-der-us-bundesbehoerden-zeigen/",
+      "key": "https://www.businessinsider.de/gruenderszene/liefer-apps-brauchen-ihre-supernutzer-wie-neue-daten-der-us-bundesbehoerden-zeigen",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-11-14T20:33:51.547722+00:00"
+    },
+    {
+      "name": "+++ Agile Robots +++ sennder +++ SE3 Labs +++ Ratepay +++ Redalpine +++ Xentral +++",
+      "website": "https://www.deutsche-startups.de/2026/11/14/agile-robots-sennder-se3-labs-ratepay-redalpine-xentral/",
+      "key": "https://www.deutsche-startups.de/2026/11/14/agile-robots-sennder-se3-labs-ratepay-redalpine-xentral",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-14T20:33:51.547751+00:00"
+    },
+    {
+      "name": "ToysReloved: Wie zwei Gründer mit KI den Secondhand-Markt für Spielzeug neu erfinden",
+      "website": "https://www.startbase.com/portraits/toysreloved-wie-zwei-gruender-mit-ki-den-secondhand-markt-fuer-spielzeug-neu-erfinden/",
+      "key": "https://www.startbase.com/portraits/toysreloved-wie-zwei-gruender-mit-ki-den-secondhand-markt-fuer-spielzeug-neu-erfinden",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-14T20:33:51.547757+00:00"
     }
   ],
-  "last_run": "2026-11-13T21:53:29.863945+00:00"
+  "last_run": "2026-11-14T20:33:51.548044+00:00"
 }
