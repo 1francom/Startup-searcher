@@ -323,6 +323,7 @@
     "https://www.businessinsider.de/gruenderszene/irisgo-bei-dhdl-andreas-herb-schnappt-sich-den-007-thermobecher-deal",
     "https://www.businessinsider.de/gruenderszene/jared-leto-plante-75-millionen-dollar-fonds-vor-den-juengsten-vorwuerfen",
     "https://www.businessinsider.de/gruenderszene/jemand-richtete-eine-schusswaffe-auf-mich-queere-gruender-ueber-hass",
+    "https://www.businessinsider.de/gruenderszene/jensen-huang-beweist-es-amerikas-religion-ist-der-gruenderkult",
     "https://www.businessinsider.de/gruenderszene/job-motor-aus-bayern-reverion-raist-154-millionen-und-will-800-leute-in-einer-neuen-fabrik-einstellen",
     "https://www.businessinsider.de/gruenderszene/kann-das-tempo-nicht-mehr-mitgehen-ex-openai-managerin-zieht-reissleine",
     "https://www.businessinsider.de/gruenderszene/karriere-7-fuehrungsfehler-die-viele-chefs-machen-ohne-es-zu-merken",
@@ -815,6 +816,7 @@
     "https://www.deutsche-startups.de/2026/11/13/gruendernamen-testen-fuenf-checks-bevor-marke-domain-und-social-media-handles-feststehen",
     "https://www.deutsche-startups.de/2026/11/13/jawbuddy-und-der-kampf-gegen-das-zaehneknirschen",
     "https://www.deutsche-startups.de/2026/11/14/agile-robots-sennder-se3-labs-ratepay-redalpine-xentral",
+    "https://www.startbase.com/about/partner/sponsored/was-schenkt-man-einem-ceo-oder-vc-der-schon-alles-hat-vielleicht-eine-lokomotive",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
     "https://www.startbase.com/interviews/fehler-machen-gehoert-dazu-daruebersprechen-offenbar-nicht",
@@ -11565,7 +11567,23 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-11-14T20:33:51.547757+00:00"
+    },
+    {
+      "name": "Jensen Huang beweist es: Amerikas Religion ist der Gründerkult",
+      "website": "https://www.businessinsider.de/gruenderszene/jensen-huang-beweist-es-amerikas-religion-ist-der-gruenderkult/",
+      "key": "https://www.businessinsider.de/gruenderszene/jensen-huang-beweist-es-amerikas-religion-ist-der-gruenderkult",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-11-15T20:57:41.710497+00:00"
+    },
+    {
+      "name": "Was schenkt man einem CEO oder VC, der schon alles hat? Vielleicht eine Lokomotive.",
+      "website": "https://www.startbase.com/about/partner/sponsored/was-schenkt-man-einem-ceo-oder-vc-der-schon-alles-hat-vielleicht-eine-lokomotive/",
+      "key": "https://www.startbase.com/about/partner/sponsored/was-schenkt-man-einem-ceo-oder-vc-der-schon-alles-hat-vielleicht-eine-lokomotive",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-15T20:57:41.710517+00:00"
     }
   ],
-  "last_run": "2026-11-14T20:33:51.548044+00:00"
+  "last_run": "2026-11-15T20:57:41.710703+00:00"
 }
