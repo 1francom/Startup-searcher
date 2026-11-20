@@ -550,6 +550,7 @@
     "https://www.businessinsider.de/gruenderszene/wie-ein-linkedin-post-mir-1000-app-anmeldungen-brachte",
     "https://www.businessinsider.de/gruenderszene/wie-gewinnt-man-die-ersten-kunden-gruender-setzen-auf-einen-party-trick",
     "https://www.businessinsider.de/gruenderszene/wie-helsing-zum-groessten-ruestungs-startups-europas-wurde",
+    "https://www.businessinsider.de/gruenderszene/wie-startups-die-bundeswehr-voranbringen-sollen/t5czfrz",
     "https://www.businessinsider.de/gruenderszene/wir-machen-jungen-menschen-mehr-angst-vor-dem-gruenden-als-noetig",
     "https://www.businessinsider.de/gruenderszene/wir-pumpen-milliarden-in-ki-buden-aber-fuer-unsere-kinder-fehlt-das-geld",
     "https://www.businessinsider.de/gruenderszene/zweifel-an-liliums-versprechen-war-der-jet-physikalisch-ueberhaupt-moeglich",
@@ -839,6 +840,10 @@
     "https://www.deutsche-startups.de/2026/11/19/moin-group-und-ki-uebernimmt-den-papierkram",
     "https://www.deutsche-startups.de/2026/11/19/roll-ups-vcs-adesso-ventures-marble-imaging-nunc-deutsche-dienstrad",
     "https://www.deutsche-startups.de/2026/11/19/unter-druck-was-startups-vom-profisport-lernen-koennen",
+    "https://www.deutsche-startups.de/2026/11/20/das-erste-paket-zaehlt-was-startups-beim-onboarding-verschenken-und-was-sie-damit-sagen",
+    "https://www.deutsche-startups.de/2026/11/20/deine-idee-ist-nicht-heilig-erzaehle-allen-von-ihr",
+    "https://www.deutsche-startups.de/2026/11/20/resilienz-fuer-gruender-energie-statt-burnout-im-start-up",
+    "https://www.deutsche-startups.de/2026/11/20/state-of-european-tech-leon-goretzka-business-angels-cloudberry-ventures-autodoc",
     "https://www.startbase.com/about/partner/sponsored/was-schenkt-man-einem-ceo-oder-vc-der-schon-alles-hat-vielleicht-eine-lokomotive",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
@@ -1131,6 +1136,7 @@
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-44-2026",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-45-26",
     "https://www.startbase.com/news/startupnews-zum-wochenende-kw-46-2026",
+    "https://www.startbase.com/news/startupnews-zum-wochenende-kw-47-2026",
     "https://www.startbase.com/news/strollme-erhaelt-22-millionen-euro-fuer-den-ausbau-seines-kinderprodukte-abos",
     "https://www.startbase.com/news/supraleiter-startup-subra-sichert-sich-50-mio-euro-und-bayern-kapital-ist-dabei",
     "https://www.startbase.com/news/swegan-holt-sich-weitere-14-millionen-us-dollar",
@@ -12042,7 +12048,55 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-11-19T22:59:20.929621+00:00"
+    },
+    {
+      "name": "Wie Startups die Bundeswehr voranbringen sollen",
+      "website": "https://www.businessinsider.de/gruenderszene/wie-startups-die-bundeswehr-voranbringen-sollen/t5czfrz/",
+      "key": "https://www.businessinsider.de/gruenderszene/wie-startups-die-bundeswehr-voranbringen-sollen/t5czfrz",
+      "source": "Gründerszene",
+      "resolved": false,
+      "discovered_at": "2026-11-20T22:35:17.351701+00:00"
+    },
+    {
+      "name": "Resilienz für Gründer: Energie statt Burnout im Startup",
+      "website": "https://www.deutsche-startups.de/2026/11/20/resilienz-fuer-gruender-energie-statt-burnout-im-start-up/",
+      "key": "https://www.deutsche-startups.de/2026/11/20/resilienz-fuer-gruender-energie-statt-burnout-im-start-up",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-20T22:35:17.351727+00:00"
+    },
+    {
+      "name": "„Deine Idee ist nicht heilig, erzähle allen von ihr“",
+      "website": "https://www.deutsche-startups.de/2026/11/20/deine-idee-ist-nicht-heilig-erzaehle-allen-von-ihr/",
+      "key": "https://www.deutsche-startups.de/2026/11/20/deine-idee-ist-nicht-heilig-erzaehle-allen-von-ihr",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-20T22:35:17.351732+00:00"
+    },
+    {
+      "name": "Das erste Paket zählt: Was Startups beim Onboarding verschenken und was sie damit sagen",
+      "website": "https://www.deutsche-startups.de/2026/11/20/das-erste-paket-zaehlt-was-startups-beim-onboarding-verschenken-und-was-sie-damit-sagen/",
+      "key": "https://www.deutsche-startups.de/2026/11/20/das-erste-paket-zaehlt-was-startups-beim-onboarding-verschenken-und-was-sie-damit-sagen",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-20T22:35:17.351736+00:00"
+    },
+    {
+      "name": "+++ State of European Tech +++ Leon Goretzka +++ Business Angels +++ Cloudberry Ventures +++ Autodoc +++",
+      "website": "https://www.deutsche-startups.de/2026/11/20/state-of-european-tech-leon-goretzka-business-angels-cloudberry-ventures-autodoc/",
+      "key": "https://www.deutsche-startups.de/2026/11/20/state-of-european-tech-leon-goretzka-business-angels-cloudberry-ventures-autodoc",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-20T22:35:17.351739+00:00"
+    },
+    {
+      "name": "Startupnews zum Wochenende KW 47/2026",
+      "website": "https://www.startbase.com/news/startupnews-zum-wochenende-kw-47-2026/",
+      "key": "https://www.startbase.com/news/startupnews-zum-wochenende-kw-47-2026",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-20T22:35:17.351743+00:00"
     }
   ],
-  "last_run": "2026-11-19T22:59:20.929948+00:00"
+  "last_run": "2026-11-20T22:35:17.351965+00:00"
 }
