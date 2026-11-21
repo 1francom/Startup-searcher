@@ -844,6 +844,7 @@
     "https://www.deutsche-startups.de/2026/11/20/deine-idee-ist-nicht-heilig-erzaehle-allen-von-ihr",
     "https://www.deutsche-startups.de/2026/11/20/resilienz-fuer-gruender-energie-statt-burnout-im-start-up",
     "https://www.deutsche-startups.de/2026/11/20/state-of-european-tech-leon-goretzka-business-angels-cloudberry-ventures-autodoc",
+    "https://www.deutsche-startups.de/2026/11/21/wochenrueckblick-47-2026",
     "https://www.startbase.com/about/partner/sponsored/was-schenkt-man-einem-ceo-oder-vc-der-schon-alles-hat-vielleicht-eine-lokomotive",
     "https://www.startbase.com/interviews/bin-ein-investorennetzwerk-fuer-die-naechste-unternehmensgeneration-brandenburgs",
     "https://www.startbase.com/interviews/brandenburg-muss-berlin-nicht-kopieren",
@@ -1184,6 +1185,7 @@
     "https://www.startbase.com/portraits/connect-learn-grow-wie-femella-die-women-oftomorrow-miteinander-verbindet",
     "https://www.startbase.com/portraits/evorimo-automatisiert-den-immobilienverkauf-ohnemakler",
     "https://www.startbase.com/portraits/from-classroom-to-cap-table-howinnovis-vc-is-shaping-munichs-nextgeneration-of-venture-capital",
+    "https://www.startbase.com/portraits/lumalod-wenn-die-kamera-weiss-welches-foto-noch-fehlt",
     "https://www.startbase.com/portraits/mut-braucht-einen-ort-wie-das-young-founders-network-aus-ideen-startups-macht",
     "https://www.startbase.com/portraits/nicht-nur-studieren-machen-warumgestalten-studierende-ueberhauptgruendungsinitiativen",
     "https://www.startbase.com/portraits/politik-trifft-studentische-gruendungsinitiativen-wie-staerkt-bayern-die-naechste-gruendergeneration",
@@ -12096,7 +12098,23 @@
       "source": "Startbase",
       "resolved": false,
       "discovered_at": "2026-11-20T22:35:17.351743+00:00"
+    },
+    {
+      "name": "+++ Bees & Bears +++ Deutsche Dienstrad +++ DcubeD +++ Black Forest Games +++ adesso Ventures +++",
+      "website": "https://www.deutsche-startups.de/2026/11/21/wochenrueckblick-47-2026/",
+      "key": "https://www.deutsche-startups.de/2026/11/21/wochenrueckblick-47-2026",
+      "source": "deutsche-startups.de",
+      "resolved": false,
+      "discovered_at": "2026-11-21T21:33:50.808302+00:00"
+    },
+    {
+      "name": "Lumalod: Wenn die Kamera weiß, welches Foto noch fehlt",
+      "website": "https://www.startbase.com/portraits/lumalod-wenn-die-kamera-weiss-welches-foto-noch-fehlt/",
+      "key": "https://www.startbase.com/portraits/lumalod-wenn-die-kamera-weiss-welches-foto-noch-fehlt",
+      "source": "Startbase",
+      "resolved": false,
+      "discovered_at": "2026-11-21T21:33:50.808325+00:00"
     }
   ],
-  "last_run": "2026-11-20T22:35:17.351965+00:00"
+  "last_run": "2026-11-21T21:33:50.808512+00:00"
 }
